@@ -1,0 +1,9 @@
+select *  from  ((select tbl_requests.cargo_id, cargo_name_fa_IR,cargo_name_en_US,cargo_name_tr_Tr,cargo_name_ru_RU, cargo_start_date, request_status, request_price  , request_date , 'out' as request_type
+            from tbl_requests
+            inner join tbl_cargo on tbl_requests.cargo_id = tbl_cargo.cargo_id 
+                   where tbl_requests.user_id = 813)
+                      UNION ALL (select tbl_requests_in.cargo_id, cargo_name_fa_IR,cargo_name_en_US,cargo_name_tr_Tr,cargo_name_ru_RU, cargo_start_date, request_status, request_price , request_date, 'in' as request_type
+            from tbl_requests_in
+            inner join tbl_cargo_in on tbl_requests_in.cargo_id = tbl_cargo_in.cargo_id 
+            where tbl_requests_in.user_id = 813 )
+                     )  as temp_table  order by request_date  desc  limit 1000 

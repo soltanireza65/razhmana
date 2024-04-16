@@ -1,0 +1,161 @@
+
+.mj-sad-activities-tabs-ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-wrap: unset !important;
+    justify-content: center !important;
+}
+
+.mj-sad-activities-tabs-item{
+    font-size: 10px !important;
+
+}
+
+.mj-sad-activities-tabs-btn{
+    background: #EEEEEE !important;
+    border-radius: 10px 10px 0 0 !important;
+    border-bottom: 1px solid #C5C5C5 !important;
+    color: #797979 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+    width: 100%;
+    padding: 3px;
+}
+
+.mj-sad-activities-tabs-btn.active{
+    color: var(--primary) !important;
+    background: #C8E7FF !important;
+    border-bottom: 2px solid var(--primary) !important;
+}
+
+.mj-sad-activities-tabs-btn.active .mj-sad-activities-tab-item-numbers{
+    background: var(--primary);
+}
+
+.mj-sad-activities-tab-item-numbers{
+    padding: 2px 3px 1px;
+    background: #797979;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mj-sad-activities-tab-myActivities-item a{
+    position: absolute;
+    width: 100%;
+    background: transparent;
+    right: 0;
+    top: 0;
+    height: 100%;
+    z-index: 999999;
+}
+.mj-sad-activities-tab-personal-item
+,.mj-sad-activities-tab-offer-item
+,.mj-sad-activities-tab-myActivities-item
+,.mj-sad-activities-tab-notice-item{
+    background: #F9F9F9;
+    border: 1px solid #F3EEFF;
+    border-radius: 15px 5px 5px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-block: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    color: #303030;
+    position: relative;
+}
+
+.tab-content{
+    padding-inline: 10px !important;
+    padding-block: unset !important;
+}
+.mj-sad-activities-tab-personal-item:before
+,.mj-sad-activities-tab-offer-item:before
+,.mj-sad-activities-tab-myActivities-item:before
+{
+    content: '';
+    position: absolute;
+    right: 0;
+    width: 12px;
+    height: 49px;
+    border-radius: 10px 3px 3px 10px;
+    background: var(--primary);
+}
+
+.mj-sad-activities-tab-read-item:before{
+    background: #9A9A9A;
+}
+
+.mj-sad-activities-tab-myActivities-item .mj-sad-activities-tab-all-item-info-2{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-self: flex-end;
+}
+.mj-sad-activities-tab-myActivities-item .mj-sad-activities-tab-all-item-info-1-bottom{
+    color: #7C7C7C;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.mj-sad-activities-tab-all-item-info-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 20px;
+    gap: 3px;
+}
+
+.mj-sad-activities-tab-all-item-info-1-bottom{
+    display: flex;
+    gap: 5px;
+}
+
+.mj-sad-activities-tab-all-item-info-2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.mj-sad-activities-tab-all-item-info-2-top{
+    display: flex;
+    gap: 3px;
+    align-self: flex-end;
+}
+
+.mj-sad-activities-tab-message-notFound-div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-block: 20px;
+}
+
+.mj-sad-activities-tab-message-notFound-img-div{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+    overflow: hidden;
+    margin-bottom: 15px;
+    border-radius: 61px;
+}
+.mj-sad-activities-tab-message-notFound-img-div img{
+    object-fit: cover;
+}
+
+.mj-sad-activities-tab-message-notFound-div span{
+    font-weight: 400;
+    font-size: 15px;
+    color: #303030;
+}

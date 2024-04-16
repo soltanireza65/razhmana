@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>TITLE</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <style>
+        * {
+            font-family: 'montserrat', sans-serif;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .page {
+            background: #f1f1f1;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .col {
+            flex: 1;
+            height: 100vh;
+            position: relative;
+        }
+
+        .countdown-col {
+            /*background: url(https://fadzrinmadu.github.io/hosted-assets/responsive-coming-soon-page-with-awesome-newsletter-html-css-and-js/bg.png) no-repeat center;*/
+            background: url(https://colorlib.com/etc/cs/comingsoon_01/images/bg01.jpg) no-repeat center;
+            background-size: cover;
+        }
+
+        .time {
+            color: #fff;
+            text-transform: uppercase;
+            width: 90%;
+            display: flex;
+            justify-content: center;
+        }
+
+        .middle {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .time span {
+            padding: 0 14px;
+            font-size: 10px;
+        }
+
+        .time span div {
+            font-size: 40px;
+        }
+
+        .newslatter {
+            width: 90%;
+        }
+
+        .newslatter h4 {
+            font-style: italic;
+            font-size: 12px;
+        }
+
+        .newslatter input, .newslatter button {
+            display: block;
+            margin: 12px auto;
+            width: 100%;
+            max-width: 400px;
+            box-sizing: border-box;
+            padding: 14px 20px;
+            border-radius: 30px;
+            border: 1px solid #ddd;
+            outline: none;
+        }
+
+        .newslatter-button {
+            background: linear-gradient(125deg, #3498db, #34495e);
+            color: #fff;
+            cursor: pointer;
+            transition: 0.4s;
+        }
+
+        .newslatter-button:hover {
+            opacity: 0.7;
+        }
+
+
+        @media screen and (max-width: 900px) {
+            .col {
+                flex: 100%;
+            }
+        }
+
+
+        .svg-computer {
+            stroke-dasharray: 1134;
+            stroke-dashoffset: -1134;
+            -webkit-animation: draw-me 5s infinite;
+            animation: draw-me 5s infinite;
+            -webkit-animation-direction: normal;
+            animation-direction: normal;
+            height: 160px
+        }
+
+        @-webkit-keyframes draw-me {
+            from {
+                stroke-dashoffset: -1134
+            }
+            to {
+                stroke-dashoffset: 0
+            }
+        }
+
+        @keyframes draw-me {
+            from {
+                stroke-dashoffset: -1134
+            }
+            to {
+                stroke-dashoffset: 0
+            }
+        }
+
+        @media screen and (-ms-high-contrast: active),(-ms-high-contrast: none) {
+            .svg-computer {
+                stroke-dasharray: 0;
+                stroke-dashoffset: 0;
+                -webkit-animation: none;
+                animation: none;
+                -webkit-animation-direction: normal;
+                animation-direction: normal
+            }
+        }
+    </style>
+<body>
+<div class="page">
+
+    <div class="countdown-col col">
+        <p style="text-align: center;" class="middle">
+            <svg style="height: 100px;    animation: draw-me 5s infinite;
+    -webkit-animation-direction: normal;
+    animation-direction: normal;
+padding-bottom: 300px;" id="Layer_1" class="svg-computer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 424.2 424.2">
+                <style>
+                    .st0 {
+                        fill: none;
+                        stroke: #ffffff;
+                        stroke-width: 5;
+                        stroke-linecap: round;
+                        stroke-linejoin: round;
+                        stroke-miterlimit: 10;
+                    }
+                </style>
+                <g id="Layer_2">
+                    <path class="st0"
+                          d="M339.7 289h-323c-2.8 0-5-2.2-5-5V55.5c0-2.8 2.2-5 5-5h323c2.8 0 5 2.2 5 5V284c0 2.7-2.2 5-5 5z"></path>
+                    <path class="st0"
+                          d="M26.1 64.9h304.6v189.6H26.1zM137.9 288.5l-3.2 33.5h92.6l-4.4-33M56.1 332.6h244.5l24.3 41.1H34.5zM340.7 373.7s-.6-29.8 35.9-30.2c36.5-.4 35.9 30.2 35.9 30.2h-71.8z"></path>
+                    <path class="st0" d="M114.2 82.8v153.3h147V82.8zM261.2 91.1h-147"></path>
+                    <path class="st0"
+                          d="M124.5 105.7h61.8v38.7h-61.8zM196.6 170.2H249v51.7h-52.4zM196.6 105.7H249M196.6 118.6H249M196.6 131.5H249M196.6 144.4H249M124.5 157.3H249M124.5 170.2h62.2M124.5 183.2h62.2M124.5 196.1h62.2M124.5 209h62.2M124.5 221.9h62.2"></path>
+                </g>
+            </svg>
+        </p>
+        <div class="time middle">
+
+            <span><div id="days"></div> Days</span>
+            <span><div id="hours"></div> Hours</span>
+            <span><div id="minutes"></div> Minutes</span>
+            <span><div id="seconds"></div> Seconds</span>
+        </div>
+    </div>
+    <!--    <div class="newsletter-col col">
+            <div class="newslatter middle">
+
+                <h2>We Will Coming Soon</h2>
+    &lt;!&ndash;            <h4>Subscribe to get notification when we start</h4>&ndash;&gt;
+    &lt;!&ndash;            <form>&ndash;&gt;
+    &lt;!&ndash;                <input type="text" placeholder="Enter Your Email"/>&ndash;&gt;
+    &lt;!&ndash;                <button type="button" class="newslatter-button">Subscribe</button>&ndash;&gt;
+    &lt;!&ndash;            </form>&ndash;&gt;
+            </div>
+        </div>-->
+</div>
+<script>
+    let comingDate = new Date('Feb 8, 2023 13:12:00')
+    console.log(comingDate)
+    let d = document.getElementById('days')
+    let h = document.getElementById('hours')
+    let m = document.getElementById('minutes')
+    let s = document.getElementById('seconds')
+
+    let x = setInterval(function () {
+        let now = new Date()
+        // let selisih = comingDate.getTime() - now.getTime()
+        let selisih = 1677919220000 - now.getTime()
+        // let selisih = 2068849953
+        console.log(selisih)
+        let days = Math.floor(selisih / (1000 * 60 * 60 * 24))
+        let hours = Math.floor(selisih % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
+        let minutes = Math.floor(selisih % (1000 * 60 * 60) / (1000 * 60))
+        let seconds = Math.floor(selisih % (1000 * 60) / 1000)
+
+        d.innerHTML = getTrueNumber(days)
+        h.innerHTML = getTrueNumber(hours)
+        m.innerHTML = getTrueNumber(minutes)
+        s.innerHTML = getTrueNumber(seconds)
+
+        if (selisih < 0) {
+            clearInterval(x)
+            d.innerHTML = '00'
+            h.innerHTML = '00'
+            m.innerHTML = '00'
+            s.innerHTML = '00'
+        }
+    }, 1000)
+
+    function getTrueNumber(x) {
+        if (x < 10) return '0' + x
+        else return x
+    }
+</script>
+</body>
+</html>

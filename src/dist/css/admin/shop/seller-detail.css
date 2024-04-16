@@ -1,0 +1,135 @@
+
+.mj-seller-type-date-card {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.mj-seller-type-card {
+
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.mj-seller-date-card {
+
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+
+
+.mj-seller-date-card span {
+    font-size: 14px;
+    color: #303030;
+}
+
+.mj-seller-type-card span {
+    font-size: 14px;
+    color: #303030;
+}
+
+.mj-seller-date-card div {
+    font-size: 17px;
+    color: #303030;
+}
+
+.mj-seller-type {
+    background: #D9D9D9;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff !important;
+}
+
+.mj-seller-type.hagigi {
+    background: #095b88 !important;
+}
+
+.mj-seller-type.hogogi {
+    background: #840988 !important;
+}
+
+.mj-seller-info-item {
+    position: relative;
+    width: 32%;
+}
+#address-item{
+    width: 60% !important;
+}
+
+.mj-seller-info-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 20px;
+    row-gap: 25px;
+}
+
+.mj-seller-info-item-title {
+    position: absolute;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-size: 13px;
+    color: #ffffff;
+    background: #0a58ca;
+    top: -18px;
+    right: 5px;
+}
+
+.mj-seller-info-item-value {
+    background: #ebebeb;
+    border: 1px solid #b4b4b4;
+    font-size: 16px;
+    padding: 10px 20px 10px 10px;
+    border-radius: 15px;
+    color: #303030;
+    transition: all 300ms ease-out;
+}
+
+.mj-seller-info-item-value:hover {
+    background: #d2e2ff !important;
+    border: 1px solid #0a58ca !important;
+    font-size: 16px;
+    padding: 10px 20px 10px 10px;
+    border-radius: 15px;
+    color: #303030;
+    transition: all 300ms ease-in;
+}
+.mj-seller-images-card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.mj-seller-images a{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+.mj-seller-images img{
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .mj-seller-info-card {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding-top: 20px;
+        row-gap: 25px;
+    }
+    .mj-seller-info-item {
+        position: relative;
+        width: 100%;
+    }
+    #address-item{
+        width: 100% !important;
+    }
+}

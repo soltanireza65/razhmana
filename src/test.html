@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Auto-Read SMS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+     .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+input[type="text"] {
+  width: 100%;
+  height: 3rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+ </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Auto-Read SMS</h1>
+    <input type="text" id="sms-input-field" placeholder="SMS will appear here">
+  </div>
+    <script>// request permission to access SMS
+ 
+// used AbortController with setTimeout so that WebOTP API (Autoread sms) will get disabled after 1min
+ const signal = new AbortController();
+ setTimeout(() => {
+   signal.abort();
+ }, 1 * 60 * 1000);
+ async function main() {
+   if ('OTPCredential' in window) {
+      try {
+         if (navigator.credentials) {
+            try {
+               await navigator.credentials
+               .get({ abort: signal, otp:{ transport: ['sms']}})
+               .then(content => {
+                 if (content && content.code) {
+                   cb(content.code);
+                 }
+               })
+               .catch(e => document.write(e));
+            } 
+            catch (e) {
+              return;
+            }
+         }
+      } 
+      catch (err) {
+          document.write(err)
+        
+      }
+    }
+ 
+}
+</script>
+</body>
+</html>

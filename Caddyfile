@@ -1,0 +1,10 @@
+{
+    email admin@razhmana.com
+}
+
+dev.razhmana.com {
+    reverse_proxy web:80
+    header {
+		Strict-Transport-Security max-age=31536000;
+	}
+}

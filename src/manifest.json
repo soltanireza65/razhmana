@@ -1,0 +1,43 @@
+{
+  "short_name": "nTirApp",
+  "name": "nTirApp",
+  "icons": [
+    {
+      "src": "https://ntirapp.com/uploads/site/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ntirapp.com/uploads/site/180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ntirapp.com/uploads/site/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ntirapp.com/uploads/site/384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ntirapp.com/uploads/site/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#F8F8F8",
+  "display": "standalone",
+  "scope": "/",
+  "scope_url": "/",
+  "start_url": "/",
+  "intent_filters": {
+    "scope_url_scheme": "https",
+    "scope_url_host": "ntirapp.com",
+    "scope_url_path": "/"
+  },
+  "orientation": "portrait",
+  "theme_color": "#FFFFFF"
+}

@@ -1,0 +1,395 @@
+
+.mj-sad-exchange-alert-sec {
+    padding: 15px 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #303030;
+    font-weight: 500;
+    font-size: 10px;
+    gap: 5px;
+
+}
+
+.mj-sad-exchange-alert-sec span {
+    color: #EC3939;
+}
+
+.mj-sad-currency-section, .mj-sad-currency-body, .mj-sad-remittance-from-section, .mj-sad-remittance-from-body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.mj-sad-currency-header, .mj-sad-remittance-from-header {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    padding: 15px;
+    background: var(--primary);
+    box-shadow: 0 1px 7px rgba(48, 45, 79, 0.12);
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+
+.mj-sad-currency-header span, .mj-sad-remittance-from-header div {
+    text-align: center;
+}
+
+.mj-sad-currency-item, .mj-sad-remittance-from-item {
+    width: 100%;
+    display: flex;
+    gap: 3px;
+}
+
+.mj-sad-currency-item-title {
+    width: 40%;
+    padding: 10px 10px;
+    color: #303030;
+    background: #F0EEFF;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.mj-sad-currency-item-buy {
+    width: 30%;
+    padding: 10px 10px;
+    color: #303030;
+    background: #F0EEFF;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+}
+
+.mj-sad-currency-item-sell {
+    width: 30%;
+    padding: 10px 10px;
+    color: #303030;
+    background: #F0EEFF;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+}
+
+.mj-sad-currency-item-title {
+    text-align: right !important;
+}
+
+.mj-sad-currency-item-buy-btn button {
+    background: #0a7941;
+    border-radius: 10px;
+
+    margin-top: 10px;
+    width: 100%;
+    padding-block: 5px;
+    color: #fff !important;
+    border: unset !important;
+    outline: unset !important;
+}
+
+.mj-sad-currency-item-sell-btn button {
+    background: #EC3939;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 100%;
+    padding-block: 5px;
+    color: #fff !important;
+    border: unset !important;
+    outline: unset !important;
+}
+
+
+.mj-sad-currency-item .mj-sad-currency-item-title:before, .mj-sad-remittance-from-item .mj-sad-currency-item-title:before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    background: #303030;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.mj-sad-currency-item:nth-child(even) div, .mj-sad-remittance-from-item:nth-child(even) div {
+    background: #D3CFFF;
+}
+
+.mj-sad-exchange-poster-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.mj-sad-exchange-poster-a {
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+    margin-block: 20px;
+}
+
+.mj-sad-exchange-poster-a img {
+    width: 100%;
+}
+
+.mj-sad-remittance-from-header-info-1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.mj-currency-select2 span:nth-child(2){
+    font-weight: bold;
+    font-size: 18px;
+}
+.mj-currency-quantity-input input{
+    background: #f1f1f1;
+    padding: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-block: 10px;
+    border-radius: 10px;
+    border: 1px solid #adadad;
+    outline: unset !important;
+    width: 100%;
+    margin-top: 20px;
+    text-align: right;
+    direction: rtl;
+
+}
+.mj-sad-remittance-from-header-info-2, .mj-sad-remittance-from-header-info-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    padding-right: 15px;
+}
+
+.mj-sad-remittance-from-header-info-1 div {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.mj-sad-remittance-from-header-info-1 div img {
+    width: 100%;
+
+}
+
+.mj-sad-remittance-from-header-info-2 div, .mj-sad-remittance-from-header-info-3 div {
+    font-family: FontAwesome !important;
+    color: rgba(255, 255, 255, 0.23);
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.mj-buy-sell-modal .nav-tabs {
+    width: 100% !important;
+    border-bottom: unset !important;
+}
+
+.mj-buy-sell-modal .nav-tabs .nav-item {
+    width: 50% !important;
+}
+
+.mj-buy-sell-modal .nav-tabs .nav-item .nav-link {
+    width: 100% !important;
+    background: #d9d9d9;
+    color: #303030 !important;
+}
+
+.mj-buy-sell-modal .nav-tabs .nav-item .mj-buy-tab-link {
+    width: 100% !important;
+    background: #d5ffc5;
+    color: #303030 !important;
+}
+
+.mj-buy-sell-modal .nav-tabs .nav-item .mj-sell-tab-link {
+    width: 100% !important;
+    background: #ffc0c0;
+    color: #303030 !important;
+}
+
+.mj-buy-sell-modal .nav-tabs .nav-item .mj-buy-tab-link.active {
+
+    font-weight: bold;
+    font-size: 15px;
+    background: #207205;
+    color: #fff !important;
+}
+
+.mj-buy-sell-modal .nav-tabs .nav-item .mj-sell-tab-link.active {
+    background: #cc0f0f;
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 15px;
+
+
+}
+
+
+.mj-select2 {
+    width: 100%;
+}
+
+.mj-buy-sell-modal .tab-content {
+    padding: 10px;
+}
+
+.mj-select2 .select2-container {
+    width: 100% !important;
+}
+
+.mj-select2 > div {
+    background-color: #F4F4F4;
+    border: 1px solid #F4F4F4;
+    border-radius: 4px;
+}
+
+.mj-select2 .select2-container--default .select2-selection--single {
+    background-color: #F4F4F4;
+    border: 1px solid #989898;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.mj-select2 .select2-selection--single {
+    height: 50px;
+}
+
+.mj-select2 .select2-selection--single .select2-selection__rendered {
+    height: 50px;
+    display: flex !important;
+    align-items: center;
+
+}
+
+.mj-select2 .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 50px;
+}
+
+.mj-select2 .select2-selection__arrow b {
+    display: none;
+}
+
+.mj-select2 .select2-selection__arrow:after {
+
+    font-family: "Font Awesome 5 Free";
+    content: "";
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    background-image: url("/dist/images/poster/caret-left.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 12px;
+    height: 50px;
+    opacity: 0.7;
+    transform: translateY(-50%);
+}
+
+.mj-select2 .select2-dropdown {
+    border-color: #c7e6ff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.mj-trade-currency-btn {
+    width: 100%;
+    background: var(--primary);
+    border-radius: 10px;
+    color: #fff !important;
+    padding-block: 10px !important;
+}
+/*.mj-trade-currency-btn.buy {*/
+/*    width: 100%;*/
+/*    background: #0a7941 !important;*/
+/*    border-radius: 10px;*/
+/*    color: #fff !important;*/
+/*    padding-block: 10px !important;*/
+/*}*/
+/*.mj-trade-currency-btn.sell {*/
+/*    width: 100%;*/
+/*    background: #cc0f0f !important;*/
+/*    border-radius: 10px;*/
+/*    color: #fff !important;*/
+/*    padding-block: 10px !important;*/
+/*}*/
+
+.mj-currency-price {
+    background: #f1f1f1;
+    padding: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-block: 10px;
+    border-radius: 10px;
+    border: 1px solid #0a7941 !important;
+}
+
+.mj-currency-price.buy {
+    background: #ccffe4;
+    border: 1px solid #0a7941 !important;
+}
+
+.mj-currency-price.sell {
+    background: #ffeeee;
+    border: 1px solid #cc0f0f !important;
+}
+#l-player{
+    width: 170px;
+    display: block;
+    margin-inline: auto;
+}
+
+.mj-buy-result-box{
+    background: #d8e7ff;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.mj-buy-result-box {
+    background: #d8e7ff;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.mj-sell-result-box {
+    background: #d8e7ff;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.mj-buy-result-box #result-buy , .mj-sell-result-box #result-sell  {
+    font-size: 16px !important;
+    font-weight: bold  !important;
+}

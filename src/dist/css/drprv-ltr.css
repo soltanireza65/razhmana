@@ -1,0 +1,566 @@
+root {
+    --primary: #0f8fce;
+}
+
+/*main {*/
+/*    padding-top: unset !important;*/
+/*    padding-bottom: 70px !important;*/
+
+/*}*/
+
+body {
+    background: #1e1e1e !important;
+}
+
+.mj-header-tabs {
+    display: none !important;
+}
+
+.mj-app-header {
+    box-shadow: unset !important;
+    background: unset !important;
+}
+
+.mj-wallet a[href^="/login"] {
+    display: none !important;
+}
+
+a[href^="/user/contact-us"] {
+    display: none !important;
+}
+
+.mj-app-notification {
+    display: none !important;
+}
+
+.mj-wallet-header-icon {
+    display: none !important;
+}
+
+.mj-header-logo {
+    display: none !important;
+}
+
+.mj-links-main {
+    padding-top: 50px !important;
+    padding-bottom: 100px !important;
+
+}
+
+.mj-backbtn-background {
+    display: none;
+}
+
+/*-------------------------------------------------*/
+@media screen and (max-width: 992px) {
+    main {
+        padding-top: unset !important;
+        padding-bottom: 70px !important;
+
+    }
+
+    .screen {
+        display: none !important;
+    }
+
+    .mobile {
+        display: block;
+    }
+
+    .mobile .mj-doctor-header-image {
+        width: 100%;
+        background: linear-gradient(180deg, rgba(184, 33, 255, 0.3) 0%, #B821FF 100%);
+        height: 250px;
+        border-radius: 0 0 50% 50%;
+        position: relative;
+        overflow: hidden;
+        filter: drop-shadow(0 3px 20px rgba(184, 33, 255, 0.3));
+        animation: 1s ease-out 300ms 1 opacity forwards;
+        opacity: 0;
+    }
+
+    .mobile .mj-doctor-header-image img {
+        width: 250px;
+        position: absolute;
+        bottom: 0;
+        right: 50%;
+        transform: translateX(50%);
+
+    }
+
+    .mobile .doctor-odd {
+        animation: 1s ease-out 600ms 1 left forwards;
+        transform: translateX(-110%);
+    }
+
+    .mobile .doctor-even {
+        transform: translateX(110%);
+        animation: 1s ease-out 600ms 1 right forwards;
+    }
+
+    .mobile .mj-doctor-name-card {
+        text-align: center;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        scale: 1;
+
+        width: 300px;
+        height: 66px;
+        left: 50%;
+
+    }
+
+    .mobile .mj-doctor-name-card span:nth-child(1) {
+        color: #fff !important;
+        font-size: 25px;
+        position: absolute;
+        right: unset !important;
+        left: 16px !important;
+        top: 17px !important;
+        animation: 1s ease-out 500ms 1 right forwards;
+    }
+
+    .mobile .mj-doctor-name-card span:nth-child(2) {
+
+        left: unset !important;
+        color: #fff !important;
+        font-size: 43px;
+        font-weight: bold;
+        position: absolute;
+        right: 100px !important;
+        animation: 1s ease-out 500ms 1 right forwards;
+    }
+
+    .mobile .mj-doctor-name-card span:nth-child(3) {
+        color: #b721ff !important;
+        font-size: 43px;
+        font-weight: bold;
+        position: absolute;
+        bottom: -38px;
+        left: unset !important;
+        right: 0px !important;
+        animation: 1s ease-out 500ms 1 left forwards;
+    }
+
+    .mobile .mj-doctor-contact-us-card {
+        display: grid;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        justify-items: center;
+        margin-top: 120px;
+        padding-inline: 30px;
+    }
+
+    .mobile .mj-doctor-contact-item {
+        text-decoration: none !important;
+        color: #fff !important;
+        width: 100%;
+        position: relative;
+        margin-top: 10px;
+
+    }
+
+    .mobile .mj-doctor-contact-item-title {
+        font-weight: 200;
+        font-family: Rubik !important;
+        position: absolute;
+        z-index: 1;
+        top: -15px;
+        right: unset !important;
+        left: 14px;
+    }
+
+    .mobile .icon-brand {
+        font-family: "Font Awesome 6 Brands" !important;
+        font-weight: unset !important;
+    }
+
+    .mobile .mj-doctor-contact-item-info {
+        z-index: 2;
+        position: relative;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        border-radius: 12px;
+        background: rgba(0, 0, 0, 0.51);
+        backdrop-filter: blur(2px);
+        padding: 10px 15px 10px 10px;
+
+    }
+
+    .mobile .mj-doctor-contact-item-info .icon {
+        font-weight: bold;
+        font-size: 20px;
+
+    }
+
+    .mobile .mj-doctor-contact-item-detail {
+        direction: ltr;
+        font-family: rubik !important;
+        font-weight: 200;
+        letter-spacing: 1px;
+    }
+
+    .mobile .mj-projects-carousel {
+        margin-top: 7px;
+        background: #0e0e0e70;
+        margin-inline: 15px;
+        border-radius: 15px;
+        padding: 5px 15px !important;
+        position: relative;
+        backdrop-filter: blur(5px);
+    }
+
+    .mobile .mj-carousel-object1 {
+        height: 60px;
+        width: 20px;
+        background: #b721ff;
+        border-radius: 20px;
+        position: absolute;
+        top: 60%;
+        transform: translateY(-50%);
+        right: 7px;
+    }
+
+    .mobile .mj-carousel-object2 {
+        height: 60px;
+        width: 20px;
+        background: #b721ff;
+        border-radius: 20px;
+        position: absolute;
+        top: 60%;
+        transform: translateY(-50%);
+        left: 7px;
+
+    }
+
+    .mobile .mj-projects-carousel .project-swiper {
+
+    }
+
+    .mobile .mj-projects-carousel .swiper-slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ffffff;
+        height: auto;
+        aspect-ratio: 1/1;
+
+    }
+
+    .mobile .mj-projects-carousel .swiper-slide img {
+        width: 60px;
+        aspect-ratio: 1/1;
+        object-fit: contain;
+    }
+
+    .mobile .mj-doctor-projects-carousel-title {
+        color: #fff !important;
+        text-align: center;
+        margin-top: 20px;
+
+
+    }
+
+    .mobile .mj-doctor-projects-carousel {
+        position: relative;
+        animation: 1s ease-out 800ms 1 up forwards;
+        transform: translateY(130%);
+    }
+
+}
+
+
+@media screen and (min-width: 993px) {
+    main {
+        padding-top: unset !important;
+        padding-bottom: unset !important;
+
+    }
+
+    .mobile {
+        display: none !important;
+    }
+
+    .screen {
+        position: relative;
+
+    }
+
+    .screen .mj-doctor-round-bg {
+        width: 40%;
+        background: linear-gradient(180deg, rgba(184, 33, 255, 0.0) 0%, rgba(184, 33, 255, 0.29) 100%);
+        height: 80%;
+        border-radius: 0 100% 0px 0;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        overflow: hidden;
+        filter: drop-shadow(0 3px 20px rgba(184, 33, 255, 0.3));
+        animation: 1s ease-out 300ms 1 opacity forwards;
+        opacity: 0;
+    }
+
+    .screen .mj-doctor-header-image {
+        width: 40%;
+        height: auto;
+        position: fixed;
+        bottom: -15px;
+        right: unset !important;
+        left: -59px;
+        opacity: 0;
+        animation: 1s ease-out 500ms 1 opacity forwards;
+
+    }
+
+    .screen .doctor-odd2 {
+        animation: 1s ease-out 600ms 1 left forwards;
+        transform: translateX(-110%);
+    }
+
+    .screen .doctor-even2 {
+        transform: translateX(110%);
+        animation: 1s ease-out 600ms 1 right forwards;
+    }
+
+    .screen .mj-doctor-name-card {
+        text-align: center;
+        position: relative;
+        top: 117px;
+        display: inline-block;
+        left: 38%;
+        scale: 0;
+        animation: 1s ease-out 800ms 1 scale forwards;
+    }
+
+    .screen .mj-doctor-name-card span:nth-child(1) {
+        color: #fff !important;
+        font-size: 25px;
+        position: relative;
+        right: unset !important;
+        left: -50px !important;
+        top: unset !important;
+    }
+
+    .screen .mj-doctor-name-card span:nth-child(2) {
+
+        left: unset !important;
+        color: #fff !important;
+        font-size: 71px;
+        font-weight: bold;
+        position: relative;
+        right: 40px !important;
+    }
+
+    .screen .mj-doctor-name-card span:nth-child(3) {
+        color: #b721ff !important;
+        font-size: 71px;
+        font-weight: bold;
+        position: absolute;
+        bottom: -64px;
+        left: 25px !important;
+        right: unset;
+    }
+
+    .screen .mj-doctor-contact-us-card {
+        display: grid;
+        gap: 16px;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+        margin-top: 45px;
+        padding-inline: 30px;
+        width: 40%;
+        position: relative;
+        left: 40%;
+        top: 198px;
+        scale: 0;
+        animation: 1s ease-out 1090ms 1 scale forwards;
+
+    }
+
+    .screen .mj-doctor-contact-item {
+        text-decoration: none !important;
+        color: #fff !important;
+        width: 100%;
+        position: relative;
+        margin-top: 10px;
+
+    }
+
+    .screen .mj-doctor-contact-item-title {
+        font-weight: 200;
+        font-family: Rubik !important;
+        position: absolute;
+        z-index: 1;
+        top: -23px;
+        right: unset !important;
+        left: 14px;
+    }
+
+    .screen .icon-brand {
+        font-family: "Font Awesome 6 Brands" !important;
+        font-weight: unset !important;
+    }
+
+    .screen .mj-doctor-contact-item-info {
+        z-index: 2;
+        position: relative;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        border-radius: 12px;
+        background: rgba(0, 0, 0, 0.51);
+        backdrop-filter: blur(2px);
+        padding: 10px 15px 10px 10px;
+
+    }
+
+    .screen .mj-doctor-contact-item-info .icon {
+        font-weight: bold;
+        font-size: 20px;
+
+    }
+
+    .screen .mj-doctor-contact-item-detail {
+        direction: ltr;
+        font-family: rubik !important;
+        font-weight: 200;
+        letter-spacing: 1px;
+    }
+
+    .screen .mj-projects-carousel {
+        margin-top: 7px;
+        background: #0e0e0e70;
+        margin-inline: 15px;
+        border-radius: 15px;
+        padding: 5px 15px !important;
+        position: relative;
+        backdrop-filter: blur(5px);
+    }
+
+    .screen .mj-carousel-object1 {
+        height: 60px;
+        width: 20px;
+        background: #b721ff;
+        border-radius: 20px;
+        position: absolute;
+        top: 60%;
+        transform: translateY(-50%);
+        right: 7px;
+    }
+
+    .screen .mj-carousel-object2 {
+        height: 60px;
+        width: 20px;
+        background: #b721ff;
+        border-radius: 20px;
+        position: absolute;
+        top: 60%;
+        transform: translateY(-50%);
+        left: 7px;
+
+    }
+
+    .screen .mj-projects-carousel .project-swiper {
+
+    }
+
+    .screen .mj-projects-carousel .swiper-slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ffffff;
+        height: auto;
+        aspect-ratio: 1/1;
+
+    }
+
+    .screen .mj-projects-carousel .swiper-slide img {
+        width: 70%;
+        aspect-ratio: 1/1;
+        object-fit: contain;
+    }
+
+    .screen .mj-doctor-projects-carousel-title {
+        color: #fff !important;
+        text-align: left;
+        margin-top: 20px;
+    }
+
+    .screen .mj-doctor-projects-carousel {
+        position: relative;
+        width: 40% !important;
+        left: 39%;
+        top: 187px;
+        scale: 0;
+        animation: 1s ease-out 950ms 1 scale forwards;
+    }
+
+
+}
+
+@keyframes opacity {
+    0% {
+
+        opacity: 0;
+    }
+    100% {
+
+        opacity: 1;
+    }
+}
+
+@keyframes scale {
+    0% {
+
+        scale: 0;
+    }
+    50% {
+
+        scale: 1.2;
+    }
+    100% {
+
+        scale: 1;
+    }
+}
+
+@keyframes right {
+    0% {
+
+        transform: translateX(110%);
+    }
+
+    100% {
+
+
+        transform: translateX(0);
+    }
+}
+
+@keyframes left {
+    0% {
+
+        transform: translateX(-110%);
+    }
+
+    100% {
+
+
+        transform: translateX(0);
+    }
+}
+
+@keyframes up {
+    0% {
+
+        transform: translateY(130%);;
+    }
+
+    100% {
+
+
+        transform: translateX(0);
+    }
+}

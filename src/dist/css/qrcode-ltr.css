@@ -1,0 +1,249 @@
+.mj-links-main {
+    padding-bottom: 30px;
+}
+
+.mj-header-tabs {
+    display: none !important;
+}
+
+.mj-app-header {
+    background: #312D57 url(/dist/images/map.svg) !important;
+    height: 110px;
+    border-radius: 0 0 30px 30px;
+}
+
+.mj-app-notification {
+    display: none !important;
+}
+
+.mj-wallet-header-icon {
+    display: none !important;
+}
+
+.mj-header-logo {
+    display: none !important;
+}
+
+.mj-site-name {
+    position: fixed;
+    right: 50%;
+    transform: translateX(50%);
+    color: #fff;
+    font-size: 20px;
+    z-index: 1000;
+    top: 73px;
+}
+
+img[alt="myket"] {
+    filter: drop-shadow(0px 10px 14px rgba(0, 145, 234, 0.35));
+}
+
+img[alt="bazar"] {
+    filter: drop-shadow(0px 14px 14px rgba(113, 198, 18, 0.29));
+}
+
+img[alt="playstore"] {
+    filter: drop-shadow(0px 14px 14px rgba(252, 57, 68, 0.27));
+}
+
+img[alt="direct"] {
+    filter: drop-shadow(0px 10px 14px rgba(113, 0, 234, 0.35));
+}
+
+.mj-backbtn {
+    display: none !important;
+}
+
+.mj-backbtn-background {
+    display: none !important;
+}
+
+.mj-three-android-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 0 10px;
+    justify-items: center;
+}
+
+.mj-three-android-links a {
+    width: 120px !important;
+    font-size: 13px !important;
+}
+
+.mj-fa-arrow-down {
+    width: 35px;
+    height: 35px;
+    background: #303030;
+    color: #fff !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 28px;
+    font-family: fontawesome;
+}
+
+.mj-app-market-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    height: 124px;
+    justify-content: space-evenly;
+    border-radius: 115px;
+    border: 1px solid #E3E0FF;
+    box-shadow: 0px 4px 13px rgba(177, 177, 177, 0.25);
+}
+
+.mj-direct-download {
+    margin-block: 20px;
+}
+
+.mj-android-direct-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 115px;
+    border: 1px solid #E3E0FF;
+    box-shadow: 0px 4px 13px rgba(177, 177, 177, 0.25);
+    width: 90%;
+    margin: auto;
+    height: 97px;
+    padding-inline: 15px;
+}
+
+.mj-direct-right-sec {
+    display: flex;
+    align-items: center;
+}
+
+.mj-direct-right-sec img {
+    margin-left: unset !important;
+    margin-right: 10px;
+}
+
+.mj-direct-download-text span:nth-child(1) {
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+}
+
+.mj-ios-link-card {
+    background: linear-gradient(275.49deg, #312D57 4.49%, #3E32AC 99.4%);
+    border-radius: 30px;
+    margin: auto;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    height: 125px;
+}
+
+.mj-ios-download-title {
+    display: flex;
+    align-items: center;
+}
+
+.mj-ios-download-title span {
+    background: #fff !important;
+    color: #312D57;
+    padding: 3px 10px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: unset !important;
+    margin-right: 5px;
+}
+
+.mj-fa-arrow-down-ios {
+    width: 33px;
+    height: 33px;
+    background: #F5B937;
+    color: #fff !important;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: fontawesome;
+}
+
+* a {
+    text-decoration: none !important;
+    color: #303030 !important;
+    font-size: 14px;
+}
+
+#ios-subtext {
+    color: #fff !important;
+    margin-top: 5px;
+}
+
+.mj-social-media-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    padding-inline: 10px;
+}
+
+.mj-social-media-item {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 5px;
+    background: #fff !important;
+    border: 1px solid rgba(55, 48, 127, 0.29);
+    box-shadow: 0px 4px 13px rgba(177, 177, 177, 0.25);
+    border-radius: 58px;
+}
+
+#googleplay {
+    font-size: 12px;
+}
+
+@media screen and (max-width: 400px) {
+    .mj-three-android-links a {
+        width: 93px !important;
+    }
+}
+
+.modal-body {
+    z-index: 9999999;
+}
+
+#divider {
+    background: #312D57;
+    width: 90%;
+    margin: auto;
+    height: 2px;
+    margin-block: 10px;
+}
+
+.mj-add-to-home-tut-head {
+    display: block;
+    text-align: center;
+}
+
+.mj-add-to-home-rows {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-inline: 20px;
+    margin-bottom: 10px;
+}
+
+.mj-add-to-home-rows span {
+    font-size: 14px !important;
+}
+
+.mj-add-to-home-tut-icons {
+    background: #312D57;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    height: 35px;
+    font-family: fontawesome !important;
+    color: #fff !important;
+}

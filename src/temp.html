@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenLayers Map with Geolocation, Truck Icon, and Markers</title>
+    <link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
+    <script src="https://openlayers.org/en/v4.6.5/build/ol.js"></script>
+</head>
+<body>
+
+<div id="map" style="width: 100%; height: 400px;"></div>
+
+<script>
+    var view = new ol.View({
+        center: [0, 0],
+        zoom: 2
+    });
+
+    var map = new ol.Map({
+        target: 'map',
+        layers: [
+            new ol.layer.Tile({
+                source: new ol.source.OSM()
+            })
+        ],
+        view: view
+    });
+
+    // Truck Icon
+    var truckIcon = new ol.Feature({
+        geometry: new ol.geom.Point(ol.proj.fromLonLat([0, 0]))
+    });
+
+    var truckLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            features: [truckIcon]
+        }),
+        style: new ol.style.Style({
+            image: new ol.style.Icon({
+                src: 'https://img.icons8.com/?size=50&id=3562&format=png', // Replace with the path to your truck icon
+                scale: 1
+            })
+        })
+    });
+
+    map.addLayer(truckLayer);
+
+    // Source Marker
+    var sourceMarker = new ol.Feature({
+        geometry: new ol.geom.Point(ol.proj.fromLonLat([46.4074, 38.08])) // Coordinates for Tabriz
+    });
+
+    var sourceLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            features: [sourceMarker]
+        }),
+        style: new ol.style.Style({
+            image: new ol.style.Icon({
+                src: 'https://img.icons8.com/?size=50&id=34038&format=png', // Replace with the path to your source icon
+                scale: 1
+            })
+        })
+    });
+
+    map.addLayer(sourceLayer);
+
+    // Destination Marker
+    var destMarker = new ol.Feature({
+        geometry: new ol.geom.Point(ol.proj.fromLonLat([51.3890, 35.6895])) // Coordinates for Tehran
+    });
+
+    var destLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            features: [destMarker]
+        }),
+        style: new ol.style.Style({
+            image: new ol.style.Icon({
+                src: 'https://img.icons8.com/?size=50&id=53385&format=png', // Replace with the path to your destination icon
+                scale: 1
+            })
+        })
+    });
+
+    map.addLayer(destLayer);
+
+    // Route Line
+    var routeLine = new ol.Feature({
+        geometry: new ol.geom.LineString([
+            ol.proj.fromLonLat([46.4074, 38.08]), // Coordinates for Tabriz
+            ol.proj.fromLonLat([51.3890, 35.6895]) // Coordinates for Tehran
+        ])
+    });
+
+    var routeLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            features: [routeLine]
+        }),
+        style: new ol.style.Style({
+            stroke: new ol.style.Stroke({
+                color: 'blue',
+                width: 2
+            })
+        })
+    });
+
+    map.addLayer(routeLayer);
+
+    // Function to update the truck's location
+    function updateTruckLocation() {
+        if ('geolocation' in navigator) {
+            navigator.geolocation.getCurrentPosition(
+                function (position) {
+                    var truckLocation = ol.proj.fromLonLat([position.coords.longitude, position.coords.latitude]);
+                    truckIcon.setGeometry(new ol.geom.Point(truckLocation));
+                    view.setCenter(truckLocation);
+                    view.setZoom(10); // Adjust the zoom level as needed
+                },
+                function (error) {
+                    console.error('Error getting user location:', error.message);
+                }
+            );
+        } else {
+            console.error('Geolocation is not supported by your browser.');
+        }
+    }
+
+    // Initial update of the truck's location
+    updateTruckLocation();
+
+    // Update the truck's location every 30 seconds
+    setInterval(updateTruckLocation, 30000);
+</script>
+
+</body>
+</html>

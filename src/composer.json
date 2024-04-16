@@ -1,0 +1,26 @@
+{
+  "require": {
+    "morilog/jalali": "3.*",
+    "voku/anti-xss": "^4.1",
+    "pedrosancao/php-otp": "^1.1",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-soap": "*",
+    "ext-pdo": "*",
+    "ext-openssl": "*",
+    "ext-gd": "*",
+    "ghasedak/php": "^1.0",
+    "ext-dom": "*",
+    "cboden/ratchet": "^0.4.4",
+    "ext-mysqli": "*",
+    "ext-fileinfo": "*",
+    "pusher/pusher-php-server": "^7.2",
+    "ext-mbstring": "*",
+    "illuminate/database": "^10.35",
+    "klev-o/telegram-bot-api": "^1.10",
+    "nutgram/nutgram": "^3.20"
+  },
+  "config": {
+    "platform-check": false
+  }
+}

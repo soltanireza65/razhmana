@@ -1,0 +1,27 @@
+
+.mj-a-radio-poster input[type='radio'] {
+    display: none;
+}
+
+.mj-a-radio-poster label:before {
+    content: " ";
+    display: inline-block;
+    margin: 0 5px 0 5px;
+    width: 15px;
+    height: 15px;
+    border-radius: 11px;
+    border: 1px solid #404040;
+    background-color: transparent;
+}
+
+.mj-a-radio-poster label {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.mj-a-radio-poster input[type='radio']:checked + label:before {
+    border-radius: 11px;
+    background-color: var(--primary);
+    border: 1px solid var(--primary);
+}

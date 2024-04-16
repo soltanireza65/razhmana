@@ -1,0 +1,3173 @@
+﻿Persian,فارسی
+English,انگلیسی
+Turkish,ترکی
+Russia,روسیه
+auth_passport,پاسپورت
+date_jalali,تاریخ شمسی
+date_gregorian,تاریخ میلادی
+card_car,کارت ماشین
+auth_card_car,کارت ماشین
+d_my_request_price,قیمت پیشنهادی
+date_terminator,تاریخ خاتمه
+iran_p,ایرانی
+iran_international_p,ترانزیت ایرانی
+turkey_international_p,ترانزیت ترکیه
+type_plaque,نوع پلاک
+fa_IR,فارسی
+en_US,انگلیسی
+Internet Explorer,Internet Explorer
+Firefox,فایرفاکس
+Safari,سافاری
+Edge,ایج
+Chrome,کروم
+Opera,اپرا
+Netscape,Netscape
+Maxthon,Maxthon
+Konqueror,Konqueror
+Handheld Browser,Handheld Browser
+dashboard,پنل مدیریت
+browser,مرورگر
+my_account,اکانت من
+lock_screen,قفل صفحه
+logout,خروج
+welcome,خوش آمدید!
+login_admin,ورود مدیریت
+enter_email_and_pass,آدرس ایمیل و رمز عبور خود را برای ورود به پنل مدیریت وارد کنید.
+email,ایمیل
+enter_email,آدرس ایمیل خود را وارد کنید
+example_email,info@example.com
+password,رمز ورود
+enter_password,رمز ورود خود را وارد کنید.
+remember_me,مرا به خاطر بسپار
+login,ورود
+back_to,بازگشت به
+back,بازگشت
+designer,انتیراپ
+design_by,طراحی و توسعه توسط
+design,طراحی و توسعه
+home_page,صفحه اصلی
+error,خطا
+error_mag,در پردازش اطلاعات خطایی رخ داده است.
+email_error,آدرس ایمیل باید به درستی وارد شود.
+email_pass_error,آدرس ایمیل و رمز ورود باید به درستی وارد شود.
+pass_error,رمز ورود باید به درستی وارد شود.
+admin_block_time,تلاش بیش از حد! ده دقیقه بعد دوباره تلاش کنید.
+admin_not_find,کاربری با چنین مشخصاتی پیدا نشد.
+admin_status_inactive,متاسفم اکانت شما از طرف مدیریت بسته شده است. با مدیریت تماس بگیرید.
+successful,موفقیت آمیز
+warning,اخطار
+successful_submit_mag,اطلاعات با موفقیت ثبت شد.
+successful_update_mag,اطلاعات با موفقیت بروز رسانی شد.
+successful_delete_mag,اطلاعات با موفقیت حذف شد.
+empty_input,همه فیلد ها باید پر شود.
+delete_but_error,پردازش حذف انجام شد اما در حین انجام عملیات خطایی رخ داده است.
+delete_cancel,اجازه پاک کردن این مورد را ندارید.
+delete_product,پاک کردن محصول
+token_error,خطا در احراز هویت !!
+oppss,اوحححح !
+oppss2,کجا اومدی ؟؟؟؟؟
+oppss3,مدیریت به شما اجازه دسترسی به این صفحه رو نداده است
+oppss4,بازگشت به صفحه داشبورد مدیریت
+search_desc,شما می توانید عملیات جستجو را اینجا انجام دهید.
+search,جستجو :
+add_new,افزودن جدید
+Welcome_admin_panel,به داشبورد مدیریت خوش آمدید
+use_text_admin_panel,برای آغاز چند پیوند را برای شما گرد آورده ایم :
+menu,منو
+users,کاربران
+notifications,اعلانات
+notification,اعلان
+notifications_group,اعلانات گروهی
+posts,پست ها
+post,پست
+multimedia,چند رسانه ای
+admins,مدیریت
+list_admins,لیست مدیران
+admins_log,عملیات مدیران
+adminss,مدیران
+settings,تنظیمات
+all_tickets,همه تیکت ها
+tickets_department,تیکت دپارتمان ها
+tickets,تیکت ها
+tickets_all,همه تیکت ها
+tickets_open,تیکت های باز
+departments,دپارتمان ها
+department,دپارتمان
+quick_add,افزودن سریع
+help,کمک و راهنمایی
+medias,رسانه ها
+all_medias,همه رسانه ها
+add_media,افزودن رسانه
+departments_chart,آمار دپارتمان ها
+count_tickets,تعداد تیکت ها
+title_category,عنوان دسته بندی
+status,وضعیت
+action,عملیات
+all_departments,همه دپارتمان ها
+department_active,دپارتمان فعال
+department_inactive,دپارتمان غیر فعال
+no_departments_in_table,هنوز هیچ دپارتمانی ایجاد نشده است!
+no_notifications_in_table,هنوز هیچ اعلانی ارسال نشده است!
+active,فعال
+inactive,غیر فعال
+no_ticket,هورااا هیچ تیکتی ندارید
+no_new_cars,خسته نباشید هنوز خودرو جدیدی ثبت نشده است.
+user_list,لیست کاربران
+list_user_log,لیست عملیات ها کاربر
+department_add,افزودن دپارتمان
+department_edit,ویرایش دپارتمان
+department_title,عنوان دپارتمان
+date_register,تاریخ ثبت نام
+admin_role_add,افزودن نقش مدیریت
+pages,صفحات
+visitor,بازدید کننده
+creator,ایجاد کننده
+editor,ویرایش کننده
+removal,حذف کننده
+publish,انتشار
+pending,در انتظار
+process,در حال انجام
+completed,تکمیل شده
+reject,رد شده
+rejecting,رد کردن
+length_text,تعداد کارکتر متن
+cancel,لغو کردن
+cancell,لغو
+driver,راننده
+businessman,تاجر
+category_type,نوع دسته بندی
+all_info,اطلاعات تکمیلی
+d_create,ایجاد
+d_update,بروز رسانی
+settings_general,تنظیمات عمومی
+open,باز
+close,بسته
+general_settings,تنظیمات عمومی
+main_desc_settings,در این بخش می توانید تنظیمات بخش های مختلف سایت را مدیریت کنید.
+main_settings,تنظیمات کلی سایت
+settings_general_desc,در این بخش می توانید تنظیمات عمومی سایت را انجام دهید.
+app_name_farsi,نام سایت به فارسی
+app_name,نام انگلیسی سایت
+app_description,توضیح کامل سایت
+app_keywords,کلمات کلیدی سایت
+app_description_placeholder,توضیح مختصر اما کامل سایت خود را وارد کنید.
+app_keywords_desc,کلمات کلیدی را با کاما(,) از هم جدا کنید
+submit_change,ثبت تغییرات
+ticket_open,تیکت باز
+ticket_close,تیکت بسته
+tickets_driver_all,همه تیکت ها رانندگان
+tickets_businessman_all,همه تیکت ها تجار
+tickets_driver_open,تیکت های باز رانندگان
+tickets_businessman_open,تیکت های باز تجار
+guest_user,کاربر مهمان
+name_and_family,نام و نام خانوادگی
+date_create,تاریخ ایجاد
+title,عنوان
+status_tickets,وضعیت تیکت ها
+tickets_chart,آمار تیکت ها
+ticket,تیکت
+normal,کاربر عادی
+ban,کاربر مسدودی
+voice_call,تماس تلفنی
+close_room,بستن تیکت
+room_close,بستن تیکت
+user_info,اطلاعات کاربری
+send,ارسال
+attachment_files,فایل های ضمیمه
+drop_files,فایل را انتخاب و به اینجا بکشید.
+ticket_closed,تیکت بسته شده است و امکان ارسال پیام نیست.
+list_businessmen,لیست تجار
+list_drivers,لیست رانندگان
+phone_number,شماره همراه
+guest,مهمان
+all_businessmen,همه تجار
+active_businessmen,تجار فعال
+inactive_businessmen,تجار غیر فعال
+guest_businessmen,تجار مهمان
+chart_businessmen,آمار تجار
+chart_drivers,آمار رانندگان
+all_drivers,همه رانندگان
+active_drivers,رانندگان فعال
+inactive_drivers,رانندگان غیر فعال
+guest_drivers,رانندگان مهمان
+contact,تماس
+send_notification,ارسال اعلان
+show,نمایش
+user_log,عملیات کاربر
+wallet,کیف پول
+balance,موجودی
+transactions,تراکنش ها
+add_ticket,افزودن تیکت
+please_enter_your_title,لطفا عنوان تیکت خود را وارد کنید.
+please_enter_your_messsage,لطفا تیکت خود را وارد کنید.
+info,توجه
+dictMaxFilesExceeded,شما نمی توانید هیچ فایل دیگری را آپلود کنید.
+delete,پاک کردن
+cancel_upload,لغو آپلود
+info_send_test_mag,ایمیل را چک کنید تا مطمئن شوید پیام فرستاده شده است.
+settings_logos_panels,تنظیمات لوگو سایت
+settings_logos,تنظیمات لوگو
+settings_email,تنظیمات ایمیل
+settings_email_desc,تنظیمات smtp ایمیل سایت
+preview,پیش نمایش
+view,مشاهده
+favicon_site,فاوآیکون
+logo_ms,نمادک سایت
+logo_light,لوگو روشن برای حالت دارک
+logo_dark,لوگو تیره برای حالت لایت
+format_support,فرمت هایی که پشتیبانی میکنیم
+settings_social_network,تنظیمات شبکه اجتماعی
+address_ssl,آدرس را به همراه https وارد نمایید.
+name,نام
+svg_image,تصویر با فرمت svg
+link,لینک
+add,افزودن
+svg_uploads,فقط تصاویر با فرمت svg قابل آپلود می باشد.
+name_let_inter,نام خالی باشد محتوا ثبت نخواهد شد.
+set_new_admin,ایجاد مدیر جدید
+roles,نقش ها
+nickname,نام مستعار
+role,نقش
+list_admin_log,لیست عملیات ها مدیران
+admin_log,عملیات مدیر
+download,دانلود
+date,تاریخ
+message,پیغام
+admin_edit,ویرایش مدیر
+avatar,تصویر آواتار
+pass_notic1,رمز عبور باید حداقل 8 کاراکتر باشد.
+pass_notic2,رمز عبور باید دارای یک حروف بزرگ باشد.
+pass_notic3,رمز عبور باید دارای یک حروف کوچک باشد.
+pass_notic4,رمز عبور باید دارای یک عدد باشد.
+nickname_error,نام مستعار باید بیشتر از 3 حرف باشد.
+name_error,نام باید بیشتر از 3 حرف باشد.
+avatar_error,تصویر آواتار باید آپلود شود.
+email_exist,این ایمیل قبلا ثبت شده است.
+mobile_invalid,شماره موبایل معتبر نیست.
+myaccount,اکانت من
+role_name,نام نقش
+admin_role_delete,حذف نقش مدیریت
+delete_role_1,توجه : آیا شما مطمئن هستید که می خواهید نقش 
+delete_role_2, را حذف کنید
+delete_role_3,قبل از حذف این نقش باید لیست مدیرانی که این نقش را دارند انتقال دهید تعداد مدیران دارای نقش : 
+delete_role_4,توجه : در صورت که مدیری این نقش را نداشته باشد دکمه "پاک کردن" فعال خواهد شد.
+delete_role_5,توجه : قبل از انجام هر کاری از دیتابیس بکاپ بگیرید.
+tickets_businessman,تیکت تجار
+tickets_driver,تیکت رانندگان
+users_driver,کاربران راننده
+users_businessman,کاربران تاجر
+admin_role_edit,ویرایش نقش مدیریت
+Permission,دسترسی ها
+role_exist,این نقش برای مدیران استفاده شده است و قابل حذف نیست.
+admin_add,افزودن مدیر جدید
+admin,مدیر
+category_car,دسته بندی خودرو
+category_car_add,افزودن دسته بندی خودرو
+category_car_edit,ویرایش دسته بندی خودرو
+chart_category_car,آمار دسته بندی خودرو
+all_category,همه دسته بندی ها
+category_cargo,دسته بندی بار
+category_cargo_add,افزودن دسته بندی بار
+category_cargo_edit,ویرایش دسته بندی بار
+chart_category_cargo,آمار دسته بندی بار
+color_show,رنگ نمایشی
+image_default,تصویر پیشفرض
+icon,آیکون
+error_upload_image,خطا در آپلود تصویر
+error_upload_icon,خطا در آپلود آیکون
+used,استفاده شده
+currency_list,لیست ارزها
+chart_currency,آمار ارزها
+currency_edit,ویرایش ارز
+medias_chart,آمار رسانه ای
+size,سایز
+file_from,از فایل
+hard_space,فضای هارد
+hard_free,فضای هارد آزاد
+hard_used,فضای هارد استفاده شده
+copied,کپی شد
+group_users,گروه کاربران
+group_users_empty_error,گروه کاربران نمی تواند خالی رها شود
+levels_chart,آمار سطح کاربری
+authentication,احراز هویت
+sender,ارسال کننده
+text_massage,متن پیام
+notifications_sended,اعلانات ارسال شده
+read,خوانده شده
+unread,خوانده نشده
+all_message,همه پیام ها
+notifications_chart,آمار اعلانات
+notifications_all,همه اعلانات
+notification_add,ایجاد اعلان گروهی
+notification_edit,ویرایش اعلان گروهی
+notification_delete,حذف اعلان گروهی
+draft,پیش نویس
+language,زبان
+language_user,زبان
+users_type,نوع کاربر
+list_posts,همه پست ها
+set_new_post,ایجاد پست جدید
+categories,دسته بندی ها
+post_categories,دسته بندی های پست
+add_post_categories,افزودن دسته بندی پست
+edit_post_categories,ویرایش دسته بندی پست
+languages,زبان ها
+not_sub_category,بدون زیر دسته
+published,انتشار یافته
+all_posts,همه پست ها
+all_posts_desc,شامل وبلاک های منتشر شده و پیش نویس می باشد.
+published_posts_desc,تنها شامل وبلاگ های منتشر شده می باشد.
+draft_posts_desc,تنها شامل وبلاگ های پیش نویس می باشد.
+published_date,تاریخ انتشار
+update_date,تاریخ بروز رسانی
+author,نویسنده
+post_add,افزودن پست
+post_edit,ویرایش پست
+address_slug,آدرس Slug
+address,آدرس
+thumbnail,تصویر شاخص
+banner_img,تصویر بنری
+min_length_input,توجه : تعداد کارکتر باید بیشتر از 5 کارکتر باشد.
+min_length_input_page,توجه : تعداد کارکتر باید بیشتر از 5 کارکتر باشد.
+slug_not_update,توجه : آدرس پست بعد از انتشار قابل ویرایش نیست.
+slug_not_update_page,توجه : آدرس برگه بعد از انتشار قابل ویرایش نیست.
+count_posts,تعداد پست ها
+category_published,دسته بندی های قابل نمایش
+category_draft,دسته بندی های پیش نویس
+categories_chart,آمار دسته بندی ها
+all_categories,کل دسته بندی ها
+count_post,تعداد پست
+delete_category_post,حذف دسته بندی پست
+delete_post_category_desc,آیا شما مطمئن هستید می خواهید دسته بندی پست با مشخصات زیر حذف کنید؟
+count_post_category,تعداد پست های این دسته
+change_post_category,تغییر دسته بندی پست ها
+select_replace_category,انتخاب دسته بندی جایگزین
+select_replace_category_enter,دسته بندی جایگزین را انتخاب کنید!
+edit,ویرایش
+cars_pending,خودروهای تایید نشده
+cargoes_pending,بارهای بین المللی تایید نشده
+cargoes_in_pending,بارهای داخلی تایید نشده
+cargoes_show,نمایش بارها
+cargoes,بارها
+cargoes_out,بارهای بین المللی
+cargoes_in,بارهای داخلی
+requests,درخواست ها
+requests_out,درخواست ها بین المللی
+requests_in,درخواست ها داخلی
+car,خودرو
+cars,خودروها
+list_cargos,لیست بارها
+cars_list,لیست خودرو ها
+cargo_pending,بارهای تایید نشده
+blog_name,نام وبلاگ
+excerpt,توضیحات کوتاه
+tag,برچسب
+detail,جزئیات
+blog,وبلاگ
+employee,همکاری
+single_post,جزئیات وبلاگ
+delete_post_desc,آیا شما مطمئن هستید می خواهید پست با مشخصات زیر حذف کنید؟
+tags,برچسب
+tags_desc,برچسب ها را با , از هم جدا کنید.
+settings_schema,تنظیمات schema
+category,دسته بندی
+delete_post,حذف پست
+posts_chart,آمار پست ها
+count_posts_admin,تعداد پست های هر مدیر
+count_posts_categories,تعداد پست ها در هر دسته
+cities_list,لیست شهرها
+customs_list,لیست گمرک ها
+city_name,نام شهر
+customs_name,نام گمرک
+city_add,افزودن شهر جدید
+customs_add,افزودن گمرک جدید
+city_edit,ویرایش شهر
+customs_edit,ویرایش گمرک
+chart_city,آمار شهرها
+chart_customs,آمار گمرک ها
+all_city,همه شهرها
+all_customs,همه گمرک ها
+status_user,وضعیت کاربر
+plaque,پلاک
+chart_cars,آمار خودروها
+accept,پذیرفتن
+deleted,پاک شده
+all_cars,همه خودروها
+car_edit,اطلاعات خودرو
+no_massages,بدون پیام
+cargo_name,نام بار
+cargo_submit_data,تاریخ ثبت بار
+all_cargoes,همه بارها
+cargoes_list,لیست بارها بین المللی
+cargoes_in_list,لیست بارهای داخلی
+no_name,بدون اسم
+no_address,بدون آدرس
+cargo_progress,بارهای در حال اجرا
+cargo_out_progress,بارهای بین المللی در حال اجرا
+cargo_in_progress,بارهای داخلی در حال اجرا
+cargo_completed,بارهای تکمیل شده
+cargo_accepted,بارهای تایید شده
+cargoes_accepted,بارهای بین المللی تایید شده
+cargoes_in_accepted,بارهای داخلی تایید شده
+time,زمان
+ip,ip
+device,دستگاه
+suspend,تعلیق شده
+to_suspend,تعلیق کردن
+suspend_businessmen,تاجر تعلیق شده
+suspend_drivers,رانندگان تعلیق شده
+businessman_info,اطلاعات تاجر
+businessman_ticket,تیکت های تاجر
+driver_ticket,تیکت های راننده
+create_ticket,ایجاد تیکت جدید
+list_tickets,لیست تیکت ها
+active_session,دستگاه های فعال
+location,موقعیت
+time_submit,زمان ثبت
+time_expire,زمان انقضا
+security,امنیتی
+expire,منقضی شده
+empty_active_session_user,هیچ دستگاه فعالی ثبت نشده است.
+cargo_info,اطلاعات بار
+cargo_out_info,اطلاعات بار بین المللی
+cargo_in_info,اطلاعات بار داخلی
+request_info,اطلاعات درخواست
+cargo_thumbnail,تصاویر بار
+businessman_name,نام تاجر
+cargo_category,دسته بار
+cargo_status,وضعیت بار
+cargo_volume,حجم بار
+cargo_weight,وزن بار
+requested_cars,خودروهای درخواستی
+recommended_price,قیمت پیشنهادی
+start_date,تاریخ شروع
+ton,تن
+closes,بستن
+priority,اولویت
+priority_show,اولویت نمایش
+change_cargo_title,تغییر عنوان بار
+cargo_title,نام بار
+cubic_meter,متر مکعب
+car_count_request,تعداد خودرو درخواستی
+description,توضیحات
+location_cargo_origin,موقعیت مبدا بار
+location_cargo_customs_of_origin,موقعیت گمرک مبدا بار
+location_cargo_destination,موقعیت مقصد بار
+location_cargo_destination_customs,موقعیت گمرک مقصد بار
+extra_expenses,هزینه های اضافی
+request_number,شماره درخواست
+request_price,هزینه درخواست
+no_extra_expenses,هنوز هزینه اضافی درخواست نشده است.
+select_city,انتخاب شهر
+request_submit_date,تاریخ ثبت درخواست
+request_start_date,تاریخ شروع بارگیری
+rate,امتیاز
+no_start,بدون آغاز
+car_info,اطلاعات خودرو
+receipt,رسید
+show_images,نمایش تصاویر
+change_status_rejected_to_pending,تغییر وضعیت از رد شده به در انتظار
+change_status_pending_to_rejected,تغییر وضعیت از در انتظار به رد شده
+change_address_origin,تغییر آدرس مبدا
+change_address_destination,تغییر آدرس مقصد
+change_address_customs_of_origin,تغییر آدرس گمرگ مبدا
+change_address_destination_customs,تغییر آدرس گمرک مقصد
+click_for_edit,برای ویرایش کلیک کنید.
+change_status_pending,تغییر وضعیت به انتظار
+change_status_rejected,تغییر وضعیت به رد شده
+change_status_canceled,تغییر وضعیت به کنسل شده
+change_status_accepted,تغییر وضعیت به قبول شده
+requests_list,لیست درخواست ها
+chart_requests,آمار درخواست ها
+all_requests,آمار درخواست ها
+customs_of_origin,گمرک مبدا
+destination_customs,گمرک مقصد
+add_city,افزودن شهر
+add_custom,افزودن گمرک
+score,امتیاز
+score_user,امتیاز کاربر
+gifts,جوایز
+gift_score,جوایز و امتیازات
+add_remove_gifts,کم زیاد کردن جایزه
+add_remove_score,کم زیاد کردن امتیاز
+Low_off,کم کردن
+increase,زیاد کردن
+numerical_value,مقدار عددی
+numerical_value_desc,مقدار عددی وارد کنید و از نوع عملیات را انتخاب کنید.
+list_card_banks,لیست کارت بانک
+list_cards_banks,لیست کارت های بانک
+chart_card_banks,آمار کارت بانک
+card_banks_pending,کارت بانک جدید
+card_banks,کارت بانک
+card_bank,نام کارت بانکی
+card_number,شماره کارت
+card_account,شماره حساب
+card_iban,شماره شبا
+all_card_banks,همه کارت های بانکی
+card_bank_info,اطلاعات کارت بانکی
+deleted_user,پاک کردن از دید کاربر
+delete_panel,پاک کردن از سیستم
+list_transactions,لیست تراکنش ها
+list_withdraw,لیست برداشت ها
+withdraws_pending,برداشت های در انتظار
+list_deposit,لیست واریزها
+transaction_amount,مبلغ تراکنش
+transaction_type,نوع تراکنش
+transaction_info,اطلاعات تراکنش
+withdraw,برداشت
+deposit,واریز
+paid,پرداخت شده
+unpaid,لغو شده
+expired,منقضی شده
+all_transactions,همه تراکنش ها
+chart_transactions,آمار تراکنش ها
+chart_withdraw,آمار برداشت ها
+chart_deposit,آمار واریز ها
+info_transaction,اطلاعات تراکنش
+all_deposit,همه واریزها
+all_withdraw,همه برداشت ها
+request_amount,مبلغ درخواستی
+authority,شناسه پرداخت
+tracking_code,کد پیگیری
+gateway,درگاه
+deposit_type,نوع پرداخت
+print,چاپ
+transaction_receipt,رسید تراکنش
+complaints,شکایات
+list_complaints,لیست شکایات
+list_accuseds,لیست اتهامات
+complaints_accepted,شکایات در حال پاسخگویی
+complaints_pending,شکایات جدید
+admin_answer,مدیر جوابگو
+closed,بسته
+all_complaint,همه شکایات
+chart_complaint,آمار شکایات
+show_detail,نمایش جزئیات
+list_businessman_transactions,لیست تراکنش های تاجر
+list_driver_transactions,لیست تراکنش های راننده
+complainer,شاکی
+accused,متهم
+pending_answer,در انتظار پاسخگویی
+now_answer,در حال پاسخگویی
+complaint_info,جزئیات شکایت
+contact_info,اطلاعات تماس
+complaints_pending_desc,شکایت جدیدی ثبت شده است سریعتر به این مورد رسیدگی شود!!!
+click_to_contact,کلیک کنید تا تماس گرفته شود
+i_answer,من جوابگو هستم
+successful_admin_set,شما برای پاسخگویی انتخاب شدید.
+before_admin_set,مدیر دیگری این شکایت را شروع به بررسی کرده است
+before_admin_closed,مدیر دیگری این شکایت را بررسی و به پایان رسانده است
+admin_pursue,مدیر پیگیر
+admin_pursue_date,زمان شروع پیگیری
+admin_terminator,مدیر خاتمه دهنده
+hi,سلام
+enter_pass,برای دسترسی به پنل مدیریت ، رمز عبور خود را وارد کنید.
+businessmans_active,تجار فعال
+drivers_active,رانندگان فعال
+tickets_closed,تیکت های بسته شده
+complaints_closed,شکایات تمام شده
+drivers_suspend,رانندگان معلق شده
+businessmans_suspend,تجار معلق شده
+cargo_accepted_open,بارهای بین المللی باز
+cargo_in_accepted_open,بارهای داخلی باز
+show_more,مشاهده بیشتر
+balance_list,لیست موجودی ها
+chart_balance,آمار موجودی ها
+currency_type,نوع موجودی
+balance_value,مقدار موجودی
+balance_frozen,موجودی غیرقابل برداشت
+support_call,شماره تماس پشتیبانی
+support_call_small,پشتیبانی
+support_whatsapp,شماره تماس واتس آپ
+support_whatsapp_small,واتس آپ
+support_whatsapp_desc,شماره تماس واتس آپ را همراه با کد کشور وارد کنید.
+support_call_desc,شماره تماس اضطراری را همراه با کد کشور وارد کنید.
+settings_logos_admin_panels,تنظیمات لوگو پنل مدیریت
+settings_logos_admin,تنظیمات لوگو پنل مدیریت
+table_empty,هیچ داده‌ای در جدول وجود ندارد
+authentication_activity,حوزه فعالیت
+name_company,نام شرکت
+passport,پاسپورت
+id_card,کارت ملی
+list_driver_cargoes,لیست بارهای راننده
+list_businessman_cargoes,لیست بارهای تاجر
+list_driver_requests,لیست درخواست های راننده
+chart_cargoes,آمار بارهای
+no_card_bank_submit,تاکنون هیچ کارت بانکی ثبت نشده است
+user_currency_edit,ویرایش ارز کاربر
+currency_add,افزودن ارز
+currency_add_user,افزودن ارز کاربر
+submit,ثبت
+error_exist_currency,این ارز قبلا برای کاربر ثبت شده است.
+add_new_currency,باید ارز جدیدی اضافه کنید.
+list_driver_cars,لیست خودروهای کاربر
+car_detail,جزئیات خودرو
+cargo_detail,جزئیات بار
+fortunately_the_item_was_not_found,خوشبختانه مورد یافت نشد
+user_businessman,کاربران تاجر
+ticket_businessman,تیکت تجار
+ticket_driver,تیکت رانندگان
+user_driver,کاربران راننده
+user_driver_currency,موجودی کاربران راننده
+user_businessman_currency,موجودی کاربران تاجر
+user_driver_notification,اعلانات کاربران راننده
+user_businessman_notification,اعلانات کاربران تاجر
+user_driver_transaction,تراکنش های کاربران راننده
+user_businessman_transaction,تراکنش های کاربران تاجر
+cargo,بار
+request,درخواست ها
+transaction,تراکنش
+complaint,شکایات
+ngroup,اعلانات گروهی
+posts_c,دسته بندی پست ها
+cars_c,دسته بندی خودروها
+cargo_c,دسته بندی بار
+currency_c,دسته بندی ارزها
+city_c,دسته بندی شهرها
+customs_c,دسته بندی گمرک ها
+lock_screen_login,ورود از صفحه قفل شده
+change_businessman_balance,تغییر موجودی تاجر
+change_driver_balance,تغییر موجودی راننده
+send_ticket,ارسال تیکت
+change_driver_status_to_suspend,تغییر وضعیت راننده به تعلیق شده
+change_driver_status_to_guest,تغییر وضعیت راننده به مهمان
+change_driver_status_to_inactive,تغییر وضعیت راننده به غیر فعال
+change_driver_status_to_active,تغییر وضعیت راننده به فعال
+change_businessman_status_to_suspend,تغییر وضعیت تاجر به تعلیق شده
+change_businessman_status_to_guest,تغییر وضعیت تاجر به مهمان
+change_businessman_status_to_inactive,تغییر وضعیت تاجر به غیر فعال
+change_businessman_status_to_active,تغییر وضعیت تاجر به فعال
+change_businessman_authentication,تغییر احراز هویت تاجر
+change_driver_authentication,تغییر احراز هویت راننده
+settings_social,تغییر تنظیمات شبکه های اجتماعی
+settings_theme,تغییر تنظیمات لوگو بخش مدیریت
+update_site_logo,تغییر تنظیمات لوگو بخش کاربری
+myaccount_edit,ویرایش اکانت من
+php_code,کد php
+change_settings_fa_IR,تغییر تنظیمات زبان فارسی
+notic_desc_lang_setting,توجه : در اعمال تغییرات در این فایل باید نهایت دقت را داشته باشید ، چرا که یک خطای ساده می تواند عملکرد سایت شما را با اشکالاتی همراه سازد.
+languages_settings,تنظیمات سایت متناسب با هر زبان
+settings_languages,تنظیمات زبان
+settings_language,تنظیمات زبان
+settings_site,تنظیمات سایت
+activity,حوزه فعالیت
+company,شرکت
+not_set,ست نشده است
+upload_error,خطا در آپلود تصویر
+type,نوع
+status_active,وضعیت اجبار و اختیار
+optional,اختیار
+mandatory,اجبار
+all_fields,همه فیلدها
+auth_list,لیست فیلدهای احراز هویت
+chart_auth,آمار فیلدهای احراز هویت
+edit_field_auth,ویرایش فیلد احراز هویت
+field_input_type,نوع فیلد
+field_input_mode,مد فیلد
+active_inactive,فعال و غیر فعال
+auth_fields,فیلدهای احراز هویت
+inter_value_and_submit,مقدار را وارد کند سپس دکمه را فشار دهید تا ذخیره شود.
+answer_complaint,پاسخگویی به شکایت
+answer_complaint_closed,حل شکایت و بستن
+add_new_balance,افزودن ارز جدید با مقدار برای کاربر
+change_cargo_info,تغییر اطلاعات بار
+change_cargo_out_info,تغییر اطلاعات بار بین المللی
+change_cargo_in_info,تغییر اطلاعات بار داخلی
+change_extra_status_to_pending,تغییر وضعیت درخواست اضافه هزینه برای بار بین المللی به حالت انتظار
+change_extra_status_to_canceled,تغییر وضعیت درخواست اضافه هزینه برای بار بین المللی به حالت لغو
+change_extra_status_to_rejected,تغییر وضعیت درخواست اضافه هزینه برای بار بین المللی به حالت رد شده
+change_extra_status_to_accepted,تغییر وضعیت درخواست اضافه هزینه برای بار بین المللی به حالت قبول شده
+change_extra_in_status_to_pending,تغییر وضعیت درخواست اضافه هزینه برای بار داخلی به حالت انتظار
+change_extra_in_status_to_canceled,تغییر وضعیت درخواست اضافه هزینه برای بار داخلی به حالت لغو
+change_extra_in_status_to_rejected,تغییر وضعیت درخواست اضافه هزینه برای بار داخلی به حالت رد شده
+change_extra_in_status_to_accepted,تغییر وضعیت درخواست اضافه هزینه برای بار داخلی به حالت قبول شده
+change_request_status_to_rejected,تغییر وضعیت درخواست بار بین المللی راننده به حالت رد شده
+change_request_status_to_pending,تغییر وضعیت درخواست بار بین المللی راننده به حالت در انتظار
+change_request_in_status_to_rejected,تغییر وضعیت درخواست بار داخلی راننده به حالت رد شده
+change_request_in_status_to_pending,تغییر وضعیت درخواست بار داخلی راننده به حالت در انتظار
+change_businessman_gifi,تغییر جایزه تاجر به
+change_driver_gifi,تغییر جایزه راننده به
+change_businessman_score,تغییر امتیاز تاجر به
+change_driver_score,تغییر امتیاز راننده به
+change_user_gifi,تغییر جایزه کاربر به
+change_user_status_to_suspend,تغییر وضعیت کاربر به معلق
+change_user_status_to_active,تغییر وضعیت کاربر به فعال
+change_user_status_to_inactive,تغییر وضعیت کاربر به غیر فعال
+change_user_status_to_guest,تغییر وضعیت کاربر به مهمان
+change_card_bank_status_title_accepted,تغییر وضعیت کارت بانکی کاربر به حالت تایید شده
+change_card_bank_status_title_rejected,تغییر وضعیت کارت بانکی کاربر به حالت رد شده
+change_card_bank_status_title_pending,تغییر وضعیت کارت بانکی کاربر به حالت در دست بررسی
+change_card_bank_status_title_deleted,تغییر وضعیت کارت بانکی کاربر به حالت حذف شده
+delete_card_bank,حذف کارت بانکی کاربر
+change_transaction_info_id,تغییر اطلاعات تراکنش با ای دی
+change_transaction_status_title_completed,تغییر وضعیت تراکنش حالت تکمیل شده با ای دی
+change_transaction_status_title_pending,تغییر وضعیت تراکنش حالت در دست بررسی با ای دی
+change_transaction_status_title_rejected,تغییر وضعیت تراکنش حالت رد شده با ای دی
+change_transaction_status_title_unpaid,تغییر وضعیت تراکنش حالت لغو شده با ای دی
+change_transaction_status_title_expired,تغییر وضعیت تراکنش حالت منقضی شده با ای دی
+add_new_role_admin_title,افزودن نقش مدیریت جدید با عنوان
+edit_role_admin_title,ویرایش نقش مدیریتت با عنوان
+add_new_admin_title,ایجاد مدیر جدید با نام
+edit_admin_title,ویرایش مدیر با نام
+department_add_title,افزودن دپارتمان جدید با عنوان
+department_edit_title,ویرایش دپارتمان با عنوان
+close_room_id,بستن تیکت با ای دی
+edit_car_type_title,ویرایش دسته بندی خودرو با عنوان
+add_cargo_category_title,افزودن دسته بندی بار با عنوان
+edit_cargo_category_title,ویرایش دسته بندی بار با عنوان
+edit_currency_title,ویرایش دسته بندی ارز با عنوان
+add_ngroup_add_title,افزودن اعلان گروهی با عنوان
+edit_ngroup_title,ویرایش اعلان گروهی با عنوان
+delete_ngroup_title,پاک کردن اعلان گروهی با عنوان
+add_category_post_title,افزودن دسته بندی پست با عنوان
+edit_category_post_title,ویرایش دسته بندی پست با عنوان
+post_add_title,افزودن پست با عنوان
+post_edit_title,ویرایش پست با عنوان
+delete_post_title,پاک کردن پست با عنوان
+city_add_title,افزودن شهر با عنوان
+customs_add_title,افزودن گمرک با عنوان 
+city_edit_title,ویرایش شهر با عنوان
+customs_edit_title,ویرایش گمرک با عنوان
+car_edit_title_accepted,تغییر وضعیت خوردو به حالت تایید شده با ای دی
+car_edit_title_pending,تغییر وضعیت خوردو به حالت در دست بررسی با ای دی
+car_edit_title_rejected,تغییر وضعیت خوردو به حالت رد شده با ای دی
+car_edit_title_deleted,تغییر وضعیت خوردو به حالت پاک شده با ای دی
+send_notification_to_user,ارسال اعلان به کاربر با ای دی
+delete_businessman_session_id,پاک کردن لاگ های فعال تاجر با ای دی
+delete_driver_session_id,پاک کردن لاگ های فعال راننده با ای دی
+edit_cargo_cargo_origin,تغییر شهر مبدا بار با ای دی
+edit_cargo_cargo_customs_of_origin,تغییر گمرک مبدا بار با ای دی
+edit_cargo_cargo_destination,تغییر شهر مقصد بار با ای دی
+edit_cargo_cargo_destination_customs,تغییر گمرک مبدا بار با ای دی
+online,آنلاین
+transaction_deposit_type,روش واریز
+cargo_cancel_desc,توضیحات لغو بار
+cargo_cancel_desc_alert,اگر بار لغو نشده باشد و یا توضیحی نباشد خالی نمایش داده خواهد.
+change_cargo_status,تغییر وضعیت بار
+change_cargo_status_desc,در تغییر وضعیت بار حتما نهایت دقت خود را به خرج دهید.
+pending_deposit,در حال بررسی
+deposit_pending,واریز های در حال بررسی
+rejected_deposit,عدم پذیرش
+accepted_deposit,پذیرش
+acceptedes,تایید کردن 
+change_transaction_withdraw_status_title_completed,تغییر وضعیت تراکنش برداشت به حالت تکمیل شد با ای دی 
+low_balance_user_transaction_withdraw,کسر موجودی کاربر با تراکنش برداشت با تراکنش ای دی 
+change_transaction_withdraw_status_title_rejected,تغییر وضعیت تراکنش برداشت به حالت رد شد با ای دی 
+add_low_balance_user_transaction_withdraw,کسر موجودی از بخش اول و افزایش به بخش دوم کیف پول کاربر با تراکنش ای دی 
+change_transaction_deposit_status_title_paid,تغییر تراکنش پرداخت رسیدی به حالت پرداخت شده با تراکنش ای دی 
+add_balance_user_transaction_deposit,افزایش موجودی کاربر با تراکنش واریز رسیدی با تراکنش ای دی 
+change_transaction_deposit_status_title_rejected_deposit,تغییر وضعیت تراکنش واریز رسیدی به حالت عدم پذیرش با تراکنش ای دی 
+change_cargo_status_to_accepted,تغییر وضعیت بار بین المللی به حالت تایید شده با ای دی 
+change_cargo_status_to_rejected,تغییر وضعیت بار بین المللی به حالت رد شده با ای دی 
+change_cargo_in_status_to_accepted,تغییر وضعیت بار داخلی به حالت تایید شده با ای دی 
+change_cargo_in_status_to_rejected,تغییر وضعیت بار داخلی به حالت رد شده با ای دی 
+balance_in_withdraw,موجودی های در آستانه برداشت
+general,عمومی
+assign,تخصصی
+info_page,اطلاعات این صفحه
+page_name,نام صفحه
+page_action_value,وضعیت عملیات در صفحه
+permission_can_show,بازدید کننده
+permission_can_insert,ایجاد کننده
+permission_can_edit,ویرایش کننده
+permission_can_delete,حذف کننده
+add_car_type_title,افزودن دسته بندی خودرو با عنوان
+withdraws_pending_deposit,واریزهای در حال بررسی
+medias_add,افزودن رسانه
+medias_delete,پاک کردن رسانه
+add_score_count,افزودن امتیاز به تعداد
+low_score_count,کم کردن امتیاز به تعداد
+settings_logos_manifest,تنظیمات لوگو manifest
+logo_size,لوگو سایز
+update_manifest_logo,بروزرسانی لوگو manifest
+change_settings_site_fa_IR,بروزرسانی تنظیمات فارسی
+site_settings,تنظیمات سایت
+change_settings_languages_fa_IR,بروزرسانی تنظیمات زبان فارسی
+driver_info,اطلاعات راننده
+reason_cancel_cargo_driver,علت لغو بار از جانب راننده
+settings_payment,تنظیمات درگاه ها
+settings_sms,تنظیمات پنل پیامکی
+settings_payment_desc,در این بخش می توانید تنظیمات درگاه پرداخت سایت را مدیریت کنید.
+settings_jibit,تنظیمات جیبیت
+settings_jibit_panel,تنظیمات پنل جیبیت
+merchantid,Merchant ID
+status_show_active_show_user,وضعیت فعال بودن نمایش برای کاربر
+settings_sms_panel,تنظیمات پنل پیامکی
+settings_sms_panel_desc,در این بخش می توانید تنظیمات پنل پیامکی سایت را مدیریت کنید.
+select_sms_panel,انتخاب پنل پیامکی
+ghasedak,قاصدک
+settings_ghasedak,تنظیمات قاصدک
+amount,موجودی
+rle,ریال
+number_sender,شماره فرستنده
+apikey,کلید دسترسی(ApiKey)
+help_setting_sms_alert_amount,توجه : به مقدار موجودی باقی مانده پنل پیامک توجه داشته باشید.
+help_setting_payment_alert_merchantid,توجه : همیشه مواظب merchantid درگاه پرداخت باشید.
+empty_table,هیچ داده‌ای در جدول وجود ندارد.
+change_card_bank,تغییر کارت بانکی
+other,متفرقه
+count,تعداد
+date_end,تاریخ پایان
+date_start,تاریخ شروع
+census,آمار و سرشماری
+census_admin,آمارگیری از مدیر
+census_admins,آمارگیری از مدیران
+census_transaction,آمار تراکنش ها
+admin_name,نام مدیر
+admin_nickname,نام مستعار مدیر
+start_again,شروع از نو
+census_all,آمار کلی
+census_withdraw,آمار برداشت ها
+census_deposit,آمار واریزها
+census_detail,آمار جزئیات
+category_cities,دسته بندی شهر
+category_customs,دسته بندی گمرک
+system,سیستم خودکار
+change_balance,تغییر موجودی کاربر
+update_driver_gift,تغییر جایزه راننده
+update_driver_score,تغییر امتیاز راننده
+update_businessman_score,تغییر جایزه تاجر
+update_businessman_gift,تغییر امتیاز تاجر
+change_extra_status,تغییر وضعیت هزینه های اضافی
+change_request_status,تغییر وضعیت پیشنهادات راننده
+edit_cargo_location,تغییر آدرس بار
+update_driver,تغییر اطلاعات راننده
+update_businessman,تغییر اطلاعات تاجر
+change_driver_status,تغییر وضعیت راننده
+change_businessman_status,تغییر وضعیت تاجر
+update_businessman_authentication,بروزرسانی اطلاعات احراز هویت تاجر
+update_driver_authentication,بروزرسانی اطلاعات احراز هویت راننده
+post_delete,پاک کردن پست
+media_add,افزودن رسانه
+delete_ngroup,پاک کردن اعلان گروهی
+edit_ngroup,ویرایش اعلان گروهی
+add_ngroup,افزودن اعلان گروهی
+auth_activity,نوع فعالیت
+auth_company,نام شرکت
+help_notic,توجه : این یک راهنمایی جزئی می باشد که کار شما را راحتتر کند اما در کنار این <a href="/admin/help" target="_blank">صفحه راهنما</a> وجود دارد که می توانید راهنمای کلی سایت را آنجا مشاهده کنید. و احتمالا برخی صفحات فاقد این راهنمای جزئی باشد.
+help_notic_1,توجه : در هنگام بروز خطای احراز هویت چند ثانیه منتظر بمانید اگر مشکل حل نشد صفحه را دوباره لود کنید.
+help_logout,برای خروج می توانید از قسمت بالا سمت راست روی آیکون خود کلیک کرده و در منو کشویی باز شده گزینه خروج را فشار دهید تا خارج شوید.
+help_lock_screen,قسمت قفل صفحه برای بازگشت سریع به پنل می باشد و مدیر کافی است رمز خود را وارد کند توصیه ما این است که اگر مطمئن به بازگشت زود هنگام نیستید از سیستم خارج شوید.
+help_myaccount,در بخش اکانت من می توانید اسم مستعار و رمز ورود و تصویر آواتار خود را عوض کنید.
+help_myaccount_1,اگر قصد دارید اسم اصلی و شماره موبایل خود را عوض کنید از مدیریت این درخواست را بخواهید.
+help_login,مدت زمان اعتبار ورود در سیستم با روش `مرا به خاطر بسپار` 8 ساعت می باشد که با بسته شدن مرورگر و عدم کلیک روی گزینه خروج امکان بازگشت بدون ورود رمز وجود دارد.
+help_login_1,مدت زمان اعتبار حضور در سیستم بدون استفاده از روش `مرا به خاطر بسپار` 8 ساعت و در صورت بسته شده مرورگر اعتبار از بین خواهد رفت.
+help_dark_light,این سیستم دارای دو روش دارک و لایت می باشد که می توانید نسبت به خواست خود تغییر دهید.
+help_time,سیستم دارای دو تابع زمانی ایران و زمان بین المللی برحسب UTC می باشد.
+help_time_2,برای تغییر زمان می توانید از قسمت سربرگ سیستم روی پرچم کلیک کنید و صفحه دوباره لود خواهد شد و زمان ها برحسب انتخاب شما شمسی یا میلادی نمایش داده خواهد شد.
+help_notic_first,نکات اولیه
+help_notic_login,نکات ورود و خروج
+help_notic_login_1,ورود
+help_notic_login_2,خروج
+help_logout_2,استفاده از گزینه خروج موجب ثبت یک لاگ در سیستم می شود که باعث افزایش امنیت خودتان و سایت و رفع بدبینی های بعدی می شود و توصیه می کنیم حتما حتما از گزینه خروج برای بستن سیستم استفاده کنید.
+help_login_2,این سیستم از کوکی برای ورود و عملیات استفاده می کند در حفظ کوکی نهایت دقت خود را به کار بگیرید و نگذارید علاوه بر نام کاربری و رمز ورود ، کوکی های شما به دست افراد دیگر بیافتد.
+help_notic_myaccount,نکات اکانت من
+help_permission,هر مدیر دارای نقش خاص می باشد که موجب ورود و نمایش و عملیات برحسب همان نقش می شود پس به نقش خود دقت کنید.
+help_notic_time,نکان زمانی
+help_user_status,هر کاربر دارای 4 وضعیت می باشد
+help_user_status_guest,کاربر مهمان : هر کاربر در هنگام ثبت نام با وضعیت مهمان می باشد که فقط با شماره موبایل خود وارد شده است و هیچ گونه عملیاتی بغیر از نمایش چند صفحه و بررسی سایت عملیاتی نمی تواند انجام دهد
+help_user_status_guest_1,کاربر مهمان با اسم `کاربر مهمان` نمایش داده می شود.
+help_user_status_active,کاربر فعال : کاربر فعال احراز هویت کرده است و می تواند از تمامی امکانات سایت استفاده کند
+help_user_status_active_driver,راننده با وضعیت فعال می تواند درخواست بار کند
+help_user_status_active_businessman,تاجر با وضعیت فعال می تواند ثبت بار کند
+help_user_status_active_businessman_1,تاجر با وضعیت فعال احراز هویت اجباری را کرده است
+help_user_status_active_driver_1,راننده با وضعیت فعال احراز هویت اجباری را کرده است
+help_user_status_inactive,کاربر غیر فعال : کاربر غیر فعال امکان ورود به سایت را ندارد و از طرف مدیریت اکانت کاربر بسته شده است.
+help_user_status_inactive_1,وضعیت غیر فعال شامل شماره موبایلی است که با آن ثبت نام کرده است.
+help_user_status_suspend,وضعیت تعلیق کردن : در وضعیت تعلیق کاربر امکان ورود به سایت را دارد اما امکان فعالیت مانند ثبت بار برای تاجر و یا ثبت درخواست برای بار برای راننده وجود ندارد.
+help_user_status_suspend_1,وضعیت تعلیق کردن بخاطر عدم بدقولی و عدم حضور به موقع و یا به هر علتی که مدیر تصمیم گرفته تا حساب کاربری راننده مدتی معبق بماند.
+help_user_status_suspend_2,توجه : وضعیت تعلیق شده ها را هر بار بررسی کنید تا وضعیت کاربر فراموش شده و موجب آزار خاطر کاربر نشود.
+help_user_status_suspend_3, آمار وضعیت تعلیق شده ها هم در صفحه پنل مدیریت وجود دارد و هم در صفحه لیست کاربران.
+help_auth_2,احراز هویت اختیاری راننده شامل مواردی است که در شروع سایت اعم از نام پدر و پاسپورت و آدرس و ... می باشد
+help_auth_1,احراز هویت اختیاری تاجر شامل مواردی است که در شروع سایت اعم از تصویر پاسپورت و کارت ملی و نام شرکت و حوزه فعالیت می باشد
+help_not_desc_for_page,برای این صفحه فعال توضیحی ذکر نشده است.
+help_businessman_lists,در این صفحه اطلاعات تکمیلی تاجر به همراه پیوند صفحاتی که به ایت تاجر مروبط هست لینک شده است
+help_user_lists_1,در هنگام تغییر اطلاعات تاجر نهایت دقت را به کار ببرید
+help_user_lists_2,تب تیکت های باز : در این تب تمامی تیکت های باز کاربر نمایش داده می شود در صورت نبود تیکت باز خالی نمایش داده خواهد شد 
+help_user_lists_3,تب جوایز و امتیازات : در این تب به صورت دستی مدیر می تواند با ذکر عنوان برای مدیر بالا دستی امتیاز و جوایز کاربر را کم و یا زیاد کند.
+help_user_lists_4,تب امنیت : در این تب لیست دستگاه هایی که کاربر با آن وارد شده است و خروجی انجام نداده است نمایش داده خواهد شد.
+help_user_lists_5,تب موجودی : در این تب موجودی کاربر بر اساس ارز موجودی که کیف پول خود دارد نمایش داده خواهد شد.
+help_user_lists_6,تب احراز هویت : در این تب احراز هویت کاربر به صورت دستی توسط ادمین انجام می شود.
+help_user_lists_6_1,در احراز هویت کاربر توسط مدیر نهایت دقت را اعمال کنید که بعدا مشکلی پیش نیاید.
+help_user_lists_6_2,بعد از احراز هویت می توانید وضعیت کاربر را از حالت مهمان به فعال تغییر دهید.
+help_user_lists_7,تب لیست کارت بانکی : در این تب لیست کارت بانکی های کاربر نمایش داده می شود و برای ویرایش وضعیت (تایید و رد) باید به صفحه کارت بانکی بروید و یا می توانید با کلیک روی نام کارت بانکی به این صفحه بروید.
+help_user_lists_8,تب شاکی : در بخش لیست شکایت های کاربر نمایش داده می شود.
+help_user_lists_9,تب اتهامات : در بخش لیست شکایت هایی که برای کاربر صورت گرفته نمایش داده می شود.
+help_user_lists_10,از بخش اطلاعات تکمیلی مدیر می تواند اطلاعات تکمیلی کاربر را مشاهده کند.
+help_user_lists_11,از بخش اطلاعات تکمیلی مدیر می تواند گزینه های تماس گرفتن و یا ایجاد تیکت جدید و یا ارسال اعلان شخصی و یا افزودن ارز جدید در صورت نداشتن این ارز را انتخاب کند.
+help_user_lists_12,از بخش اطلاعات تکمیلی مدیر می تواند وضعیت کاربر را تغییر دهد.
+help_user_logs,در صفحه عملیات کاربر می توانید لیست عملیات کاربر را با ذکر عنوان و تاریخ و نوع دستگاه مشاهده کنید.
+help_user_pages,صفحات پیوستی کاربر
+help_user_notifications,در صفحه اعلانات کاربر مدیر می تواند لیست اعلانات ارسالی برای کاربر همراه با عنوان و متن و وضعیت  و تاریخ ارسال اعلان را مشاهده کند.
+help_user_notifications_2,در صفحه اعلانات کاربر مدیر می تواند برای کاربر اعلان جدیدی ارسال کند.
+help_user_ticket,در صفحه تیکت های کاربر مدیر لیست تمامی تیکت ها کاربر را همراه با وضعیت آنها مشاهده کند.
+help_user_ticket_2,در صفحه تیکت های کاربر مدیر برای مشاهده جزئیات تیکت باید به صفحه خود تیکت مراجعه کند.
+help_user_ticket_3,در صفحه تیکت های کاربر مدیر برای ارسال تیکت جدید باید به صفحه ایجاد تیکت جدید مراجعه کند.
+help_user_transaction_1,در صفحه تراکنش های کاربر مدیر می تواند لیست تمامی تراکنش های کاربر را به همراه وضعیت و برخی اطلاعات تراکنش مشاهده کند.
+help_user_transaction_2,در صفحه تراکنش های کاربر مدیر برای مشاهده اطلاعات تکمیلی و تغییر برخی اطلاعات تراکنش باید به صفحه ویرایش همان تراکنش مراجعه کند.
+help_user_cargo_1,در صفحه بارهای کاربر مدیر می تواند لیست بارهای کاربر را همراه با برخی اطلاعات کلی مانند نام بار و وضعیت و ... مشاهده کند .
+help_user_cargo_2,در صفحه بارهای کاربر مدیر برای ویرایش بار باید به صفحه ویرایش همان بار مراجعه کند .
+help_cargo_1,بار دارای شش وضعیت می باشد.
+help_cargo_2,وضعیت در انتظار :  در این حالت بار توسط تاجر ثبت شده است اما از طرف مدیریت تایید یا رد شده است و منتظر بررسی توسط مدیریت می باشد.
+help_cargo_3,وضعیت در تایید شده :  در این حالت بار توسط مدیر تایید شده است و ولی هنوز تاجر برای این بار راننده ای تایید نکرده است.
+help_cargo_4,وضعیت در حال اجرا :  در این حالت بار توسط مدیر تایید و تاجر برای بار راننده تعیین کرده است و بار در حال ارسال می باشد.
+help_cargo_5,وضعیت تکمیل شده :  در این حالت بار به مقصد ارسال شده است و راننده اتمام بار را اعلام کرده است.
+help_cargo_6,وضعیت رد شده :  در این حالت بار توسط مدیر بنابه قوانین سایت و صلاح دید بار را تایید نکرده است.
+help_cargo_7,وضعیت کنسل شده :  در این حالت بار توسط تاجر لغو شده است.
+help_cargo_8,وضعیت لغو شده فقط قبل از بارگیری از جانب تاجر ممکن است.
+help_cargo_10,در این صفحه می توانید لیست بار های تایید نشده و در انتظار بررسی را مشاهد کنید.
+help_cargo_11,برای ویرایش بار باید به صفحه ویرایش خود بار مراجعه کنید.
+help_cargo_12,در این صفحه می توانید لیست بار های تایید شده و منتظر تعیین راننده از جانب تاجر را مشاهد کنید.
+help_cargo_13,در این صفحه می توانید لیست بار های در حال اجرا را مشاهد کنید.
+help_request_1,هر درخواست راننده دارای 6 وضعیت است.
+help_request_2,وضعیت های درخواست بار راننده شامل در انتظار تایید ، تایید شده از جانب تاجر ، در حال اجرا ، کنسل شده ، رد شده توسط مدیر ، تکمیل شده می باشد.
+help_car_1,هر خودرو راننده دارای 4 وضعیت است.
+help_car_2,وضعیت در انتظار : در این وضعیت خوردو از جانب راننده ثبت شده است ولی هیچ گونه درخواستی با این خودرو ثبت نمی شود.
+help_car_3,وضعیت تایید شده : در این وضعیت خودرو از جانب مدیر تایید شده و راننده می تواند با این خورد درخواست بار کند.
+help_car_4,وضعیت تایید شده : در این وضعیت خودرو راننده پاک شده است و برای راننده قابل مشاهده نیست.
+help_car_5,وضعیت رد شده : در این وضعیت خودرو از جانب مدیر بنابر شرایط و تصمیم خودرو را تایید نکرده و رد شده است.
+help_car_6,در این صفحه لیست خودرو های تازه ثبت توسز راننده نمایش داده می شود که منتظر تایید یا رد توسط مدیر می باشد.
+help_car_7,برای ویرایش یا نمایش جزئیات بیشتر از خودرو باید به صفحه ویرایش خود خودرو بروید.
+help_car_8,در این صفحه مدیر می تواند جزئیات بیشتر از خودرو را مشاهده کند و وضعیت خودرو را تغییر دهد.
+help_department_1,هر دپارتمان دارای 2 وضعیت می باشد.
+help_department_2,وضعیت فعال : در این وضعیت دپارتمان برای کاربر و مدیر قابل نمایش می باشد و می توانند برای این دپارتمان تیکت ارسال کنند.
+help_department_3,وضعیت غیر فعال : در این وضعیت دپارتمان برای کاربر و مدیر غیر قابل نمایش می باشد و نمی توانند برای این دپارتمان تیکت ارسال کنند.
+help_department_4,هر دپارتمان دارای 2 نوع دسته می باشد.
+help_department_5,نوع دسته های دپارتمان یا برای راننده می باشد یا برای تاجر
+help_department_6,در هنگام وارد کردن عنوان دپارتمان نام یک دپارتمان را نسبت به زبان هایی که در کنار عنوان ذکر شده وارد کنید.
+help_credit_1,هر کارت بانکی دارای 4 وضعیت می باشد.
+help_credit_2,وضعیت در انتظار : در این وضعیت کارت بانکی توسط مدیر ثبت شد است اما در حال بررسی می باشد.
+help_credit_3,وضعیت تایید شده : در این وضعیت کارت بانکی توسط مدیر تایید شده و قابل قبول برای انجام تراکنش ها می باشد.
+help_credit_4,وضعیت رد شده : در این وضعیت کارت بانکی بنابر دلایلی از جانب مدیر رد شده است.
+help_credit_5,وضعیت پاک شده : در این وضعیت کارت بانکی توسط کاربر پاک شده و برای کاربر قابل نمایش نیست اما در سیستم برای در اختیار داشتن اطلاعات کافی باقی مانده است.
+help_credit_6,مدیر برای ویرایش یا نمایش جزئیات بیشتر کارت بانکی باید به صفحه ویرایش خود کارت بانکی مراجعه کند.
+help_credit_7,در این صفحه مدیر می تواند اطلاعات تکمیلی کارت بانکی را مشاهده و تغییر وضعیت بدهد.
+help_credit_8,در این صفحه مدیر لیست کارت بانکی تازه ثبت شده در سیستم را مشاهده می کند و باید بررسی کرده و تغییر وضعیت دهد.
+help_transaction_1,هر تراکنش در کل دارای 8 وضعیت می باشد.
+help_transaction_2,هر تراکنش دارای 2 نوع می باشد.
+help_transaction_3,هر تراکنش یا واریز می باشد یا برداشت.
+help_transaction_4,تراکنش واریز به سایت در دو نوع درگاه یا همان آنلاین و یا از طریق رسید می باشد.
+help_transaction_5,تراکنش های واریز رسیدی دارای وضعیت در حال بررسی ، عدم پذیرش و پرداخت شده می باشد.
+help_transaction_5_1,تراکنش های واریز آنلاین دارای وضعیت لغو شده ، منقضی شده و پرداخت شده می باشد.
+help_transaction_6,تراکنش های برداشت دارای وضعیت رد شده ، تکمیل شده و در انتظار می باشد.
+help_transaction_7,روال نحوه برداشت : کاربر درخواست برداشت می کند و یک تراکنش برداشت با وضعیت در انتظار ایجاد می شود و مدیر پس از بررسی یا رد خواهد کرد و یا پس از واریز موجودی به کارت کاربر وضعیت تراکنش را به حالت تکمیل شد تغییر خواهد داد و از حسای کاربر همان مقدار از همان ارز را کم خواهد کرد.
+help_transaction_8,برای ویرایش اطلاعات تراکنش باید به صفحه ویرایش خود تراکنش مراجعه کنید.
+help_transaction_9,در این صفحه لیست تراکنش هایی که کاربر خواستار برداشت ارز از سایت می باشد را نمایش می دهد.
+help_transaction_10,در حالت برداشت ارز توسط کاربر از سایت بعد از پرداخت و تغییر موجودی کاربر باید در این صفحه اطلاعات تراکنش و دیگر اطلاعات را در کنار اطلاعات درخواستی وارد کنید.
+help_complaint_1,هر شکایت دارای 3 وضعیت می باشد.
+help_complaint_2,وضعیت اولیه : در این حالت برای هر مدیری که در سیستم آنلاین باشد یک اعلان در وسط صفحه نمایش داد خواهد شد.
+help_complaint_3,وضعیت پاسخگویی : در این حالت اولین مدیری که به شکایت دست تکان دهد تغییر وضعیت پیدا خواهد کرد مدیر میبایست به کاربر شاکی تماس گرفته و در جهت رفع مشکل بکوشد.
+help_complaint_4,وضعیت اتمام شکایت و بستن : در این وضعیت شکایت پیگیری شده و با صلاح دید مدیر شکایت بسته خواهد شد.
+help_complaint_5,در این صفحه لیست شکایت هایی که مدیر دست تکان داده و در حال رفع مشکل پیش آمده هست را نمایش می دهد.
+help_complaint_6,در این صفحه لیست شکایت هایی که تازه ثبت شده است و هنوز هیچ مدیری دست تکان نداده را نمایش می دهد.
+help_ngroup_1,اعلانات گروهی در 2 وضعیت فعال و غیر فعال می باشد.
+help_ngroup_2,اعلانات گروهی با تعیین نوع زبان و نوع کاربر و وضعیت کاربر امکان ارسال وجود دارد.
+help_ngroup_3,اعلانات گروهی با هدف نمایش یک خبر برای یک گروه خاص (نه یک شخص خاص) ایجاد می شود.
+help_settings_lang_1,در هنگام ویرایش تنظیمات سایت بسیار دقت کنید چرا که امکان اختلال و از کار افتادگی سایت وجود دارد.
+help_settings_lang_2,در هنگام ویرایش تنظیمات سایت موارد ویرایش را بین سینگل کوتیشن قرار دهید و استفاده از سینگل کوتیشن در بین متن خود جدا خودداری کنید.
+help_post_1,هر وبلاگ از 2 وضعیت تشکیل شده است.
+help_post_2,در وضعیت فعال پست برای عموم آزاد است اما در وضعیت پیش نویس فقط مدیر می تواند مشاهده کرده و ویرایش کند.
+help_post_3,در ایجاد و ویرایش پست برخی از فیلدها اختیاری است اگر خالی بگذارید موردی پیش نماید.
+help_post_4,برای افزودن تصویر می توانید به بخش رسانه ها رفته و تصویر یا یا هر فایل مجازی را آپلود کنید و آدرس رسانه را در متن خود استفاده کنید.
+help_img_1,برای افزودن تصویر می توانید به بخش رسانه ها رفته و تصویر یا یا هر فایل مجازی را آپلود کنید و آدرس رسانه را در متن خود استفاده کنید.
+help_balance_1,در این صفحه لیست موجودی های تمامی کاربران در کیف پول را مشاهده می کنید.
+help_cate_1,هر دسته بندی دارای 2 وضعیت می باشد.
+help_cate_2,وضعیت فعال قابل نمایش برای کاربر و وضعیت غیر فعال غیر قابل نمایش برای کاربر می باشد.
+help_cate_3,در موقع افزودن یا ویرایش دسته بندی نام یک دسته را به زبان های خواسته شده وارد کنید حتما پر کنید.
+help_media_1,فرمت های قابل پشتیبانی شامل موارد زیر می باشد.
+help_media_2,jpg,jpeg,jpe,gif,webp,png,PNG,bmp,zip,pdf,svg,webm,flv,mp4,wmv,mov,avi,mkv
+help_media_3,در آپلود رسانه باید با نهایت دقت انجام شود که دارای ویروس و یا ... نباشد که باعث آسیب سایت شود.
+help_notic_users,بخش کاربران
+help_notic_driver,بخش کاربران راننده
+help_notic_businessman,بخش کاربران تاجر
+help_notic_cargo,بخش بار
+help_notic_cargo_desc,توضیحات بار
+help_notic_car,بخش خودرو
+help_notic_car_desc,توضیحات خودرو
+help_notic_car_bank,بخش کارت بانکی
+help_notic_car_bank_desc,توضیحات کارت بانکی
+help_notic_transaction,بخش تراکنش ها
+help_notic_transaction_desc,توضیحات تراکنش ها
+help_department,بخش دپارتمان ها
+help_department_desc,توضیحات دپارتمان ها
+help_notic_complaint,بخش شکایات
+help_notic_complaint_desc,توضیحات شکایات
+help_notic_ngroup,بخش اعلانات گروهی
+help_notic_ngroup_desc,توضیحات اعلانات گروهی
+hope_of_success,ما تیم انتیراپ سعی بر این داشتیم که سیستمی کامل و جامع مطابق با نیازهای و خواسته های شما آماده کنیم و در این مسیر تمامی توان خود را به کار گرفتیم موفقیت شما باعث خرسندی ماست.  
+newest,جدیدترین ها
+single_blog,جزئیات وبلاگ
+coming_back,بازگشت
+read_more,ادامه مطلب
+log_in_as_a_driver,ورود به عنوان راننده
+log_in_as_a_businessman,ورود به عنوان تاجر
+view_more,مشاهده بیشتر
+home,اپلیکیشن انتیراپ | سامانه آنلاین حمل و نقل بین المللی انتیراپ | حمل و نقل بین المللی
+academy,آکادمی
+page_404,برگه یافت نشد.
+return_to_main_page,بازگشت به صفحه اصلی
+privacy_driver,قوانین رانندگان
+privacy_businessman,قوانین تجار
+b_login_header,ورود تاجر
+b_about_header,درباره ما
+welcome_message,به انتیراپ خوش آمدید
+insert_phone_number,به انتیراپ خوش آمدید
+login_phone_number,شماره موبایل
+insert_otp_code,کد یکبار مصرف خود را وارد نمائید !
+next_level,مرحله بعدی
+edit_phone_number,تصحیح شماره
+b_mycargo,بارهای من 
+b_history,تاریخچه
+b_add_cargo,افزودن بار جدید
+b_call_for_price,استعلام قیمت
+b_dashboard_header,داشبورد
+b_complete_cargo,بارهای تکمیل شده
+b_process_cargo,بارهای در حال انجام
+b_pending_cargo,بارهای در حال بررسی
+b_rejected_cargo,بارهای رد شده
+b_home,اپلیکیشن انتیراپ | سامانه آنلاین حمل و نقل بین المللی انتیراپ | حمل و نقل بین المللی
+b_support,پشتیبانی
+b_profile,پروفایل
+b_bar,حمل بار
+b_lavazem,لوازم یدکی
+b_bimeh,بیمه
+b_cargo_name,نام بار
+b_example_cargo_type,برای مثال : سیمان ، خرما ، گالوانیزه و ...
+b_cargo_type,نوع بار
+b_select_cargo_type,نوع بار خود را مشخص کنید
+b_car_type,نوع ماشین 
+b_cargo_date,تاریخ بارگیری
+b_select_car_type,نوع ماشین درخواستی خود را انتخاب نمائید
+b_cargo_weight,وزن بار
+b_cargo_weight_desc,وزن بار به تناژ
+b_cargo_weight_placeholder,برای مثال :20 ، 30 ، ...
+b_cargo_car_count,تعداد ماشین
+b_cargo_car_count_desc,تعداد ماشین را وارد کنید
+b_cargo_car_count_placeholder,برای مثال : 2 
+b_cargo_volume,حجم بار
+b_recommended_price_title,مبلغ پیشنهادی صاحبان کالا
+b_cargo_volume_placeholder,لطفا حجم را به صورت متر معکب بنویسید
+b_cargo_source_city,شهر مبدا
+b_cargo_source_customs,گمرک مبدا
+b_cargo_dest_city,شهر مقصد
+b_cargo_desc_customs,گمرک مقصد
+b_cargo_select_cities,لطفا یک شهر انتخاب کنید
+previous_level,قبلی
+b_currency_type,نوع ارز
+b_currency_type_select,نوع ارز خود را انتخاب کنید
+b_more_desc,توضیحات بیشتر
+b_your_message,تصاویر بار
+b_cargo_images,تصاویر بار
+b_cargo_images_upload_desc,با کلیک کردن روی آیکون تصاویر بیشتری را آپلود نمائید.
+b_error_title,خطا
+b_cargo_name_error,نام بار را وارد کنید.
+b_cargo_type_error,نوع بار را انتخاب کنید.
+b_cargo_car_type_error,نوع ماشین درخواستی را انتخاب کنید
+b_cargo_date_error,تاریخ بارگیری را انتخاب کنید
+b_cargo_weight_error,وزن بار را وارد کنید. وزن بار نمیتواند بیشتر از 25 تن باشد.
+b_cargo_needed_car_error,تعداد ماشین درخواستی خود را وارد کنید.
+b_cargo_city_error,شهر مبدا را انتخاب کنید.
+b_cargo_city_customs_error,گمرک مبدا را انتخاب کنید.
+b_cargo_dest_error,شهر مقصد را انتخاب کنید.
+b_cargo_dest_customs_error,گمرک مقصد را انتخاب کنید.
+b_cargo_recommended_price_error,مبلغ پیشنهادی خود را وارد کنید.
+b_cargo_monetary_unit_error,ارز پیشنهادی خود را انتخاب کنید.
+b_cargo_add_error,ثبت بار با مشکل مواجه شد
+b_cargo_add_success,ثبت بار موفقیت آمیز بود
+b_cargo_other_city,سایر
+b_cargo_completed,این بار تکمیل گردیده است.
+b_cargo_driver_info,اطلاعات راننده:
+b_cargo_see_cargo,مشاهده بار 
+b_cargo_direct_call,تماس مستقیم
+b_cargo_pending_request,بار ارسالی شما در حال بررسی میباشد.
+b_edit_cargo,ویرایش بار
+b_edit_cargo_in,ویرایش بار داخلی
+b_see_all_request,مشاهده تمام درخواست ها
+b_recommended_price,مبلغ پیشنهادی:
+b_cargo_start_date,زمان بارگیری:
+b_details_cargo_weight,وزن تقریبی:
+b_details_cargo_volume,حجم بار:
+b_details_cargo_gallery,گالری تصاویر
+b_cargo_exit,خروج
+b_details_cargo_desc,توضیحات تکمیلی
+b_cargo_support_communication,ارتباط با پشتیبانی
+b_cargo_support_communication_desc,در صورت سوال در مورد بار با پشتیبانی تماس حاصل نمائید.
+b_cargo_support_ticket,تیکت
+b_cargo_support_whatsapp,واتس آپ
+b_cargo_support_call,تماس
+b_cargo_display_on_map,نمایش بار روی نقشه
+b_cargo_extra_cost,هزینه های درخواستی راننده
+b_cargo_extra_cost_desc,درا ین قسمت هزینه های درخواستی راننده را مشاهده می کنید
+b_cargo_extra_cost_problem_desc,در صورت بروز هر گونه مشکل با پشتیبانی تماس حاصل بفرمایید.
+b_accept,تایید
+b_reject,رد کردن
+accepted,تایید شده
+rejected,رد شده
+canceled,لغو شده
+b_mycargo_my_cargo_list,لیست بار های من 
+b_mycargo_my_cargo_list_desc, در این قسمت لیست بار های ارسالی خود را مشاهده میکنید.
+b_mycargo_my_cargo_search_placeholder,متن مورد نظر را وارد نمائید 
+b_filter,فیلتر
+b_filter_by,فیلتر توسط
+b_filter_by_desc,لطفا نوع فیلتر خود را انتخاب کنید
+b_filter_by_all,همه
+b_filter_by_completed,تکمیل شده
+b_filter_by_rejected,رد شده
+b_filter_by_canceled,لغو شده
+b_filter_by_accepted,تایید شده
+b_filter_by_progress,در حال اجرا
+b_filter_by_pending,در حال بررسی
+b_cargo_status,وضعیت
+b_cargo_details,جزئیات
+b_cargo_action,عملیات
+b_cargo_load_more,بارگذاری بیشتر
+b_cargo_help_table,راهنمای جدول
+b_authorize,احراز هویت
+b_required,اجباری
+b_name,نام
+b_lastname,نام خانوادگی
+b_company,شرکت
+b_activity,حوزه فعالیت
+b_id_card,کارت ملی 
+b_id_card_desc,توضیحات کارت ملی 
+b_passport,پاسورت
+b_passport_desc,توضیحات پاسپورت 
+b_send,ارسال
+b_select,انتخاب
+b_additional_images,تصاویر و رسید بار راننده
+b_rating, امتیازدهی به
+b_rating_driver,لطفا به راننده امتیاز بدهید.
+one_star,یک ستاره
+two_star,دو ستاره
+three_star,سه ستاره
+four_star,چهار ستاره
+five_star,پنج ستاره
+b_display_on_map,مشاهده راننده روی نقشه
+b_rate_success,امتیاز با موفقیت ثبت شد
+b_rate_error,ثبت امتیاز با خطا مواجه شد 
+b_history_desc,در این قسمت تاریخچه  باری های تکمیل شده خود را مشاهده می کنید. 
+b_history_search_placeholder,نام یا تاریخ خود را وارد نمائید .
+b_history_name,نام بار
+b_history_date,تاریخ بارگیری
+b_history_action,عملیات
+b_history_details,جزئیات
+b_suggestions_ready,آیا از انتخاب خود اطمینان دارید ؟
+b_suggestions_accept,تایید
+b_suggestions_exit,خروج
+b_suggestions_success,تبریک میگم
+b_suggestions_success_desc,  انتخاب شما انجام شد اطاعات تماس راننده در
+                        صفحه بار برایتان به نمایش در آمد!
+b_suggestions_redirect,رفتن به صفحه بار
+b_suggestions_list,لیست پیشنهادات 
+b_suggestions_list_desc, در این قسمت پیشنهاد های رانندگان را مشاهده میکنید. 
+b_filter_desc,بیشترین به کمترین
+b_filter_asc,کمترین به بیشترین
+b_suggestions_price,قیمت پیشنهادی
+b_suggestions_action,عملیات 
+b_load_more,بارگذاری بیشتر
+b_suggestions_details,جزئیات
+b_completed_cargo,بارهای تکمیل شده
+b_gifts,جوایز
+b_reward,امتیاز ها
+b_wallet,کیف پول
+b_faq,سوالات متداول
+b_laws,قوانین
+b_about_us,درباره ما
+b_getprice_result,نتیجه استعلام
+b_getprice_model_price,مبلغ تقریبی از
+b_getprice_model_to,به
+b_getprice_modal_categoty,در دسته بندی 
+b_getprice_modal_nofound,سابقه بار برای استعلام وجود ندارد لطفا با پشتیبانی تماس حاصل فرمایید
+b_cargo_category,نوع بار
+b_cargo_category_select,نوع بار خود را انتخاب کنید
+b_getprice_error,قیمت پیدا نشد بزودی کارشناسان با شما تماس میگیرند
+b_getprice_success,استعلام موفقیت آمیز بود
+b_suggest_price,مبلغ پیشنهادی
+b_cargo_cancel,لغو
+b_cargo_cancel_notice_error,کنسل کردن بار با مشکل مواجه شد 
+b_cargo_cancel_notice_success,لغو بار با موفقیت انجام شد.
+b_cancel_cargo,لغو بار
+b_cancel_cargo_label,علت لغو
+b_cancel_cargo_placeholder,علت لغو بار خود را وارد کنید
+b_btn_yes,تایید
+b_btn_close,بستن
+b_title_cargo_detail,جزئیات بار
+b_title_cargo_in_detail,جزئیات بار داخلی
+b_dashboard_title,داشبورد
+b__title_edit_cargo,ویرایش بار
+b_title_FAQ,سوالات متداول
+b_title_getprice,استعلام قیمت
+b_title_history,تاریخچه
+b_title_laws,قوانین
+b_title_my_cargos,بار های من 
+b_title_suggestions,پیشنهادات من 
+b_cargo_car_needed,ماشین درخواستی
+b_alert_authentication,برای #ACTION# باید احراز هویت خود را تکمیل کنید.
+b_alert_suspend,شما اجازه #ACTION# را ندارید.
+b_info_processing,در حال #ACTION#
+b_success_processing,عملیات #ACTION# با موفقیت انجام شد.
+b_error_processing,عملیات #ACTION# با خطا روبرو شد. بعدا تلاش کنید.
+b_submit_cargo,ثبت بار
+b_submit_cargo_in,ثبت بار داخلی
+b_my_cargoes,بار های من
+b_extra_expenses_changed,وضعیت درخواست هزینه تغییر یافت
+b_rate_submitted,امتیاز شما به راننده ثبت شد
+b_request_changed,وضعیت درخواست راننده تغییر یافت
+more_desc,توضیحات بیشتر
+redirecting,درحال انتقال به #PAGE#
+businessman_login,ورود
+b_accept_laws,ثبت نام در سایت به منزله قبول قوانین میباشد. (<a href="/privacy/businessman">قوانین</a>)
+d_login_title,ورود
+d_dashboard_title,اپلیکیشن انتیراپ | سامانه آنلاین حمل و نقل بین المللی انتیراپ | حمل و نقل بین المللی
+d_support_title,پشتیبانی
+d_ticket_list_title,تیکت ها
+d_ticket_title,تیکت
+d_cargo_detail_title,جزئیات بار
+d_my_cars_title,ماشین های من
+d_start_transportation_title,شروع بارگیری
+international_transportation,حمل و نقل بین المللی
+d_end_transportation_title,اتمام سفر
+d_end_transportation_extra_error,اتمام سفر به دلیل عدم تایید یا رد هزینه های اضافی امکان پذیر نیست  
+d_my_requests_title,پیشنهاد های من
+d_send_request_title,ارسال پیشنهاد
+d_car_detail_title,جزئیات ماشین
+d_about_title,درباره ما
+d_add_credit_card_title,افزودن حساب بانکی
+d_auth_title,احراز هویت
+d_credit_cards_title,حساب های من
+d_faq_title,سؤالات متداول
+d_laws_title,قوانین
+d_notification_detail_title,جزئیات پیام
+d_notifications_title,پیام ها
+d_profile_title,پروفایل
+d_wallet_title,کیف پول
+d_transactions_title,تراکنش ها
+d_transaction_detail_title,جزئیات تراکنش
+credit_cards_list,لیست حساب های من
+credit_cards_list_sub_title,در این قسمت لیست حساب های خود را مشاهده میکنید.
+credit_cards_search_placeholder,جستجو در حساب های من
+credit_card_detail,جزئیات حساب
+credit_card_delete_message,<span>آیا مطمئن هستید حساب</span><br><span style="color: darkred;">#ACCOUNT#</span><br><span>را غیر فعال نمایید؟</span>
+profile_completed_cargo,بار های تکمیل شده
+profile_gifts,جوایز
+profile_scores,امتیاز ها
+notification_private,خصوصی
+notification_group,عمومی
+notification_title,عمومی
+wallet_balance,موجودی قابل برداشت شما
+wallet_deposit,افزایش موجودی
+wallet_transactions_history,تاریخچه تراکنش ها
+wallet_deposit_online,پرداخت آنلاین
+wallet_deposit_receipt,فیش بانکی
+wallet_add_card,افزودن حساب
+wallet_deposit_amount,مبلغ واریزی
+wallet_deposit_authority,شناسه واریز
+wallet_deposit_receipt_message,انتخاب تصویر فیش
+wallet_deposit_receipt_alert,مبلغ فیش شما بعد از بررسی توسط تیم پشتیبانی به کیف پول شما اضافه خواهد شد
+wallet_deposit_submit_receipt,ثبت فیش
+wallet_withdraw,برداشت
+wallet_withdraw_amount,مبلغ برداشتی
+wallet_withdraw_destination,شماره حساب مقصد
+wallet_withdraw_destination_placeholder,لطفا حساب مقصد را انتخاب کنید
+wallet_withdraw_submit,درخواست برداشت
+transaction_list_search_placeholder,جستجو در تراکنش ها ...
+transaction_list_amount,مبلغ
+transaction_list_date,تاریخ تراکنش
+transaction_list_status,وضعیت
+tx_authority,شناسه واریز
+tx_tacking_code,شماره پیگیری
+tx_amount,مبلغ تراکنش
+tx_status,وضعیت
+tx_type,نوع تراکنش
+tx_type_deposit_online,پرداخت آنلاین
+tx_type_deposit_receipt,فیش بانکی
+tx_destination,حساب مقصد
+tx_receipt,تصویر فیش
+tx_status_unpaid,در انتظار پرداخت
+tx_status_paid,پرداخت شده
+tx_status_pending,در حال بررسی
+tx_status_completed,تکمیل شده
+tx_status_rejected,رد شده
+tx_status_expired,منقضی شده
+tx_status_unknown,نا معلوم
+bank_name,نام بانک
+bank_card_number,شماره کارت
+bank_account,شماره حساب
+bank_iban,شماره شبا
+bank_name_example,بانک سرمایه
+bank_card_number_example,Array
+bank_account_example,1234567890123
+bank_iban_example,123456789012345678901234
+bank_card_number_badge,(16 رقمی)
+bank_iban_badge,(بدون IR)
+required,(الزامی)
+inactivate,غیرفعال کردن
+exit,خروج
+no_image,فاقد تصویر
+verifying,تاییدیه
+back_prev,بازگشت
+auth_first_name,نام
+auth_last_name,نام خانوادگی
+auth_father_name,نام پدر
+auth_mother_name,نام مادر
+auth_id_card,تصویر کارت ملی
+d_inactivate_car_message,آیا مطمئن هستید میخواهید این ماشین را حذف کنید؟
+d_welcome_title,به انتیراپ خوش آمدید
+d_welcome_subtitle,لطفا شماره موبایل خود را وارد کنید تا کد فعال سازی برای شما ارسال گردد.
+d_welcome_subtitle_2,لطفا کد فعال سازی ارسالی به شماره موبایل خود را وارد کنید.
+d_phone_number_label,شماره موبایل
+d_phone_number_placeholder,9120000000
+d_accept_laws,ثبت نام در سایت به منزله قبول قوانین میباشد. (<a class="text-primary" href="/user/laws">قوانین</a>)
+d_next_step,مرحله بعد
+d_change_phone,تصحیح شماره
+d_cargo_price,مبلغ پیشنهادی صاحبان کالا
+d_cargo_origin,مبدا
+d_cargo_destination,مقصد
+d_cargo_weight,وزن تقریبی
+d_cargo_weight_unit,تن
+d_cargo_loading_time,زمان بارگیری
+d_cargo_show,مشاهده جزئیات
+d_cargo_owner_call,تماس با صاحب کالا
+d_cargo_customs_of_origin,گمرک مبدا
+d_cargo_destination_customs,گمرک مقصد
+d_cargo_volume,حجم بار
+d_cargo_volume_unit,متر مکعب
+d_cargo_gallery,گالری تصاویر
+d_cargo_description,توضیحات تکمیلی
+d_cargo_support,ارتباط با پشتیبانی
+d_cargo_support_sub_title,در صورت سوال در مورد بار با پشتیبانی تماس حاصل کنید.
+d_cargo_call,تماس
+d_cargo_whatsapp,واتس اپ
+d_cargo_ticket,تیکت
+d_cargo_complaint,ثبت شکایت
+d_cargo_route_on_the_map,مسیر بار در نقشه
+d_cargo_lowest_price,کمترین پیشنهاد
+d_cargo_additional_expenses,هزینه های اضافی
+d_cargo_additional_expenses_sub_title,در صورت داشتن هزینه اضافی با ذکر عنوان و مبلغ وارد نمایید.
+d_cargo_additional_expenses_input_title_placeholder,عنوان
+d_cargo_additional_expenses_input_price_placeholder,مبلغ
+d_cargo_additional_expenses_button,افزودن
+d_cargo_additional_expenses_alert,در صورت بروز هر گونه مشکل با پشتیبانی تماس حاصل بفرمایید.
+d_cargo_additional_images_and_expenses,تصاویر و تغییرات تکمیلی
+d_cancel_request,لغو پیشنهاد
+d_cancel_request_label,علت لغو
+d_cancel_request_placeholder,علت لغو پیشنهاد خود را وارد کنید
+d_cargo_end_transportation_button,اتمام سفر
+d_cargo_images_of_delivery_at_destination,تصاویر تحویل بار در مقصد
+d_cargo_images_of_delivery_at_destination_sub_title,تصاویری از بار تحویل داده ارسال کنید
+d_cargo_receipt_label,لطفا تصویر رسید بار را انتخاب کنید
+d_cargo_images,تصاویر بار
+d_cargo_rating,امتیازدهی
+d_cargo_rating_sub_title,لطفا به تاجر امتیاز بدهید.
+d_cargo_start_transportation_button,آغاز سفر
+d_cargo_images_of_delivery,تصاویر تحویل بار
+d_cargo_images_of_delivery_sub_title,تصاویری از بار تحویل گرفته ارسال کنید
+d_choose_image,انتخاب تصویر
+d_dropzone_label,با کلیک کردن روی این آیکون عکس  یا فایل های مورد نظر خود را آپلود کنید
+d_status_additional_expenses_pending,در حال بررسی
+d_status_additional_expenses_accepted,تایید توسط تاجر
+d_status_additional_expenses_rejected,رد توسط تاجر
+d_header_my_requests,پیشنهاد من
+d_header_my_cars,ماشین ها
+d_header_cargo,بار ها
+d_header_history,تاریخچه
+d_alert_pending_request,پیشنهاد ارسالی شما در حال بررسی میباشد.
+d_alert_completed_request,این بار تکمیل گردیده است.
+d_businessman_info,اطلاعات تاجر
+d_direct_call,تماس مستقیم
+d_start_loading,شروع بارگیری
+d_alert_start_loading,برای شروع باید بارگیری را اعلام کنید
+d_send_request,ارسال پیشنهاد
+d_my_cars_list,لیست ماشین های من
+d_my_cars_list_sub_title,در این قسمت شما ماشین های خود را مشاهده میکنید
+d_my_cars_table_type,نام ماشین
+d_my_cars_table_plaque,شماره پلاک
+d_my_cars_choose_car_type,نوع ماشین خود را انتخاب کنید
+d_my_cars_plaque_type,پلاک ماشین خود را وارد کنید
+d_my_cars_choose_plaque_type,نوع پلاک ماشین خود را انتخاب کنید
+d_my_cars_choose_images,با کلیک کردن روی این آیکون عکس های ماشین خود را آپلود کنید
+d_my_requests_list,لیست پیشنهاد های من
+d_my_requests_list_sub_title,در این قسمت لیست پیشنهاد های ارسالی خود را مشاهده میکنید.
+d_my_request_search_placeholder,جستجو در پیشنهاد های من
+d_my_request_table_cargo_title,نام بار
+d_my_request_table_cargo_start,تاریخ بارگیری
+d_my_request_table_status,وضعیت
+d_send_request_sub_title,در این قسمت شما مبلغ پیشنهادی خود را برای تاجر ارسال میکنید.
+d_send_request_select_car,ماشین شما
+d_send_request_choose_car,ماشین خود را انتخاب کنید
+d_send_request_price_placeholder,لطفا مبلغ پیشنهادی خود را با توجه به واحد پولی منتخب ، وارد کنید
+d_send_request_sent,پیشنهاد شما ارسال شد
+d_send_request_sent_sub_title,در صورت تایید از طرف تاجر اطلاع رسانی خواهد شد
+d_show_ticket_list,مشاهده تیکت های ارسالی
+d_send_ticket,ارسال تیکت
+d_send_ticket_sub_title,جهت ارسال تیکت فیلد های زیر را تکمیل نمایید.
+d_send_ticket_input_title_placeholder,موضوع تیکت را وارد کنید
+d_send_ticket_input_message_placeholder,متن تیکت را وارد کنید
+d_send_ticket_input_department_placeholder,دپارتمان مربوطه را انتخاب کنید
+d_ticket_list_table_title,عنوان تیکت
+d_ticket_list_table_department,دپارتمان
+d_ticket_list_table_status,وضعیت
+d_ticket_create_time,تاریخ ایجاد
+d_ticket_input_placeholder,پیام خود را یادداشت کنید
+d_table_action,عملیات
+d_table_help,راهنمای جدول
+d_button_detail,جزئیات
+d_button_add,افزودن
+d_button_load_more,بارگذاری بیشتر
+d_button_send,ارسال
+d_btn_yes,تایید
+d_btn_close,بستن
+d_filter,فیلتر
+d_filter_title,فیلتر بر اساس
+d_filter_sub_title,فقظ موارد انتخابی شما در لیست نمایش داده خواهد شد.
+d_filter_all,همه
+d_filter_completed,تکمیل شده
+d_filter_rejected,رد شده
+d_filter_accepted,در انتظار بارگیری
+d_filter_progress,در حال انجام
+d_filter_pending,در حال بررسی
+d_filter_canceled,لغو شده
+d_filter_active,فعال
+d_filter_expired,منقضی شده
+d_filter_unpaid,در انتظار پرداخت
+d_filter_paid,پرداخت شده
+d_error_address,آدرس محل سکونت خود را وارد کنید
+d_info_address,شما قبلا آدرس محل سکونت خود را ثبت کرده اید
+d_success_address,آدرس محل سکونت شما ثبت شد
+d_alert_authentication,برای ارسال پیشنهاد باید احراز هویت خود را تکمیل کنید.
+d_alert_authentication_2,برای افزودن ماشین باید احراز هویت خود را تکمیل کنید.
+d_alert_authentication_3,شما اجازه ثبت پیشنهاد برای این بار را ندارید.
+d_alert_authentication_4,شما اجازه بارگیری این بار را ندارید.
+d_alert_authentication_5,شما قبلا در تاریخ <b class="text-dark mj-fw-700 px-1">#date#</b> شروع بارگیری این بار را اعلام کرده اید.
+d_alert_authentication_6,شما اجازه تکمیل این بار را ندارید.
+d_alert_authentication_7,شما قبلا این بار را تکمیل کرده اید0
+d_alert_new_car,ماشین جدید ثبت شد. پس از بررسی نتیجه آن به شما اعلام خواهد شد.
+d_alert_delete_car,ماشین شما حذف شد.
+d_alert_send_request,درخواست شما ثبت شد.
+d_alert_start_transportation,شروع بارگیری اعلام شد
+d_alert_end_transportation,شما با موفقیت این سفر را به اتمام رساندید
+d_alert_extra_expanses_submitted,درخواست هزینه اضافی شما ثبت شد.
+d_alert_ticket_submitted,تیکت جدید ثبت شد.
+d_alert_ticket_message_submitted,پاسخ شما ثبت شد.
+alert_bank_name_required,نام بانک را وارد کنید
+alert_bank_card_required,شماره کارت را وارد کنید
+alert_bank_account_required,شماره حساب را وارد کنید
+alert_bank_iban_required,شماره شبا را وارد کنید
+alert_success_submit_credit_card,حساب بانکی شما ثبت شد.
+alert_success_delete_credit_card,شماره حساب انتخاب شده غیرفعال شد
+alert_auth_first_name,نام خود را وارد کنید
+alert_auth_last_name,نام خانوادگی خود را وارد کنید
+alert_info_auth_first_name,نام شما ثبلا ثبت شده است
+alert_info_auth_last_name,نام خانوادگی شما قبلا ثبت شده است
+alert_success_auth_first_name,نام شما ثبت شد
+alert_success_auth_last_name,نام خانوادگی شما ثبت شد
+alert_ticket_subject,عنوان تیکت خود را وارد کنید
+alert_ticket_department,دپارتمان مربوطه را انتخاب کنید
+alert_ticket_message,متن پیام تیکت را وارد کنید
+alert_wallet_deposit_amount,مبلغ واریزی خود را وارد کنید
+alert_wallet_deposit_monetary_unit,ارز واریزی را انتخاب کنید
+alert_wallet_deposit_authority,شناسه واریز را وارد کنید
+alert_wallet_deposit_receipt,رسید فیش پرداختی را انتخاب کنید
+alert_success_wallet_deposit_receipt,فیش بانکی شما ثبت شد
+alert_withdraw_amount,مبلغ برداشتی را وارد کنید
+alert_withdraw_destination,حساب مقصد را انتخاب کنید
+alert_success_withdraw,درخواست برداشت شما ثبت شد
+d_alert_expense_title,عنوان هزینه را وارد کنید
+d_alert_expense_amount,مقدار هزینه را وارد کنید
+d_alert_expense_currency,ارز هزینه را وارد کنید
+d_alert_cancel_request_reason,علت لغو پیشنهاد خود را وارد کنید
+d_alert_success_cancel_request_reason,پیشنهاد شما با موفقیت لغو شد
+d_alert_success_complaint,شکایت شما ثبت شد
+d_alert_car_type,نوع ماشین خود را انتخاب کنید
+d_alert_car_plaque_type,نوع پلاک ماشین خود را انتخاب کنید
+d_alert_car_plaque,پلاک ماشین خود را وارد کنید
+d_alert_car_plaque_length,پلاک وارد شده با فرمت انتخاب شده سازگار نیست
+d_alert_send_request_car,ماشین خود را انتخاب کنید
+d_alert_send_request_price,مبلغ پیشنهادی خود را وارد کنید
+alert_warning,اخطار
+alert_success,موفق
+alert_error,خطا
+alert_info,اطلاعیه
+choose_file_label,فایل های خود را انتخاب کنید
+choose_file,انتخاب فایل
+login_enter_phone_number,شماره موبایل خود را وارد کنید
+login_enter_otp,کد تایید ارسالی را وارد کنید
+login_otp_sent,کد تایید برای شما ارسال شد
+login_otp_wrong,کد تایید وارد شده صحیح نمیباشد
+login_successfully,شما با موفقیت وارد حساب کاربری خود شدید
+login_redirect_businessman,نوع حساب شما تاجر میباشد. لطفا از طریق پنل خود نسبت به ورود اقدام کنید
+login_redirect_driver,نوع حساب شما راننده میباشد. لطفا از طریق پنل خود نسبت به ورود اقدام کنید
+login_unknown_error,خطایی رخ داده است. بعدا تلاش کنید
+nav_home,خانه
+nav_support,پشتیبانی
+nav_profile,پروفایل
+menu_buy_car,آگهی خودرو
+menu_insurance,بیمه
+menu_spare_parts,لوازم یدکی
+menu_bank,بانک
+menu_driver_services,خدمات راننده
+menu_road_services,خدمات جاده ای
+table_no_record_found,رکوردی یافت نشد
+uLog_register,ثبت نام در سامانه
+uLog_login_to_system,ورود به سیستم
+uLog_edit_score,ویرایش امتیاز
+uLog_edit_rate,ویرایش امتیازدهی
+uLog_edit_rate_count,ویرایش تعداد امتایزدهی
+uLog_edit_gift,ویرایش جوایز
+uLog_auth_,تکمیل فیلد ناشناس احراز هویت
+uLog_auth_first_name,تکمیل فیلد نام احراز هویت
+uLog_auth_last_name,تکمیل فیلد نام خانوادگی احراز هویت
+uLog_new_credit_card,ثبت حساب بانکی جدید
+uLog_delete_credit_card,غیرفعال کردن حساب بانکی
+uLog_deposit_receipt,ثبت واریز با فیش بانکی
+uLog_withdraw_request,ثبت درخواست برداشت
+uLog_create_ticket,ایجاد تیکت جدید
+uLog_send_ticket_message,ثبت پاسخ به تیکت
+uLog_submit_complaint,ثبت شکایت جدید
+uLog_new_car,ثبت ماشین جدید
+uLog_delete_car,غیرفعال کردن ماشین
+uLog_send_request,ارسال پیشنهاد به بار
+uLog_start_transportation,اعلام شروع بارگیری
+uLog_request_extra_expenses,ثبت درخواست هزینه اضافی
+uLog_end_transportation,اعلام اتمام سفر
+uLog_cancel_request,لغو پیشنهاد
+uLog_submit_cargo,ثبت بار بین المللی جدید
+uLog_submit_cargo_air,ثبت استعلام قیمت بار هوایی جدید
+uLog_submit_cargo_shio,ثبت استعلام قیمت بار دریایی جدید
+uLog_submit_cargo_railroad,ثبت استعلام قیمت بار ریلی جدید
+uLog_submit_cargo_inventory,ثبت استعلام قیمت انبارداری جدید
+uLog_submit_cargo_in,ثبت بار داخلی جدید
+uLog_edit_cargo,ویرایش بار بین المللی
+uLog_edit_cargo_in,ویرایش بار بین المللی
+uLog_cancel_cargo,لغو بار
+uLog_freight_price,استعلام قیمت
+uLog_accept_request,تایید پیشنهاد راننده
+uLog_reject_request,رد پیشنهاد راننده
+uLog_accept_expense,تایید درخواست هزینه اضافی
+uLog_reject_expense,رد درخواست هزینه اضافی
+nLog_send_request_title,پیشنهاد جدید
+nLog_start_transportation_title,شروع بارگیری
+nLog_end_transportation_title,بار شما به مقصد رسید
+nLog_request_extra_expenses_title,درخواست هزینه اضافی توسط راننده
+nLog_accept_request_title,تایید پیشنهاد شما توسط تاجر
+nLog_reject_request_title,رد پیشنهاد شما توسط تاجر
+nLog_accept_expense_title,تایید هزینه اضافی توسط تاجر
+nLog_reject_expense_title,رد هزینه اضافی توسط تاجر
+about,درباره ما
+ground_transportation,حمل و نقل زمینی
+air_transportation,حمل و نقل هوایی
+maritime_transportation,حمل و نقل دریایی
+railroad_transportation,حمل و نقل ریلی
+freight_result,نتیجه استعلام قیمت
+freight_result_message,نتیجه استعلام قیمت از شهر <b class="mj-fw-800">#FROM# </b> به شهر <b class="mj-fw-800">#TO#</b> در نوع بار <b class="mj-fw-800">#TYPE#</b> مبلغ <b class="mj-fw-800">#AMOUNT# #CURRENCY#</b> می باشد.
+freight_result_not_found,نتیجه ای برای استعلام قیمت از شهر <b class="mj-fw-800">#FROM#</b> به شهر <b class="mj-fw-800">#TO#</b> در نوع بار <b class="mj-fw-800">#TYPE#</b> با ارز <b class="mj-fw-800">#CURRENCY#</b> یافت نشد.
+ticket_freight_price_message,مبدا: #FROM# <br> مقصد: #TO# <br> نوع بار: #TYPE# <br> ارز: #CURRENCY#
+freight_pending,در حال استعلام گیری...
+notice_upload,بارگذاری فایل
+submit_ticket,ثبت تیکت
+submit_car,ثبت ماشین
+required_auth,لطفا احراز هویت خود را تکمیل کنید
+coming_soon,بزودی...
+change_settings_languages_en_US,بروزرسانی تنظیمات زبان انگلیسی
+change_settings_languages_tr_Tr,بروزرسانی تنظیمات زبان ترکیه
+change_settings_languages_ru_RU,بروزرسانی تنظیمات زبان روسیه
+change_settings_site_en_US,بروزرسانی تنظیمات انگلیسی
+change_settings_site_tr_Tr,بروزرسانی تنظیمات ترکی
+change_settings_site_ru_RU,بروزرسانی تنظیمات روسی
+soon_air,بزوری ...
+soon_bank,وام قرض الحسنه، وام لیزینگ بدون ضامن و سند ملکی در اسرع وقت خواهیم داد.
+soon_buy_car,بزودی خرید و فروش را در هر نقطه کشور میتوانید ببینید و خرید کنید و بفروشید
+soon_customs_services,بزودی ...
+soon_driver_services,بزودی ...
+soon_exchange,بزودی ...
+soon_insurance,بزودی ...
+soon_inventory,بزودی ...
+soon_maritime,بزودی ...
+soon_railroad,بزودی ...
+soon_road_services,تخفیف برای رستوران، پمپ، گاراژ و خدمات ویژه برای عضو سایت
+soon_spare_parts,بزودی ...
+fullscreen,تمام صفحه
+social,شبکه های اجتماعی
+page_help,راهنمای صفحه
+page_permission,دسترسی صفحه
+d_alert_request,شما مبلغ &nbsp; <strong>#AMOUNT# #CURRENCY#</strong> &nbsp; به این بار پیشنهاد داده اید.
+menu_businessman_services,خدمات انبارداری
+menu_customs_services,خدمات گمرکی
+upload_avatar,بارگذاری تصویر
+menu_transportation,حمل بار زمینی
+menu_air_transportation,حمل بار هوایی
+menu_maritime_transportation,حمل بار دریایی
+menu_railroad_transportation,حمل بار ریلی
+b_buy_car,خدمات گمرکی
+country_list,لیست کشورها
+country_c,دسته بندی کشورها
+chart_country,آمار کشورها
+all_countries,همه کشورها
+category_countries,دسته بندی کشورها
+country_add,افزودن کشور جدید
+country_add_title,افزودن کشور جدید با نام 
+iso_settings,تنظیمات استاندارد
+iso_country_two_word,استاندارد دو کلمه
+iso_language,استاندارد زبان
+country_edit,ویرایش کشور
+country_edit_id,ویرایش کشور با ای دی 
+select_country,انتخاب کشور
+country,کشور
+status_select,انتخاب وضعیت
+a_status_ship,حمل و نقل دریایی
+a_status_air,حمل و نقل هوایی
+a_status_railroad,حمل و نقل ریلی
+a_status_ground,حمل و نقل زمینی
+a_status_inventory,انبارداری
+btn_back,بازگشت
+active_submit,ثبت و فعال
+inactive_submit,ثبت و غیر فعال
+city_cargo_ground,شهرهای بارگیری زمینی
+category_ports,دسته بندی بندرها
+ports_list,لیست بندرها
+chart_ports,آمار بندرها
+all_ports,همه بندرها
+port_c,دسته بندی بندرها
+railroad_c,دسته بندی راه آهن ها
+port_add,افزودن بندر
+port_add_title,افزودن بندر با عنوان 
+port_edit_id,ویرایش بندر با ای دی 
+port_edit,ویرایش بندر
+category_container,دسته بندی کانتینرها
+container_list,لیست کانتینرها
+wagon_list,لیست واگن ها
+chart_container,آمار کانتینرها
+chart_wagon,آمار واگن ها
+all_container,همه کانتینرها
+all_wagon,همه واگن ها
+container_c,دسته بندی کانتینرها
+wagon_c,دسته بندی واگن
+container_add,افزودن کانتینر
+wagon_add,افزودن واگن
+container_add_title,افزودن کانتینر با عنوان 
+wagon_add_title,افزودن واگن با عنوان 
+container_edit_id,ویرایش کانتینر با ای دی 
+wagon_edit_id,ویرایش واگن با ای دی 
+container_edit,ویرایش کانتینر
+wagon_edit,ویرایش واگن
+a_transportation_ship,حمل و نقل دریایی
+a_transportation_ground,حمل و نقل زمینی
+a_transportation_air,حمل و نقل هوایی
+a_transportation_railroad,حمل و نقل ریلی
+a_inventory,انبارداری
+category_ship_cargo,دسته بندی بارهای دریایی
+ship_cargo_list,لیست بارهای دریایی
+chart_ship_cargo,آمار دسته بندی بارهای دریایی
+all_ship_cargo,همه دسته بندی بارهای دریایی
+ship_cargo_c,دسته بندی بارهای دریایی
+ship_cargo_add,افزودن دسته بندی بار دریایی
+ship_cargo_add_title,افزودن دسته بندی بار دریایی با عنوان 
+ship_cargo_edit_id,ویرایش دسته بندی بار دریایی با ای دی 
+ship_cargo_edit,ویرایش دسته بندی بار دریایی
+help_admin_role_1,در افزودن نقش مدیریت نهایت دقت خود را خرج دهید و دسترسی ها را بررسی کنید تا بعدا مشکلی پیش نیائید.
+help_admin_role_2,در بالای هر صفحه یک عنوان صفحه و بهمراه نوع دسترسی وجود دارد که می توانید از آنها کمک بگیرید و دسترسی ها را تیکت بزنید یا رد کنید.
+help_admin_role_3,برای پاک کردن نقش مدیریت باید هیچ مدیری این نقش را نداشته باشد و باید نقش مدیران را تغییر داده و به نقش جدید بروز رسانی کنید سپس نقش را ویرایش کنید.
+help_admin_role_4,عنوان نقش مدیریت باید بیش از 2 کاراکتر باشد.
+role_title,عنوان نقش
+access,دسترسی ها
+validate_phone,شماره موبایل معتبر
+invalidate_phone,شماره موبایل نامعتبر
+validate_email,ایمیل معتبر
+invalidate_email,ایمیل نامعتبر
+validation,اعتبار سنجی
+validate_password,پسورد معتبر
+invalidate_password,پسورد نامعتبر
+help_admin_1,در ثبت مدیر جدید نباید شماره موبایل و ایمیل مدیر تکراری باشد.
+help_admin_2,نام و نام مستعار مدیر باید بیش از دو کاراکتر باشد.
+help_admin_3,پسورد مدیر باید بیش از 7 کاراکتر و دارای حرف کوچک و بزرگ و اعداد انگلیسی باشد.
+replacement_role_error,باید یک نقش مدیریت جایگزین انتخاب نمائید.
+role_admin,نقش مدیریت
+data_register,تاریخ ثبت نام
+edit_2,ویرایش کردن
+show_logs,مشاهده عملیات
+category_airport,دسته بندی فرودگاه ها
+airport_list,لیست فرودگاه ها
+chart_airport,آمار فرودگاه ها
+chart_railroad,آمار راه آهن ها
+all_airport,همه فرودگاه ها
+all_railroad,همه راه آهن ها
+airport_c,دسته بندی فرودگاه ها
+airport_add,افزودن فرودگاه
+railroad_add,افزودن راه آهن
+airport_add_title,افزودن فرودگاه با عنوان 
+railroad_add_title,افزودن راه آهن با عنوان 
+airport_edit_id,ویرایش فرودگاه با ای دی 
+railroad_edit_id,ویرایش راه آهن با ای دی 
+airport_edit,ویرایش فرودگاه
+railroad_edit,ویرایش راه آهن
+category_air_cargo,دسته بندی بارهای هوایی
+air_cargo_list,لیست بارهای هوایی
+chart_air_cargo,آمار دسته بندی بارهای هوایی
+chart_railroad_cargo,آمار دسته بندی بارهای ریلی
+all_air_cargo,همه دسته بندی بارهای هوایی
+all_railroad_cargo,همه دسته بندی بارهای ریلی
+air_cargo_c,دسته بندی بارهای هوایی
+air_cargo_add,افزودن دسته بندی بار هوایی
+railroad_cargo_add,افزودن دسته بندی بار ریلی
+air_cargo_add_title,افزودن دسته بندی بار هوایی با عنوان 
+railroad_cargo_add_title,افزودن دسته بندی بار ریلی با عنوان 
+air_cargo_edit_id,ویرایش دسته بندی بار هوایی با ای دی 
+railroad_cargo_edit_id,ویرایش دسته بندی بار ریلی با ای دی 
+air_cargo_edit,ویرایش دسته بندی بار هوایی
+railroad_cargo_edit,ویرایش دسته بندی بار ریلی
+category_railroad,دسته بندی راه آهن ها
+railroad_list,لیست راه آهن ها
+category_wagons,دسته بندی واگن ها
+category_inventory,دسته بندی انبارها
+a_select_city,لطفا یک شهر انتخاب نمائید.
+a_enter_title_city,لطفا عنوان شهر را به صورت صحیح وارد کنید.
+category_xxx,افزودن یا ویرایش دسته بندی شهر و گمرک و بندر و ...
+city,شهر
+customs_edit_id,ویرایش گمرک با ای دی 
+country_display_code,کد نمایش کشور
+country_code,کد کشور
+country_name,نام کشور
+a_status_login,ثبت نام و ورود
+a_image_flag,تصویر پرچم
+info_added,اطلاعات اضافی
+a_type_car,نوع خودرو
+a_type_cargo,نوع بار
+a_type_container,نوع کانتینر
+a_type_wagons,نوع واگن
+a_type_packing,نوع بسته بندی
+a_type_inventory,نوع انبار
+ship_packing_c,نوع بسته بندی دریایی
+railroad_packing_c,نوع بسته بندی ریلی
+air_packing_c,نوع بسته بندی هوایی
+railroad_cargo_c,دسته بندی بار ریلی
+ship_packing_list,لیست بسته بندی دریایی
+railroad_packing_list,لیست بسته بندی ریلی
+railroad_cargo_list,لیست دسته بندی بار ریلی
+air_packing_list,لیست بسته بندی هوایی
+chart_ship_packing,آمار بسته بندی دریایی
+chart_railroad_packing,آمار بسته بندی ریلی
+chart_air_packing,آمار بسته بندی هوایی
+all_ship_packing,همه بسته بندی دریایی
+all_railroad_packing,همه بسته بندی ریلی
+all_air_packing,همه بسته بندی هوایی
+ship_packing_add,افزودن بسته بندی دریایی
+railroad_packing_add,افزودن بسته بندی ریلی
+air_packing_add,افزودن بسته بندی هوایی
+ship_packing_edit,ویرایش بسته بندی دریایی
+air_packing_edit,ویرایش بسته بندی هوایی
+railroad_packing_edit,ویرایش بسته بندی ریلی
+ship_packing_add_title,افزودن نوع بسته بندی دریایی با عنوان 
+railroad_packing_add_title,افزودن نوع بسته بندی ریلی با عنوان 
+air_packing_add_title,افزودن نوع بسته بندی هوایی با عنوان 
+ship_packing_edit_id,ویرایش نوع بسته بندی دریایی با ای دی 
+air_packing_edit_id,ویرایش نوع بسته بندی هوایی با ای دی 
+railroad_packing_edit_id,ویرایش نوع بسته بندی ریلی با ای دی 
+menu_exchange,صرافی
+call_for_price,استعلام قیمت
+inquiry_pending,استعلام جدید
+inquiry_process,استعلام در حال بررسی
+inquiry_list,لیست استعلام ها
+inquiry_ground,استعلام قیمت حمل زمینی
+inquiry_ground_list,لیست استعلام قیمت حمل زمینی
+date_start_date,تاریخ بارگیری
+a_freight_completed,تکمیل شده
+a_freight_process,در حال بررسی
+a_freight_pending,استعلام جدید
+name_customs,نام گمرک
+inquiry_ground_title,استعلام قیمت حمل و نقل بین المللی زمینی
+inquiry_price,استعلام قیمت
+field_c,فیلدهای احراز هویت
+phone_exist,این شماره موبایل قبلا ثبت شده است.
+delete_role_6,قبل از پاک کردن نقش مدیریت باید یک جایگزین انتخاب نمائید توجه داشته باشید که نقش اصلی مدیریت را پاک نکنید.
+select_replacement_role,انتخاب نقش جایگزین
+delete_city,حذف شهر
+delete_customs,حذف گمرک
+delete_port,حذف بندر
+delete_airport,حذف فرودگاه
+delete_railroad,حذف ایستگاه راه آهن
+name_city,نام شهر
+name_port,نام بندر
+name_airport,نام فرودگاه
+name_railroad,نام ایستگاه راه آهن
+status_ground,وضعیت حمل زمینی
+status_air,وضعیت حمل هوایی
+status_ship,وضعیت حمل دریایی
+status_railroad,وضعیت حمل ریلی
+status_inventory,وضعیت انبارداری
+delete_city_desc,آیا شما مطمئن هستید می خواهید شهر با مشخصات زیر حذف کنید؟
+delete_customs_desc,آیا شما مطمئن هستید می خواهید گمرک با مشخصات زیر حذف کنید؟
+delete_port_desc,آیا شما مطمئن هستید می خواهید بندر با مشخصات زیر حذف کنید؟
+delete_airport_desc,آیا شما مطمئن هستید می خواهید فرودگاهی با مشخصات زیر حذف کنید؟
+delete_railroad_desc,آیا شما مطمئن هستید می خواهید ایستگاه راه آهن با مشخصات زیر حذف کنید؟
+admin_city_delete,حذف شهر با ای دی و نام 
+admin_customsID_delete,حذف گمرک با ای دی و نام 
+admin_port_delete,حذف بندر با ای دی و نام 
+admin_airport_delete,حذف فرودگاه با ای دی و نام 
+admin_railroad_delete,حذف ایستگاه راه آهن با ای دی و نام 
+a_source_country,کشور مبدا
+a_dest_country,کشور مقصد
+a_source_city,شهر مبدا
+a_dest_city,شهر مقصد
+a_source_customs,گمرک مبدا
+a_dest_customs,گمرک مقصد
+a_admin_desc,توضیحات مدیر
+a_request_price,قیمت پیشنهادی
+a_source_cargo,مبدا بار
+a_dest_cargo,مقصد بار
+me_start_survey,من شروع به بررسی می کنم
+me_survey_end,اتمام استعلام و بستن
+a_requested_car,نوع خودرو درخواستی
+a_add_admin_desc,افزودن توضیحات مدیر
+a_number_call,شماره تماس
+inquiry_status,وضعیت استعلام
+change_inquiry_ground_info,ویرایش اطلاعات استعلام قیمت حمل و نقل زمینی با ای دی 
+a_add_description,افزودن توضیحات
+a_change_status,تغییر وضعیت
+change_inquiry_ground_location,تغییر مکان استعلام قیمت حمل و نقل زمینی با ای دی 
+a_change_location,تغییر مکان
+a_change_location_dest,تغییر مکان مقصد
+a_change_location_source,تغییر مکان مبدا
+inquiry_ship_title,استعلام قیمت حمل و نقل بین المللی دریایی
+a_requested_container,نوع کانتینر درخواستی
+a_count_container,تعداد کانتینر
+a_source_port,بندر مبدا
+a_dest_port,بندر مقصد
+change_inquiry_ground_status_id,بروزرسانی وضعیت استعلام قیمت حمل و نقل زمینی با ای دی 
+change_inquiry_ship_status_id,بروزرسانی وضعیت استعلام قیمت حمل و نقل دریایی با ای دی 
+change_inquiry_ship_info,بروزرسانی اطلاعات استعلام قیمت حمل و نقل دریایی با ای دی 
+change_inquiry_ship_location,تغییر مکان استعلام قیمت حمل و نقل دریایی با ای دی 
+a_empty,خالی
+a_freight_free_time,فری تایم
+a_day,روز
+a_freight_term_id,ترم ای دی
+a_freight_waybill,نحوه صدور بارنامه
+day,روز
+hour,ساعت
+minute,دقیقه
+second,ثانیه
+a_expired_m,با تشکر از صبر شما &hearts;
+a_maintenance_1,در حال حاضر مشغول تعمیر و بروز رسانی هستیم
+a_maintenance_2,با عرض پوزش ، در حال حاضر در حال انجام برخی تعمیرات هستیم. ما سیستم را عالی تر می کنیم و به زودی به حالت بهتر باز می گردیم.
+b_cargo_recommended_price,مبلغ پیشنهادی
+nLog_send_request_text,برای بار زیر پیشنهاد جدیدی ارسال شده است  <br><a href="/businessman/cargo-detail/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_cancel_request_text,برای بار زیر پیشنهادی لغو شده است <br><a href="/businessman/cargo-detail/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_start_transportation_text,برای بار زیر راننده اعلام بارگیری کرد  <br><b>#PARAM1#</b><a href="/businessman/cargo-detail/#PARAM3#"><b>#PARAM2#</b></a>
+nLog_end_transportation_text,بار شما به مقصد رسید . <br><b>#PARAM1#</b><a href="/businessman/cargo-detail/#PARAM2#"><b>#PARAM3#</b></a>
+nLog_request_extra_expenses_text,برای بار زیر راننده هزینه اضافی درخواست کرده است  <br><b>#PARAM1#</b>   <a href="/businessman/cargo-detail/#PARAM3#"><b>#PARAM2#</b></a> 
+nLog_accept_request_text,تاجر پیشنهاد شما را برای بار زیر تایید کرده است <br> <a href="/driver/cargo/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_reject_request_text,پیشنهاد شما برای بار زیر مورد تایید تاجر قرار نگرفت.  <br> <a href="/driver/cargo/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_accept_expense_text,تاجر برای بار زیر درخواست هزینه اضافی شما را تایید کرده است . <br><a href="/driver/cargo/#PARAM2#"><b>#PARAM1#</b></a> 
+nLog_reject_expense_text,تاجر برای بار زیر  درخواست هزینه اضافی شما را رد کرده است .<br><a href="/driver/cargo/#PARAM2#"><b>#PARAM1#</b></a> 
+b_cargo_source_country,کشور مبدا
+b_cargo_dest_country,کشور مقصد
+b_cargo_select_country,یک کشور را انتخاب کنید
+install_title,نصب برنامه nTirApp
+install_text,افزودن به Home Screen
+install_button,نصب
+b_inquiry_ground, استعلام بار زمینی
+b_inquiry_railroad,استعلام بار ریلی
+b_select_ship_category,نوع بار را انتخاب نمائید !
+b_ship_container_type,نوع کانتینر 
+b_ship_container_count,تعداد کانتینر
+b_select_ship_container_type, نوع کانتینر را انتخاب نمائید ! 
+b_inquiry_volume,حجم بار
+b_inquiry_volume_placeholder,لطفا حجم بار را به متر مکعب وارد نمائید
+b_tell_inquiry_ground,استعلام با موفقیت ثبت شد به زودی با شما تماس گرفته خواهد شد 
+cargos,بار ها 
+load_more,بارگذاری بیشتر
+share_cargo,اشتراک بار
+share_cargo_whatsapp,واتس اپ 
+share_cargo_telegram,تلگرام 
+b_cargo_desc_port,بندر مقصد
+b_cargo_source_port,بندر مبدا
+b_select_cargo_desc_port,لطفا بندر مورد نظر را انتخاب نمائید!
+b_select_cargo_desc_airport,لطفا فرودگاه مورد نظر را انتخاب نمائید!
+b_cargo_desc_city,لطفا بندر مورد نظر را انتخاب نمائید!
+b_packing_type_select, نوع بسته بندی  را انتخاب نمائید ! 
+b_inquiry_ship,استعلام بار دریایی
+b_inquiry_air,استعلام بار هوایی
+b_inquiry_rail,استعلام بار ریلی
+b_air_term_type,ترم قرار داد
+b_cargo_source_airport,فرودگاه مبدا
+b_cargo_dest_airport,فرودگاه مقصد
+inquiry_air_title,استعلام قیمت حمل و نقل بین المللی هوایی
+inquiry_ship,استعلام قیمت حمل دریایی
+inquiry_air,استعلام قیمت حمل هوایی
+a_price_value,ارزش کالا
+a_source_airport,فرودگاه مبدا
+a_dest_airport,فرودگاه مقصد
+a_freight_declaration,خود اظهاری
+a_freight_contract,فرم قرارداد
+a_freight_discharge,ترخیص کالا
+change_inquiry_air_status_id,بروزرسانی وضعیت استعلام قیمت حمل و نقل هوایی با ای دی 
+change_inquiry_air_info,بروزرسانی اطلاعات استعلام قیمت حمل و نقل هوایی با ای دی 
+change_inquiry_air_location,تغییر مکان استعلام قیمت حمل و نقل هوایی با ای دی 
+kiloGram,کیلوگرم
+a_no,خیر
+a_yes,بله
+container_railroad_c,دسته بندی کانتینرها ریلی
+container_railroad_list,لیست کانتینرها ریلی
+container_railroad_add,افزودن کانتینر ریلی
+container_railroad_edit,ویرایش کانتینر ریلی
+container_railroad_edit_id,ویرایش کانتینر ریلی با ای دی 
+container_railroad_add_title,افزودن کانتینر ریلی با عنوان 
+inquiry_railroad_title,استعلام قیمت حمل و نقل بین المللی ریلی
+a_source_railroad,راه آهن مبدا
+a_dest_railroad,راه آهن مقصد
+a_requested_wagon,نوع واگن درخواستی
+a_freight_international_code,کد بین المللی
+a_add_new_description,افزودن توضیح جدید
+change_inquiry_railroad_status_id,بروزرسانی وضعیت استعلام قیمت حمل و نقل ریلی با ای دی 
+change_inquiry_railroad_info,بروزرسانی اطلاعات استعلام قیمت حمل و نقل ریلی با ای دی 
+change_inquiry_railroad_location,تغییر مکان استعلام قیمت حمل و نقل ریلی با ای دی 
+maintenance,در حال بازسازی
+list_academy,لیست آکادمی
+set_new_academy,ایجاد آکادمی جدید
+academy_category_list,لیست دسته بندی آکادمی
+add_academy_categories,افزودن دسته بندی آکادمی
+seo,سئو
+seo_setting,تنظیمات سئو
+a_meta_title,meta title
+a_meta_desc,meta desc
+a_schema,schema
+draft_submit,ثبت و پیشنویس
+published_submit,ثبت و انتشار
+add_category_academy_title,افزودن دسته بندی آکادمی با عنوان 
+edit_academy_category,ویرایش دسته بندی آکادمی
+edit_category_academy_id,ویرایش دسته بندی آکادمی با ای دی 
+delete_category_academy,پاک کردن دسته بندی آکادمی
+delete_academy_category_desc,آیا شما مطمئن هستید می خواهید دسته بندی آکادمی با مشخصات زیر حذف کنید؟
+count_academy_category,تعداد پست های این آکادمی
+change_academy_category,تغییر دسته بندی آکادمی ها
+academy_add,افزودن آکادمی جدید
+academy_edit,ویرایش آکادمی
+academy_add_title,افزودن آکادمی با عنوان 
+help_academy_1,هر آکادمی از 2 وضعیت تشکیل شده است.
+help_academy_2,در وضعیت فعال آکادمی برای عموم آزاد است اما در وضعیت پیش نویس فقط مدیر می تواند مشاهده کرده و ویرایش کند.
+help_academy_3,در ایجاد و ویرایش آکادمی برخی از فیلدها اختیاری است اگر خالی بگذارید موردی پیش نماید.
+help_academy_4,برای افزودن تصویر می توانید به بخش رسانه ها رفته و تصویر یا یا هر فایل مجازی را آپلود کنید و آدرس رسانه را در متن خود استفاده کنید.
+academy_edit_id,ویرایش آکادمی با ای دی 
+post_edit_id,ویرایش پست با ای دی 
+delete_academy,پاک کردن آکادمی
+delete_academy_desc,آیا شما مطمئن هستید می خواهید آکادمی با مشخصات زیر حذف کنید؟
+delete_academy_id,پاک کردن آکادمی با ای دی 
+delete_post_id,پاک کردن پست با ای دی 
+tr_Tr,ترکی
+ru_RU,روسی
+academy_list,لیست آکادمی ها
+delete_category_academy_id_replate,حذف دسته بندی آکادمی با ای دی و جاگیزنی با ای دی 
+delete_category_post_id_replate,حذف دسته بندی پست با ای دی و جاگیزنی با ای دی 
+edit_category_post_id,ویرایش دسته بندی پست با ای دی 
+a_city_international_name,نام بین المللی
+inquiry,استعلام قیمت
+add_new_ticket_title,افزودن تیکت با عنوان 
+inquiry_railroad,استعلام حمل و نقل ریلی
+academy_c,دسته بندی آکادمی
+b_select_wagon_type,نوع واگن را انتخاب نمائید !
+b_wagon_type,نوع واگن
+b_container_type,نوع کانتینر
+b_packing_type,نوع بسته بندی
+b_inquiry,استعلام
+b_inquiry_inventory, استعلام انبار
+b_cargo_source_railroad,ایستگاه مبدا
+b_cargo_dest_railroad,ایستگاه مقصد
+b_select_packing_type,نوع بسته بندی را انتخاب نمائید !
+b_select_container_type,نوع کانتینر را انتخاب نمائید ! 
+set_new_task,ایجاد وظیفه جدید
+a_change_location_2,تغییر موقعیت
+a_select_customs,انتخاب گمرک
+a_select_country,انتخاب کشور
+a_select_country_2,یک از کشور ها را انتخاب کنید.
+edit_cargo_source,ویرایش موقعیت مبدا بار بین المللی با ای دی 
+edit_cargo_dest,ویرایش موقعیت مقصدی بار بین المللی با ای دی 
+edit_cargo_in_source,ویرایش موقعیت بار داخلی با ای دی 
+edit_cargo_in_dest,ویرایش موقعیت بار داخلی با ای دی 
+inventory_list,لیست انبارها
+container_inventory_list,لیست کانتیرهای انبارداری
+container_inventory_add,افزودن کانتینر انبارداری
+container_inventory_add_id,افزودن کانتینر انبارداری با ای دی 
+container_inventory_edit_id,ویرایش کانتینر انبارداری با ای دی 
+container_inventory_edit,ویرایش کانتینر انبارداری
+inventory_cargo_list,لیست دسته بندی بارهای انبارداری
+chart_inventory_cargo,آمار دسته بندی بارها
+all_inventory_cargo,همه دسته بندی ها
+inventory_cargo_add,افزودن دسته بندی انبارداری
+inventory_cargo_add_id,افزودن دسته بندی انبارداری با ای دی 
+inventory_cargo_edit,ویرایش دسته بندی انبارداری
+inventory_cargo_edit_id,ویرایش دسته بندی انبارداری با ای دی 
+chart_inventory,آمار انبارها
+inventory_add,افزودن انبار جدید
+inventory_add_id,افزودن انبار با ای دی 
+inventory_edit,ویرایش انبار
+inventory_edit_id,ویرایش انبار با ای دی 
+admin_inventory_delete,پاک کردن انبار با نام و ای دی 
+delete_inventory,پاک کردن انبار
+delete_inventory_desc,آیا شما مطمئن هستید می خواهید انبار با مشخصات زیر حذف کنید؟
+name_inventory,نام انبار
+all_inventory,همه انبارها
+inquiry_inventory_title,استعلام قیمت انبارداری
+change_inquiry_inventory_info,ویرایش اطلاعات استعلام قیمت انبارداری با ای دی 
+a_edit_location,ویرایش موقعیت
+store,انبار
+a_select_inventory,انتخاب انبار
+a_select_inventory_2,یک انبار انتخاب کنید.
+change_inquiry_inventory_location,تغییر موقعیت استعلام قیمت انبارداری با ای دی 
+change_inquiry_inventory_status_id,تغییر وضعیت استعلام قیمت انبارداری با ای دی 
+end_date,تاریخ پایان
+start_time,زمان شروع
+end_time,زمان پایان
+edit_task,ویرایش وظیفه
+postponed,به تعویق افتاده
+progress,در حال انجام
+complated,کامل شده
+suspended,معلق شده
+refer_to,ارجاع به
+from_to,از طرف
+critical,بحرانی
+high,زیاد
+medium,متوسط
+low,کم
+informational,اطلاعاتی
+important,مهم و فوری
+set_new_task_id,ایجاد وظیفه جدید با ای دی 
+a_empty_refer,باید حداقل به یک مدیر ارجاع دهید.
+a_empty_title,باید عنوان را بصورت صحصیح وارد کنید.
+a_empty_desc,باید توضیحات را بصورت صحصیح وارد کنید.
+list_tasks_create_me,لیست وظایف ایجاد شده
+list_tasks_for_me,لیست وظایف من
+a_have_attachment,دارای فایل دانلودی
+a_have_description,دارای توضیحات
+a_from_to,از طرف
+a_refer_to,ارجاع به
+a_task_ok,وظیفه انجام شده است
+a_task_rejected,تلاش دوباره
+a_task_process,در انتظار تایید
+a_task_pending,وظیفه جدید و در حال انجام
+a_report_action,گزارش عملکرد
+inquiry_inventory,استعلام قیمت انبارداری
+inventory_c,لیست انبارها
+inventory_cargo_c,لیست دسته بندی بارهای انبار
+container_inventory_c,لیست کانتینرهای انبار
+set_task_detail_id,پاسخگویی به وظیفه با ای دی 
+a_answer_to_task,پاسخگویی به وظیفه
+a_task_change,منتظر پاسخگویی
+a_no_file_attach,برای این وظیفه فایلی پیوست نشده است.
+a_task_add,پاسخ
+a_list_task_for_me,لیست وظایف محوله به من
+a_list_task_i_creator,لیست وظایف ایجاد شده توسط من
+a_there_are_currently_no_items_found,در حال حاضر موردی یافت نشد.
+a_task_x_1,وظایف جدید من
+a_task_x_2,وظایف منتظر پاسخ من
+a_task_x_3,وظایف رد شده من
+a_task_x_4,وظایف ایجاد شده من
+a_task_x_5,وظایف ایجاد شده و منتظر پاسخ من
+a_task_x_6,وظایف ایجاد و رد شده من
+a_task_y_1,تایید و بستن
+a_task_y_2,رد کردن
+a_list_task,لیست کل وظایف
+a_page_tasks_admin,صفحه وظایف مخصوص مدیر
+a_tasks,وظایف
+a_task_report,عملکرد وظیفه
+a_task,وظایف من
+change_task_status_to_ok,تغییر وضعیت وظیفه به حالت تایید شده با ای دی 
+change_task_status_to_rejected,تغییر وضعیت وظیفه به حالت رد شده با ای دی 
+a_inquiry_ground_pending,استعلام قیمت حمل زمینی (جدید)
+a_inquiry_air_pending,استعلام قیمت حمل هوایی (جدید)
+a_inquiry_ship_pending,استعلام قیمت حمل دریایی (جدید)
+a_inquiry_railroad_pending,استعلام قیمت حمل ریلی (جدید)
+a_inquiry_inventory_pending,استعلام قیمت انبارداری (جدید)
+a_poster,آگهی
+a_list_brands,لیست برندها
+a_brand_add,افزودن برند جدید
+brands,برند
+a_image,تصویر
+a_no_parent,بدون دسته مادر
+a_upload_image_binding,آپلود تصویر اجباری است.
+add_new_brand_id,افزودن برند جدید با ای دی 
+a_brand_edit,ویرایش برند
+a_creator,ایجاد کننده
+show_image,نمایش تصویر
+edit_brand_id,ویرایش برند با ای دی 
+user,کاربر
+a_user_creator,ایجادکننده کاربر
+a_chart_category,آمار دسته بندی
+a_all_category,کل دسته بندی
+a_list_models,لیست مدل ها
+a_model_c,لیست مدل ها
+a_model_add,افزودن مدل جدید
+a_no_parent_error,باید دسته مادر را انتخاب کنید.
+a_model_edit,ویرایش مدل
+a_model,مدل
+a_brand,برند
+a_list_gearboxs,لیست گیربکس
+a_gearboxs,گیربکس
+a_gearbox_add,افزودن گیربکس جدید
+a_gearbox_edit,ویرایش گیربکس
+edit_gearbox_id,ویرایش گیربکس با ای دی 
+edit_model_id,ویرایش مدل با ای دی 
+add_new_gearbox_id,افزودن گیربکس با ای دی 
+add_new_model_id,افزودن مدل با ای دی 
+a_list_fuels,لیست سوخت
+a_fuels,سوخت ها
+a_fuel_add,افزودن سوخت جدید
+add_new_fuel_id,افزودن سوخت جدید با ای دی 
+a_fuel_edit,ویرایش سوخت
+edit_fuel_id,ویرایش سوخت با ای دی 
+a_property_c,دسته بندی ویژگی ها
+a_list_property,لیست ویژگی ها
+a_type_property,دسته ویژگی
+a_property_add,افزودن ویژگی جدید
+a_truck,کشنده
+a_trailer,تریلر
+a_truck_property,ویژگی کشنده
+a_trailer_property,ویژگی تریلر
+a_property_edit,ویرایش ویژگی
+edit_property_id,ویرایش ویژگی با ای دی 
+add_new_property_id,افزودن ویژگی با ای دی 
+a_list_reports,لیست عنوان گزارشات
+a_report_c,دسته بندی عنوان گزارشات
+a_report_add,افزودن عنوان گزارش جدید
+add_new_report_id,افزودن عنوان گزارش جدید با ای دی 
+a_desc_add,افزودن توضیحات
+a_report_edit,ویرایش عنوان گزارش
+edit_report_id,ویرایش عنوان گزارش با ای دی 
+change_driver_gift,تغییر هدیه کاربر راننده با ای دی 
+dropzone_inprogress,در حال بارگذاری
+dropzone_progress_completed, بارگذاری تکمیل شد 
+a_inquiry_card_bank,استعلام کارت
+a_result_inquiry,نتایج استعلام
+date_submit,تاریخ ثبت
+a_inquiry_error,خطا در استعلام گیری ، بعدا تلاش کنید.
+a_inquiry_success,استعلام گیری با موفقیت انجام شد.
+a_payment_balance,موجودی کیف پول
+reyal,ریال
+month,ماه
+year,سال
+a_cart_inquiry,آمار استعلام کارت بانکی
+a_status_inquiry,وضعیت استعلام گیری از بانک ها
+a_status_inquiry_bank,وضعیت استعلام بانک
+d_auth_title_required,احراز هویت اجباری
+d_auth_title_optional,احراز هویت اختیاری
+auth_id_card_number,شماره ملی
+auth_submit,ثبت
+foreign_passport,اتباع خارجی
+iran_id_card,ایرانی
+uLog_auth_required,تکمیل فیلد احراز هویت اجباری
+alert_success_auth_required,احراز هویت شما ثبت شد.
+alert_info_auth_required,احراز هویت شما قبلا ثبت شد.
+alert_error_auth_first_name,نام شما نمیتواند خالی یا کمتر از دو حرف باشد.
+alert_error_auth_last_name,نام خانوادگی شما نمیتواند خالی یا کمتر از دو حرف باشد.
+alert_error_auth_id_card,کد ملی باید 10 کارکتر باشد.
+alert_error_auth_passport,شماره پاسپورت نامعتبر است.
+auth_notice_upload,در حال بارگذاری اطلاعات
+auth_title_company,عنوان شرکت
+auth_manager_company,مدیر عامل شرکت
+auth_address,آدرس
+auth_phone,شماره ثابت
+auth_fox,فکس
+auth_mail,ایمیل
+auth_site,وبسایت
+auth_passport_image,تصویر پاسپورت
+auth_image_upload_desc,با کلیک کردن روی آیکون تصویر را آپلود نمائید.
+auth_alert_null_error,اطلاعات را بصورت صحیح و کامل پر کنید.
+auth_phone_national,شماره تلفن بین المللی
+auth_birthday_city,شهر تولد
+auth_birthday_date,تاریخ تولد
+auth_insurance_type,نوع پوشش بیمه ای
+auth_insurance_number,شماره بیمه
+auth_car_card,کارت ماشین
+a_pending_check,در انتظار بررسی
+a_accepted,پذیرفته شده
+a_authorization,احراز هویت
+a_authorization_no,بدون احراز هویت
+a_authorization_status,وضعیت احراز هویت
+a_authorization_pending,احراز هویت بدون بررسی
+a_authorization_accepted,احراز هویت تایید شده
+a_authorization_rejected,احراز هویت رد شده
+a_inquiry_user,استعلام کاربر
+a_inquiry_status_user,وضعیت استعلام کاربر
+a_user_inquiry_no,بدون استعلام
+a_user_inquiry_accepted,تایید شده
+a_user_inquiry_rejected,رد شده
+a_user_inquiry_request,درخواست استعلام
+a_user_inquiry_id_card_number,شماره ملی استعلام شده
+a_user_inquiry_date,تاریخ استعلام
+request_inquiry_user,درخواست استعلام کاربر با ای دی و کارت ملی و موبایل 
+a_text,متن
+a_img,تصویر
+settings_change_field_rate,تغییر امتیاز فیلد احراز هویت
+a_sended,ارسال شده
+a_sending,ارسال کردن
+a_share,اشتراک گذاری
+a_share_whatsapp,اشتراک گذاری واتس آپ
+a_list_share_massage,لیست اشتراک گذاری واتس آپ
+a_info_share_massage,اطلاعات اشتراک گذاری واتس آپ
+a_date_send,تاریخ ارسال
+a_share_massage,اشتراک گذاری متن
+change_share_whatsapp_status_to,تغییر وضعیت اشتراک گذاری متن در واتس آپ با ای دی و وضعیت 
+d_delete_car,حذف خودرو
+b_car_name_example,برای مثال :  اسکانیا 
+b_car_name,نام خودرو
+user_type_error_title,نوع کاربری
+user_type_error_desc,لطفا نوع کاربری خود را درست وارد نمائید !
+change_user_type_role_permission,نکته : توجه داشته باشید که شما بعد از انتخاب این بخش اجازه  تغییر کاربری را ندارید.
+a_authorization_list,لیست احراز هویت تکمیلی
+a_authorization_all,احراز هویت تکمیلی
+a_iran,ایرانی
+a_foreign,غیر ایرانی
+a_nationality,ملیت
+a_unknown,ناشناس
+a_share_massage_whatsapp,ارسال پیام در واتس آپ
+a_whatsapp_default_text,ویرایش یا افزودن متن پیشفرض واتس آپ
+a_whatsapp_default_text_2,متن پیشفرض واتس آپ
+u_authorization_1,احراز هویت
+u_authorization_2,اطلاعات تکمیلی
+a_settings_overall,تنظیمات کلی
+settings_change_cargo_expire_,تغییر مقدار تنظیمات کلی
+a_settings_text_cargo_expire,مدت زمان باقی مانده برای تعیین و تکلیف بار
+a_alert_settings_cargo_expire,زمان براساس ساعت می باشد.
+a_list_share_whatsapp,لیست پیام های واتس آپ
+settings_change_cargo_expire,ویرایش تنظیمات کلی سایت
+go_to_dashboard,رفتن به داشبورد 
+d_alert_car_name, نام ماشین وارد نشده است
+alert_user_chage, نوع کاربری خود را به درستی وارد نمائید
+a_sms_price_low,مقدار شارژ باقی مانده
+a_sms_price_low_admins_number,شماره موبایل مدیران
+a_sms_template,شماره قالب
+a_name,نام
+a_lastname,نام خانوادگی
+list_transactions_user,لیست تراکنش های کاربر
+a_ticket_user,لیست تیکت های کاربر
+a_id_user,کد کاربر
+a_users_suspend,کاربران مسدود شده
+a_users_auth_pending,کاربران منتظر احراز هویت
+a_users_auth_optional_pending,کاربران منتظر تایید مدارک
+a_open_ticket,تیکت های باز
+add_gift_count,افزودن جایزه جدید به کاربر با ای دی 
+low_gift_count,کم کردن جایزه جدید به کاربر با ای دی 
+change_user_gift,تغییر جایزه کاربر با ای دی 
+change_user_score,تغییر امتیاز کاربر با ای دی 
+delete_user_session_id,پاک کردن دستگاه فعال کاربر با ای دی
+change_user_balance_id,تغییر مقدار موجودی کاربر با ای دی بالانس 
+a_distance_setting,مسافت نزدیکترین بارها برحسب کیلومتر
+site_new_cargos,جدیدترین  بارها 
+see_all,مشاهده همه 
+discharge,ترخیص
+profile,پروفایل
+table_guide,راهنمای جدول
+alert_car_count_accepted,شما حد اکثر ماشین خود را تایید کرده اید 
+b_filter_by_expire,منقضی شده
+h_inquiry_ship,دریایی
+h_inquiry_air, هوایی
+h_inquiry_rail, ریلی
+h_inquiry_ground,زمینی
+h_inquiry_inventory,انبارداری
+h_square,صرافی
+h_insurance,بیمه
+h_bank,بانک
+h_driver_service,خدمات راننده
+h_road_service,خدمات جاده ای
+h_tire,لوازم یدکی
+site_new_blogs, جدیدترین وبلاگ ها 
+auth_imperfect,احراز هویت شما ناقص می باشد
+withdraw_amount_low,مبلغ درخواستی از مقدار موجودی شما کمتر است 
+return_to_auth_page,رفتن به صفحه احراز هویت 
+b_cargo_packaging_error,لطفا نوع بسته بندی را انتخاب نمائید !
+b_inquiry_airport_source_error,لطفا فرودگاه مبدا خود را انتخاب نمائید !
+b_inquiry_airport_dest_error,لطفا فرودگاه مقصد خود را انتخاب نمائید !
+b_inquiry_port_source_error,لطفا بندر مبدا خود را انتخاب نمائید !
+b_inquiry_port_dest_error,لطفا بندر مقصد خود را انتخاب نمائید !
+b_inquiry_railroad_source_error,لطفا راه آهن مبدا خود را انتخاب نمائید !
+b_inquiry_railroad_dest_error,لطفا راه آهن مقصد خود را انتخاب نمائید !
+b_product_value, ارزش کالا
+u_home_page,صفحه اصلی
+b_cargo_container_error,لطفا نوع کانتینر را انتخاب کنید
+b_cargo_container_count_error,لطفا تعداد  کانتینر را انتخاب کنید
+u_authorize_pending,احراز هویت شما در حال بررسی می باشد.
+u_authorize_accepted,احراز هویت شما تایید شده است.
+u_install_app,نصب وب اپلیکیشن 
+u_install,نصب
+u_android,اندروید
+u_ios,ios
+u_install_app_desc2,*در برخی از گوشی ها روند ذکر شده را پشتیبانی نمیکنند کافیست به آموزش های زیر مراجعه بفرمایید
+u_install_app_in_screen,(افزودن به صفحه اصلی)
+u_install_app_desc,برای افزودن وب اپلیکیشن Ntirapp به صفحه گوشی خود کافیست دکمه نصب را بزنید تا به صفحه شما افزوده شود
+a_update_date,بروزرسانی تاریخ
+b_inquiry_duration_day,مدت زمان 
+b_day,روز
+u_dashboard,داشبورد
+u_contact_us,راه های ارتباطی
+u_support,تماس
+u_filter,فیلتر
+u_inquiry_air_all,همه
+u_inquiry_air_completed,تکمیل شده
+u_inquiry_air_pending,در انتظار بررسی
+u_inquiry_air_process,در حال بررسی
+u_injquiry_air_list_search_place_holder,جستجو در  استعلام های هوایی
+u_injquiry_air_list,لیست استعلام هوایی
+u_injquiry_air_list_sub_title,در این بخش میتوانید لیست استعلام های هوایی خود را مشاهده کنید
+u_no,خیر
+u_yes,بله
+u_inquiry_list,لیست استعلام
+u_inquiry_air_weight_unit,کیلو گرم
+u_inquiry_in_process,در حال بررسی
+u_inquiry_my_list,لیست استعلام های من
+u_inquiry_air_discharge,ترخیص کالا
+u_inquiry_alert_process,استعلام قیمت شما در حال بررسی و پیگیری می باشد.
+u_inquiry_alert_pending,استعلام قیمت شما در لیست انتظار قرار گرفت است.
+add_car_type_id,افزودن دسته بندی خودرو با ای دی 
+b_add_cargo_1,افزودن بار بین المللی
+b_add_cargo_in_1,افزودن بار داخلی
+u_complete_inquiry,استعلام های پاسخ داده شده
+u_process_inquiry,استعلام های در حال بررسی
+u_pending_inquiry,استعلام های جدید
+u_inquiry_recommended_price,مثال : 10,000
+u_ton,تن
+u_km3,مترمکعب
+b_cargo_monetary_value_price,ارزش کالای خود را وارد کنید.
+u_complete_inquiry_2,پاسخ داده شده
+u_process_inquiry_2,در حال بررسی
+u_pending_inquiry_2,جدید
+u_ground,زمینی
+u_air,هوایی
+soon_contact_me,در صورت نیاز با ما تماس بگیرید.
+u_injquiry_ship_list_search_place_holder,جستجو در  استعلام های دریایی
+u_injquiry_ship_list,لیست استعلام دریایی
+u_injquiry_ship_list_sub_title,در این بخش میتوانید لیست استعلام های دریایی خود را مشاهده کنید
+u_inquiry_ship_all,همه
+u_inquiry_railroad_list_search_place_holder,جستجو در  استعلام های ریلی
+u_inquiry_railroad_list,لیست استعلام ریلی
+u_inquiry_railroad_list_sub_title,در این بخش میتوانید لیست استعلام های ریلی خود را مشاهده کنید
+u_inquiry_railroad_all,همه
+b_cargo_needed_car,تعداد ماشین درخواستی.
+b_day_2,برای مثال : 30 ، 45 ،...
+u_inquiry_inventory_list_search_place_holder,جستجو در  استعلام های انبارداری
+u_inquiry_inventory_list,لیست استعلام انبارداری
+u_inquiry_inventory_list_sub_title,در این بخش میتوانید لیست استعلام های انبارداری خود را مشاهده کنید
+u_inquiry_inventory_all,همه
+u_location,موقعیت
+u_city_error,یک شهر را انتخاب کنید.
+u_card_account,نام صاحب حساب
+u_ship,دریایی
+u_railroad,ریلی
+u_inventory,انبار داری
+u_request_car_type,نوع ماشین درخواستی
+u_chose_user_type,تعیین نوع کاربری
+settings_seo,تنظیمات سئو
+a_seo_user_laws,صفحه قوانین کاربر
+a_seo_404,صفحه 404
+a_seo_about_us,صفحه درباره ما
+a_seo_contact_us,صفحه تماس با ما
+a_seo_developer,صفحه توسعه دهندگان
+a_seo_user_faq,صفحه سوالات متداول کاربران
+a_seo_home,صفحه اصلی
+u_agreement_price,هزینه توافقی حمل بار :
+expire_title,یادآوری بار
+expire_message,بار زیر کمتر از یک روز دیگر منقضی خواهد شد.<br> <a href="/businessman/cargo-detail/#PARAM1#">#PARAM2#</a>
+expire_sender,سیستم
+u_inquiry_kg,کیلوگرم
+u_recommended_price,جواب استعلام
+u_mycargo_my_cargo_search_placeholder,نام بار مورد نظر را وارد کنید.
+u_show_on_map,نمایش رو نقشه
+u_cargo_price_driver,مبلغ پیشنهادی شما
+u_inventory_date,تاریخ رزرو انبار
+a_inventory_type,نوع انبار
+u_inventory_type,نوع انبار
+b_select_inventory_type,نوع انبار درخواستی را وارد کنید
+b_inventory_type_error,نوع انبار را انتخاب کنید.
+inventory_type_c,دسته بندی نوع انبار
+inventory_type_list,لیست نوع انبار
+chart_inventory_type,آمار دسته بندی نوع انبار
+inventory_type_add,افزودن دسته بندی نوع انبار
+inventory_type_add_id,افزودن دسته بندی  نوع انبار با ای دی 
+inventory_type_edit,ویرایش دسته بندی انبار
+inventory_type_edit_id,ویرایش دسته بندی نوع انبار با ای دی 
+u_recommended_price_2,ارسال قیمت پیشنهادی
+u_new_car,افزودن ماشین
+b_price_zero_cargo_desc,توجه : مبلغ پیشنهادی صفر به منزله توافق می باشد.
+u_agreement,توافقی
+login_user_name_error,نام خود را به صورت صحیح وارد کنید.
+login_user_lname_error,نام خانوادگی خود را به صورت صحیح وارد کنید.
+tickets_open_driver,تیکت باز رانندگان
+tickets_open_businessman,تیکت باز تجار
+tickets_open_inventory,تیکت های باز انبارداری
+tickets_open_ship,تیکت های باز دریایی
+tickets_open_air,تیکت های باز هوایی
+tickets_open_railroad,تیکت های باز ریلی
+tickets_open_poster,تیکت های باز آگهی
+tickets_all_driver,تیکت های رانندگان
+tickets_all_businessman,تیکت های تجار
+tickets_all_inventory,تیکت های انبارداری
+tickets_all_ship,تیکت های دریایی
+tickets_all_air,تیکت های هوایی
+tickets_all_railroad,تیکت های ریلی
+tickets_all_poster,تیکت های آگهی
+tickets_inventory,تیکت های انبارداری
+tickets_ship,تیکت های دریایی
+tickets_air,تیکت های هوایی
+tickets_railroad,تیکت های ریلی
+tickets_poster,تیکت های آگهی
+user_currency,ارز کاربر
+u_ticket_link,پشتیبانی
+u_register_new_user_alert,شما به عنوان کاربرجدید وارد سیستم می شوید 
+u_register_success,ثبت نام با موفقیت انجام شد 
+u_date_ready_to_load,آماده بارگیری
+u_read_inquiry,استعلام های خوانده شده
+u_read_inquiry_filter,خوانده شده
+a_show_blog,مشاهده وبلاگ
+change_auth_status_to_accepted,تغییر وضعیت احراز هویت اجباری کاربر به حالت تایید شده با ای دی 
+change_auth_status_to_rejected,تغییر وضعیت احراز هویت اجباری کاربر به حالت رد شده با ای دی 
+change_businessman_authentication_id,تغییر وضعیت احراز هویت تکمیلی تاجر با ای دی 
+change_driver_authentication_id,تغییر وضعیت احراز هویت تکمیلی راننده با ای دی 
+u_no_result_found,چیزی یافت نشد
+u_select_one_customs,لطفا یک گمرک انتخاب کنید
+b_green_street_label,آیا مسیر سبز است؟
+u_green_street_customs,مسیر سبز
+a_green_street_customs,مسیر سبز
+u_cash,موجودی
+u_cash_enable_withdraw,موجودی قابل برداشت
+u_card_notice_1,در حال حاضر حساب فعالی در کیف پول موجود نیست
+u_card_notice_2,لطفا حساب مورد نظر خود را اضافه کنید
+u_card_notice_3,توجه کنید حساب باید به نام خودتان باشید و سامانه هیچ مسئولیتی در قبال این کار ندارد
+wallet_name,نام حساب
+wallet_name_placeholder,برای مثال : ملت ، حساب من و ...
+card_account_placeholder,برای مثال : 830101241
+u_wallet_withdraw_amount_placeholder,برای مثال : 25,000,000
+u_no_card_bank_accepted,کارت بانکی نامعتبر است
+u_deposit,واریز
+u_payment,پرداخت
+u_deposit_online,واریز آنلاین
+u_enter_the_desired_amount,مبلغ مورد نظر خود را وارد کنید
+u_academy,آکادمی
+u_academy_newsets,جدید ترین ها 
+u_academy_search_place_holder,جستجو
+d_lowest_price_recommended_none,قیمت پیشنهادی وجود ندارد
+u_balance_in_withdraw,در آستانه برداشت
+u_wallet_deposit,واریزی
+u_wallet_filter_all,همه
+u_filter_paid,برداشت انجام شده
+u_filter_rejected,برداشت رد شده
+u_filter_pending,برداشت در حال بررسی
+a_currency_type,نوع ارز
+u_filter_by_pending,واریز در حال بررسی
+u_filter_by_paid_2,واریز انجام شده
+u_filter_by_unpaid,واریز لغو شده
+u_filter_by_pending_deposit,واریز در حال بررسی
+u_filter_by_rejected_deposit,واریز رد شده
+a_change_transaction_withdraw_completed,تایید برداشت تراکنش با دی تراکنش 
+a_change_transaction_withdraw_rejected,رد برداشت تراکنش با دی تراکنش 
+a_change_transaction_deposit_paid,تایید واریز تراکنش با دی تراکنش 
+a_change_transaction_deposit_rejected,رد واریز تراکنش با دی تراکنش 
+a_select_parent_category,انتخاب دسته والد
+a_not_parent_category,بدون دسته والد
+a_parent_category,وضعیت والد
+a_status_parent_category,والد
+a_child_category,فرزند
+settings_security,تنظیمات امنیتی
+security_desc_settings,در این بخش می توانید تنظیمات بخش های امنیتی سایت را مدیریت کنید.
+settings_export_db,خروجی گرفتن از دیتابیس
+settings_export_settings,خروجی گرفتن از فایل ها
+export_settings,خروجی گرفتن از فایل
+settings_export_desc,بهتر است هرچند یکبار از فایل ها بک آپ بگیرید.
+export_desc,بهتر است هرچند یکبار از دیتابیس بک آپ بگیرید.
+submit_export,گرفتن خروجی
+error_export,در هنگام خروجی گرفتن با خطا مواجه شد!
+a_posters,آگهی ها
+u_add_poster,ثبت آگهی جدید
+u_select_type_poster,انتخاب نوع آگهی !
+u_select_type_desc_poster,نوع آگهی خود را انتخاب نمائید.
+u_select_type_desc_poster_edit,نوع آگهی خود را بخش ویرایش قابل عوض کردن نیست.
+u_truck,کشنده
+u_trailer,تریلر
+u_zero,صفر
+u_worked,کارکرده
+u_remittance,حواله
+u_select_brand,انتخاب برند خودرو
+u_select_model,انتخاب مدل
+u_please_select_brand_name,باید برند را انتخاب کنید.
+u_please_select_model_name,باید مدل را انتخاب کنید.
+u_please_input_brand_name,باید برند را وارد کنید.
+u_please_input_model_name,باید مدل را انتخاب کنید.
+u_select_gearboxs,انتخاب گیربکس
+u_select_color,انتخاب رنگ بدنه
+u_built_year,سال تولید
+u_run_worked,کارکرد
+u_km,کیلومتر
+u_academy_first_cat_name,انتیراپ  
+u_academy_sub_cat,زیر دسته های   
+u_academy_loading,در حال بارگزاری
+u_academy_not_found,موردی یافت نشد
+u_academy_all,همه
+u_cash_2,نقد
+u_leasing,لیزینگ
+u_installment,قسطی
+u_number_call,شماره تماس
+u_description,توضیحات
+u_axis_count,تعداد محور
+u_image_poster,تصاویر آگهی
+u_image_poster_desc,چند تصویر از آگهی با زاویه های مختلف ارسال بفرمایید
+u_please_select_barnd,باید برند خودرو را انتخاب نمائید.
+u_please_select_model,باید مدل خودرو را انتخاب نمائید.
+u_please_select_gearbox,نوع گیربکس خودرو را وارد کنید.
+u_please_select_fuel,نوع سوخت خودرو را وارد کنید.
+u_please_select_run,باید کارکرد خودرو را وارد نمائید.
+u_please_select_price,باید مبلغ خودرو را وارد نمائید.
+u_please_select_country,کشور را انتخاب نمائید.
+u_please_select_city,شهر را انتخاب نمائید.
+u_please_select_mobile,باید شماره تماس خود را به صورت وارد نمائید.
+u_please_select_trailer,نوع تریلر را انتخاب نمائید.
+u_please_select_axis,تعداد محور را انتخاب نمائید.
+u_please_select_price_trailer,باید مبلغ تریلر را وارد نمائید.
+u_jalali,شمسی
+u_gregorian,میلادی
+u_enter_name_brand,در صورت عدم وجود برند مورد نظر، نام برند خود را وارد کنید.
+u_enter_name_brand_placeholder,مثال : بنز
+u_enter_name_model_placeholder,مثال : اکتروس
+u_enter_name_model,در صورت عدم وجود مدل مورد نظر، نام مدل خود را وارد کنید.
+u_search_brand,جستجو برند خودرو ...
+u_other,سایر
+u_search_model,جستجو مدل خودرو ...
+u_type_fuel,نوع سوخت
+u_time_tel,ساعات تماس
+u_from,از
+u_to,تا
+u_select_model_car,انتخاب مدل ماشین
+u_alert_success_add_poster,آگهی با موفقیت ثبت شد.
+u_alert_warning_add_poster,در ثبت آگهی مشکلی پیش آمده لطفا بعدا کمی بعد دوباره تلاش کنید.
+u_not_select_type_desc_poster,تغییر نوع آگهی در ویرایش امکان پذیر نمی باشد.
+u_edit_poster,ویرایش آگهی
+u_delete_poster,حذف آگهی
+a_poster_list,لیست آگهی ها
+a_poster_list_pending,لیست آگهی های جدید
+a_poster_info,اطلاعات آگهی
+a_update,بروزرسانی
+a_new_2,جدید
+a_poster_type,نوع آگهی
+a_type_2,رده
+a_user_name,نام کاربر
+a_cash_2,نقد
+a_leasing,لیزینگ
+a_installment,قسطی
+a_axis_count,تعداد محور
+a_type_trailer,نوع تریلر
+a_fuel,سوخت
+a_agreement,توافقی
+u_accounts,حساب ها
+u_soon,به زودی ...
+u_delete,حذف
+a_truck_status_poster,وضعیت کشنده
+a_new,صفر
+a_stock,کارکرده
+a_order,حواله
+a_out_color,رنگ بدنه
+a_built_year,سال تولید
+a_run_worked,کارکرد
+a_status_parent,آگهی اصلی
+a_child_poster,آگهی بروزرسانی شده
+a_not_has,ندارد
+a_has,دارد
+needed,نیاز به اصلاح
+poster,آگهی
+change_poster_status_to_accepted,تایید کردن آگهی با ای دی 
+change_poster_status_to_rejected,رد کردن آگهی با ای دی 
+change_poster_status_to_needed,نیاز به اصلاح کردن آگهی با ای دی 
+a_reason_poster,علت تغییر وضعیت آگهی
+a_desc_reason_poster,علت تغییر وضعیت آگهی را باید پر کنید.
+a_properties,ویژگی ها
+a_list_poster_user,لیست آگهی های کاربر
+a_pending_poster,آگهی جدید
+a_status_poster,وضعیت آگهی
+a_list_reason_delete,لیست علت حذف
+a_reason_delete,لیست علت حذف
+a_list_reason_delete_poster,لیست علت حذف آگهی
+a_poster_reason_delete_c,دسته بندی علت حذف آگهی
+a_poster_reason_delete_add,افزودن دسته بندی علت حذف آگهی
+a_poster_reason_delete_edit,ویرایش دسته بندی علت حذف آگهی
+a_poster_reason_delete_add_id,افزودن دسته بندی علت حذف آگهی با ای دی 
+a_poster_reason_delete_edit_id,ویرایش دسته بندی علت حذف آگهی با ای دی 
+a_number_of_days_left,تعداد روز باقی مانده
+a_poster_transactions,تراکنش های آگهی
+settings_poster,تنظیمات آگهی
+a_settings_poster_expire,مدت زمان ثبت آگهی
+a_alert_settings_expire_day,زمان براساس روز می باشد.
+a_settings_poster_immediate,مدت زمان فوری بودن آگهی
+a_settings_price_time,تنظیمات زمان و هزینه
+a_settings_all_update,بروزرسانی تنظیمات کلی پوستر
+a_poster_logo_default,تصویر پیشفرض پوستر
+a_experts,کارشناسان
+a_experts_list,لیست کارشناسان
+a_experts_add,افزودن کارشناس
+a_add_new_expert_id,افزودن کارشناس با ای دی 
+a_experts_edit,ویرایش اطلاعات کارشناس
+a_edit_expert_id,ویرایش اطلاعات کارشناس با ای دی 
+a_request_expert,درخواست کارشناس
+a_date_request,تاریخ درخواست
+a_select_experts,انتخاب کارشناس
+a_expert_name,نام کارشناس
+a_change_request_poster_expert,تغییر اطلاعات درخواست کارشناس برای آگهی با ای دی 
+a_sent_address,ارسال آدرس
+a_select_sent_address_expert_id,انتخاب کارشناس و ارسال آدرس برای درخواست با ای دی 
+a_done,تمام شد
+a_to_cancel,کنسل کردن
+a_answer_expert_pending,در انتظار پاسخ کارشناس
+a_notic_expert_but_not_sent_sms,در انتخاب کارشناس ، برای کارشناس آدرس آگهی پیامک می شود در صورت عدم ارسال پیامک از این قسم استفاده کنید.
+a_sent_address_sms,آدرس پیامک شد.
+u_poster_expert_accepted,تایید درخواست کارشناس
+u_poster_expert_rejected,عدم پذیرش درخواست کارشناس
+u_poster_expert_completed,اعلام نتیجه برای درخواست کارشناس
+u_poster_expert_canceled,لغو درخواست کارشناس
+u_poster_expert_accepted_text,برای آگهی درخواستی به زودی کارشناس ارسال خواهد شد  <br><a href="/poster/detail/#PARAM1#">نمایش آگهی</a>
+u_poster_expert_rejected_text,در حال حاضر امکان ارسال کارشناس برای آگهی درخواستی وجود ندارد  <br><a href="/poster/detail/#PARAM1#">نمایش آگهی</a>
+u_poster_expert_completed_text,نتیجه گزارش کارشناس برای آگهی خودرو اعلام شد.  <br><a href="/poster/detail/#PARAM1#">نمایش آگهی</a>
+u_poster_expert_canceled_text,ارسال کارشناس برای آگهی درخواستی وجود توسط مدیریت لغو گردید.  <br><a href="/poster/detail/#PARAM1#">نمایش آگهی</a>
+a_change_address,تغییر آدرس
+a_request_expert_pending,درخواست کارشناس جدید
+a_request_expert_accepted,درخواست کارشناس در حال پاسخگویی
+u_academyy,آکــــادمی
+u_post_new_education,بروزترین مطالب و آموزش ها
+u_post_click_education,لطفا کلیک کنید
+u_poster_new,جدیدترین آگهی ها
+u_code_cargo,کد بار
+a_price_upgrade_ladder,قیمت ارتقا به نردبان
+a_price_upgrade_immediate,قیمت ارتقا به فوری
+u_upgrade,ارتقا
+a_dollar,دلار
+a_euro,یورو
+a_toman,تومان
+a_update_settings_poster_price_time,بروزرسانی تنظیمات قیمت و زمان آگهی
+u_list_my_poster,لیست آگهی های من
+u_list_my_poster_all,همه آگهی ها
+u_list_my_poster_accepted,آگهی های در حال نمایش
+u_list_my_poster_needed,آگهی های نیاز به اصلاح
+u_poster_needed,نیاز به اطلاح
+u_list_my_poster_expired,آگهی های منقضی شده
+u_list_my_poster_desc, در این قسمت لیست آگهی های خود را مشاهده می کنید.
+u_list_my_poster_search_plcaeholder,عنوان آگهی را وارد کنید.
+u_poster_list_title,عنوان آگهی
+u_poster_list_date,تاریخ ثبت
+u_axis,محور
+u_has_expert,کارشناسی شده
+b_dashboard_air,هوایی
+b_dashboard_rail,ریلی
+b_dashboard_ship,دریایی
+b_dashboard_inventory,انبار داری
+d_dashboard_driver,رانندگان
+b_dashboard_businessman,تجار
+u_poster_price,قیمت پیشنهادی
+u_options,آپشن ها
+u_description_expert,توضیحات کارشناس
+u_report_poster,گزارش آگهی
+u_delete_reason_poster,حذف آگهی
+u_report_poster_desc,در صورتیکه مشکلی در آگهی مشاهده کردید آن را گزارش کنید
+u_opt_out,انصراف
+u_report_input_placeholder,علت گزارش آگهی را عنوان کنید.
+u_delete_input_placeholder,علت حذف آگهی را عنوان کنید.
+u_report_alert_1,در ثبت گزارش مشکلی پیش آمده بعدا دوباره تلاش کنید.
+u_report_alert_2,شما قبلا این آگهی را گزارش کرده بودید.
+u_report_alert_3,از ثبت گزارش شما تشکر می کنیم و به زودی بررسی خواهد شد.
+u_poste_report_title,مشکل در کدام قسمت آگهی می باشد؟!
+u_poste_report_desc,نزدیک ترین گزینه را انتخاب کنید ، کارشناسان ما گزارش شما را بررسی می کنند.
+u_poste_reason_delete_title,علت حذف آگهی را بیان کنید.
+u_poste_reason_delete_desc,نزدیک ترین گزینه را انتخاب کنید ، تا در آینده باعث بهبود برنامه و ارائه بهتر خدمات شویم .
+u_reason_delete_alert_1,در حذف آگهی مشکلی پیش آمده بعدا دوباره تلاش کنید.
+u_reason_delete_alert_2,آگهی شما با موفقیت حذف گردید.
+u_upgrade_text_from_modal,ارتقای آگهی خود جهت بهتر دیده شدن
+u_upgrade_to,ارتقا به
+u_quick,فــوری
+u_quick_desc,ارتقا آگهی به فوری ، به منزله فروش سریعتر و افزوده شدن علامت فوری به منظور متفاوت دیده شدن.
+u_ladder,نــردبان
+u_ladder_desc,نردبان کردن آگهی ، آگهی شما را در بالای آگهی ها آورده و باعث بیشتر دیده شدن آگهی شماست
+u_price,قیمت
+u_direct_bank_payment,پرداخت مستقیم بانکی
+a_seo_blog,سئو وبلاگ
+a_poster_expert,درخواست کارشناس
+u_request,درخواست
+u_expert_officer,کارشناس رسمی
+u_expert_officer_modal_desc,کارشناسان رسمی ما خودرو شما را بررسی می کنند و مشتریان برای خرید بیشتر ترغیب می شوند.
+u_expert_officer_time,حداکثر زمان حضور
+a_expert_officer_time,حداکثر زمان حضور کارشناس
+a_expert_officer_price,قیمت درخواست کارشناس
+a_price_not_enough,موجوی کیف پول کافی نیست
+u_alert_set_expert_1,شما قبلا برای این آگهی درخواست کارشناس داده اید.
+u_alert_set_expert_2,در ثبت کارشناس مشکلی پیش آمده بعدا تلاش کنید.
+u_alert_set_expert_3,موجودی کیف پول شما کم است.
+u_alert_set_expert_4,آدرس دقیق خود را وارد کنید.
+u_alert_set_expert_5,درخواست کارشناس برای آگهی شما ثبت شد و بزودی کارشناسان ما با شما تماس خواهند گرفت.
+u_alert_set_upgrade_1,درخواست ارتقا آگهی به حالت نردبان برای شما انجام شد.
+u_alert_set_upgrade_2,درخواست ارتقا آگهی به حالت فوری برای شما انجام شد.
+u_alert_set_upgrade_3,موجودی کیف پول شما کم است.
+u_alert_set_upgrade_4,در ارتقا آگهی مشکلی پیش آمده بعدا تلاش کنید.
+u_alert_set_upgrade_5,هنوز حالت فوری این آگهی تمام نشده است.
+uLog_submit_wallet_transaction_from_poster_ladder,ثبت تراکنش از کیف پول برای نردبان کردن آگهی
+uLog_submit_wallet_balance_from_poster_ladder,کم کردن موجودی از کیف پول و نردبان کردن آگهی
+uLog_submit_wallet_balance_from_poster_ladder_error,خطا در کم کردن موجودی از کیف پول و نردبان کردن آگهی
+uLog_submit_wallet_transaction_from_poster_quick,ثبت تراکنش از کیف پول برای فوری کردن آگهی
+uLog_submit_wallet_balance_from_poster_quick,کم کردن موجودی از کیف پول و فوری کردن آگهی
+uLog_submit_wallet_balance_from_poster_quick_error,خطا در کم کردن موجودی از کیف پول و فوری کردن آگهی
+uLog_submit_wallet_transaction_from_poster_expert,ثبت تراکنش از کیف پول برای درخواست کارشناسی آگهی
+uLog_submit_wallet_balance_from_poster_expert,کم کردن موجودی از کیف پول و درخواست کارشناسی آگهی
+uLog_submit_wallet_balance_from_poster_expert_error,خطا در کم کردن موجودی از کیف پول و درخواست کارشناسی آگهی
+uLog_delete_poster,پاک کردن آگهی
+uLog_report_poster,گزارش محتوای آگهی
+uLog_submit_new_poster_truck,ثبت آگهی جدید از نوع از نوع کشنده
+uLog_submit_new_poster_trailer,ثبت آگهی جدید از نوع از نوع تریلر
+uLog_edit_insert_poster_truck,ویرایش و ثبت فرزند برای آگهی از نوع کشنده
+uLog_edit_insert_poster_trailer,ویرایش و ثبت فرزند برای آگهی از نوع تریلر
+uLog_edit_update_poster_truck,ویرایش  آگهی از نوع کشنده
+uLog_edit_update_poster_trailer,ویرایش آگهی از نوع تریلر
+u_no_menu_active,امکان ویرایش این آگهی وجود ندارد.
+a_list_poster_reports,لیست گزارشات آگهی
+a_new_report,گزارش جدید
+a_new_report_poster,گزارش جدید برای آگهی
+a_reviewed,بررسی شده
+a_report_status_change,وضعیت گزارش تغییر کرد.
+u_slider_right_to_left,اسلایدر را به چپ و راست بکشید تا سال تولید انتخاب شود
+p-city-filter-modal,شهر
+p-country-filter-modal,کشور
+u_immediate,فوری
+u_select_city_after_country_enable,انتخاب شهر بعد از انتخاب کشور امکان پذیر است
+u_advanced_search,جستجوی پیشرفته
+u_poster_filter_select_city,انتخاب کشور و شهر 
+u_low,کمتر
+u_poster_select_location_default,انتخاب موقعیت
+u_poster_all_city,همه
+u_poster_cash,نقدی
+u_poster_installments,اقساطی
+u_poster_leasing,لیزینگ
+u_my_filter,فیلتر های من
+u_my_filter_2,فیلتر من
+u_do_you_sure_filter,آیااز حذف فیلتر اطمینان دارید؟
+u_info,مشخصات
+u_price_range,محدوده قیمت
+u_based_on_km,براساس کیلومتر
+u_search_options,جستجوی آپشن
+u_option,آپشن
+u_details_of_the_current_filter,جزئیات فیلتر فعلی
+u_delete_city_country,پاک کردن شهر و کشور
+u_save_filter,ذخیره فیلتر
+u_my_posters,آگهی های من
+u_currently_the_search_is_based_on_the_filter_you_selected,در حال حاضر جستجو بر اساس فیلتر انتخابی شماست
+a_seo_robots,تنظیمات فایل robots.txt
+a_show_academy,مشاهده آکادمی
+a_type_2_selected,انتخاب نوع رده
+a_type_2_no_select,رده برند را انتخاب کنید.
+u_filter_see,مشاهده
+u_filter_built_year,سال تولید 
+u_filter_miladi,میلادی
+u_filter_shamsi,شمسی
+u_poster_brand, نوع برند
+u_filter_fuel, نوع سوخت
+u_poster_gear_box, گیر بکس نوع گیربکس
+u_poster_trailer_type,نوع تریلر
+u_poster_from_price,از قیمت
+u_poster_to_price,تا قیمت
+u_poster_from_year,از سال
+u_poster_to_year,تا سال
+u_poster_country_and_city,کشور / شهر
+u_driver_see_available_cargo,مشاهده بار های موجود
+a_employ,استخدامی
+a_employ_list,لیست استخدامی
+a_gender,جنسیت
+a_man,مرد
+a_female,زن
+a_military_service,نظام وظیفه
+a_military_service_end,دارای پایان خدمت
+a_military_service_sponsorship,کفالت
+a_military_service_exempt,معاف
+a_military_service_exempt_type,نوع معاف
+a_employ_marital,وضعیت تاهل
+a_married,متاهل
+a_single,مجرد
+a_employ_home_status,وضعیت مسکن
+a_employ_home_status_personal,شخصی
+a_employ_home_status_rental,استیجاری
+a_employ_home_status_father,پدری
+a_employ_insurance_status,وضعیت بیمه
+a_employ_insurance_status_tamin,تامین اجتماعی
+a_employ_insurance_status_darman,خدمات درمانی
+a_employ_insurance_status_mosalah,نیروهای مسلح
+a_employ_insurance_status_no,بدون بیمه
+a_employ_insurance_date,سابقه پرداخت بیمه
+a_employ_company,سابقه خدمت و کار
+a_reason,علت
+a_education_list,سابقه تحصیل
+a_education_1,دوره دیپلم
+a_education_2,دوره کاردانی
+a_education_3,دوره کارشناسی
+a_education_4,دوره ارشد
+a_education_5,دوره دکترا
+a_education_location,نام محل تحصیل
+a_education_title,رشته تحصیلی
+a_languages_gh,زبان های خارجی
+a_languages_talk,مکالمه
+a_languages_read,خواندن
+a_languages_write,نوشتن
+a_star_1,ضعیف
+a_star_2,متوسط
+a_star_3,خوب
+a_star_4,عالی
+a_training_courses_degrees,دوره های آموزشی و مدرک
+a_employ_work,آیا اکنون مشغول به کار هستید
+a_employ_guarantee,در صورت لزوم می توانید تضمین بدهید
+a_employ_transfer,در صورت لزوم می توانید تضمین بدهید
+a_employ_price,مبلغ پیشنهادی
+a_employ_representative_name,نام معرف
+a_employ_representative_phone,شماره تماس معرف
+a_employ_representative_job,شغل معرف
+a_employ_representative_address,آدرس معرف
+a_employ_employ,نحوه آگاهی از استخدام
+a_employ_employ_post,آگهی
+a_employ_employ_relatives,آشنا یا اقوام
+a_employ_employ_jober,کاریابی
+a_employ_employ_other,دیگر
+a_start_process,شروع به بررسی
+a_start_completed,اتمام بررسی و تکمیل
+a_change_employ_status_process,تغییر وضعیت استخدامی به حالت در حال بررسی با ای دی 
+a_change_employ_status_completed,تغییر وضعیت استخدامی به حالت اتمام بررسی و تمکیل شده با ای دی 
+a_add_employ_desc,افزودن توضیحات برای استخدام با ای دی 
+u_alert_success_add_employ, اطلاعات شما با موفقیت ثبت شد
+u_alert_warning_add_employ,در ثبت اطلاعات شما خطایی رخ داده بعدا تلاش کنید.
+a_settings_sitemap,تنظیمات sitemap
+a_settings_sitemap_update,بروزرسانی تنظیمات sitemap
+a_set_admin,مدیران اختصاص یافته
+a_set_admin_min_one,حداقل یک مدیر با تعیین کنید!
+a_set_admin_from_cargo_out_id,تعیین مدیر برای بار بین المللی با ای دی 
+a_set_admin_from_cargo_in_id,تعیین مدیر برای بار داخلی با ای دی 
+a_add_desc_admin_cargo_out,افزودن توضیحات توسط مدیر برای بار بین المللی با ای دی 
+a_add_desc_admin_cargo_in,افزودن توضیحات توسط مدیر برای بار داخلی با ای دی 
+u_change_user_lang_to_fa_IR,تغییر زبان به فارسی
+u_change_user_lang_to_en_US,تغییر زبان به انگلیسی
+u_change_user_lang_to_ru_RU,تغییر زبان به روسی
+u_change_user_lang_to_tr_Tr,تغییر زبان به ترکی
+a_value_old,مقدار اولیه
+a_value_new,مقدار جدید
+a_change_request_status,تغییر وضعیت درخواست
+a_change_cargo_recommended_price,تغییر مبلغ
+a_change_cargo_monetary_unit,تغییر واحد پولی
+a_change_cargo_origin_id,تغییر واحد پولی
+change_request_status_to_accepted,تغییر وضعیت درخواست به حالت تایید شده با ای دی 
+a_submit_users,کاربران ثبت نامی
+a_reason_deleted,آگهی های حذف شده
+a_report_result,نتیجه گزارش
+a_report_general,گزارش گیری عمومی
+a_category_selected,نوع دسته انتخابی
+a_cargo_out,حمل و نقل بین المللی
+a_cargo_in,حمل و نقل داخلی
+a_check_list,چک لیست
+a_check_list_cargo,چک لیست بار
+a_new_brand,دارای برند جدید
+a_new_model,دارای مدل جدید
+u_all_cargoes_out,همه بارهای بین المللی
+u_all_cargoes_in,همه بارهای داخلی
+u_general,کاربر عادی
+u_contact_us_2,تماس با ما
+cargo_in,بار داخلی
+u_cargo_filter,فیلتر بار ها 
+u_cargo_filter_submit,اعمال فیلتر
+u_cargo_filter_remove_all,پاک کردن همه
+u_poster_call_customer,ارتباط با صاحب آگهی
+u_cargo_filter_desc,برای راحتی در پیدا کردن بار مورد نظر از فیلتر ها استفاده کنید
+nLog_accept_request_in_text,تاجر پیشنهاد شما را برای بار داخلی زیر تایید کرده است <br> <a href="/driver/cargo-in/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_accept_request_in_title,تایید پیشنهاد شما توسط تاجر
+uLog_accept_request_in,تایید پیشنهاد راننده
+nLog_reject_request_in_text,پیشنهاد شما برای بار داخلی زیر مورد تایید تاجر قرار نگرفت.  <br> <a href="/driver/cargo-in/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_reject_request_in_title,رد پیشنهاد شما توسط تاجر
+uLog_reject_request_in,رد پیشنهاد راننده
+uLog_request_extra_expenses_in,ثبت درخواست هزینه اضافی
+nLog_request_extra_expenses_in_text,برای بار داخلی زیر راننده هزینه اضافی درخواست کرده است  <br><b>#PARAM1#</b>   <a href="/businessman/cargo-in-detail/#PARAM3#"><b>#PARAM2#</b></a> 
+nLog_request_extra_expenses_in_title,درخواست هزینه اضافی توسط راننده
+uLog_cancel_request_in,لغو پیشنهاد
+nLog_cancel_request_in_text,برای بار داخلی زیر پیشنهادی لغو شده است <br><a href="/businessman/cargo-in-detail/#PARAM2#"><b>#PARAM1#</b></a>
+uLog_submit_complaint_in,ثبت شکایت جدید
+uLog_send_request_in,ارسال پیشنهاد به بار
+nLog_send_request_in_text,برای بار داخلی زیر پیشنهاد جدیدی ارسال شده است  <br><a href="/businessman/cargo-in-detail/#PARAM2#"><b>#PARAM1#</b></a>
+nLog_send_request_in_title,پیشنهاد جدید
+uLog_start_transportation_in,اعلام شروع بارگیری
+nLog_start_transportation_in_text,برای بار زیر راننده اعلام بارگیری کرد  <br><b>#PARAM1#</b><a href="/businessman/cargo-in-detail/#PARAM3#"><b>#PARAM2#</b></a>
+uLog_end_transportation_in,اعلام اتمام سفر بار داخلی
+nLog_end_transportation_in_text,بار داخلی شما به مقصد رسید . <br><b>#PARAM1#</b><a href="/businessman/cargo-in-detail/#PARAM2#"><b>#PARAM3#</b></a>
+nLog_end_transportation_in_title,بار داخلی شما به مقصد رسید
+nLog_start_transportation_in_title,شروع بارگیری
+u_company_tadbir,شرکت سرمایه گذاری نوین تدبیر
+u_hire_notic_1,توجه : تکمیل این فرم هیچگونه تعهد استخدامی برای شرکت ایجاد نمی نماید
+u_enter_name,نام خود را وارد کنید.
+u_enter_lname,نام خانوادگی خود را وارد کنید.
+u_enter_father_name,نام پدر خود را وارد کنید.
+u_location_birthday,محل تولد
+u_enter_location_birthday,شهر محل تولد خود را وارد کنید.
+u_code_melle,کد ملی
+u_military_service,خدمت نظام وظیفه
+u_military_service_end,پایان خدمت
+u_enter_military_service_exempt_type,نوع معافیت خود را وارد کنید.
+u_number_child,تعداد فرزند
+u_not_have,ندارم
+u_home_number,شماره منزل
+u_address_home,نشانی محل سکونت
+u_enter_address_home,نشانی محل سکونت خود را وارد کنید.
+u_employ_company,سابقه خدمت
+u_enter_employ_company,کلیه مشاغلی را که تاکنون داشته اید به ترتیب ذکر کنید.
+u_enter_company_name,نام موسسه یا شرکت یا سازمان
+u_left_work_reason,علت ترک کار
+u_delete_item,حذف مورد جدید
+u_add_item_1,افزودن سابقه خدمت
+u_education_1_title,رشته تحصیلی دیپلم
+u_education_2_title,رشته تحصیلی کاردانی
+u_education_3_title,رشته تحصیلی کارشناسی
+u_education_4_title,رشته تحصیلی ارشد
+u_education_5_title,رشته تحصیلی دکترا
+u_enter_training_courses_degrees,اگر مدرک یا دوره آموزشی را دریافت و یا گدرانده اید در زیر ذکر کنید.
+u_course_title,عنوان دوره یا مدرک
+u_address_company_2,آدرس موسسه
+u_course_time,مدت آموزش
+u_add_item_2,افزودن دوره آموزشی و مدرک
+u_language_title,زبان خارجی
+u_add_language_title,افزودن زبان
+u_do_you_work_new,آیا اکنون مشغول به کار هستید؟
+u_do_you_tazmin,در صورت لزوم می توانید تضمین بدهید?
+u_are_you_ready_to_go_to_other_cities_or_branches,در صورت انتقال یا ماموریت حاضر به رفتن به شهرستان ها یا شعبات دیگر هستید؟
+u_enter_min_price,حدود حقوق مورد درخواست خود را تعیین نمائید.
+u_enter_min_price_2,مبلغ مورد درخواستی
+u_representative_name,یک نفر معرف تعیین کنید
+u_how_to_find_out_about_employment,نحوه آگاهی از استخدام؟
+u_hire_2,سایر
+u_next,بعدی
+u_custom,مشتری
+u_own,خودی
+a_change_user_type_own,تبدیل کاربر به کاربر خودی با ای دی
+a_change_user_type_null,تبدیل کاربر به کاربر غیر خودی با ای دی
+a_user_class,کلاس کاربر
+a_employ_title,دسته بندی عنوان شغل
+a_employ_title_add,افزودن عنوان شغل
+a_employ_title_edit,ویرایش عنوان شغل
+a_employs_titles,عناوین شغل
+a_list_requests,لیست درخواست کننده ها
+a_hire_category_add_id,افزودن دسته بندی عنوان شغلی با ای دی 
+a_hire_category_edit_id,ویرایش دسته بندی عنوان شغلی با ای دی 
+d_continue_otp,ادامه
+u_contact_info,اطلاعات تماس
+u_hire_profile,تصویر شخصی
+u_file_cv,فایل ارسالی و رزومه
+u_employ_country,نام کشور محل زندگی
+u_employ_state,نام استان محل زندگی
+u_employ_city,نام شهر محل زندگی
+u_employ_category_request,عنوان شغلی درخواستی
+u_employ_a_no_file_attach,بدون فایل ضمیمه
+u_employ_invite,دعوت به همکاری
+u_permissions,مجوز ها
+u_filter_cargo_international,بین المللی
+u_filter_cargo_in,داخلی
+u_filter_cargo_all,همه
+u_filter_cargo_pending,در حال بررسی
+u_filter_cargo_accepted,تایید شده
+u_filter_cargo_process,در حال اجرا
+u_filter_cargo_completed,تکمیل شده
+u_filter_cargo_expired,منقضی شده
+u_filter_cargo_rejected,رد شده
+u_filter_cargo_canceled,لغو شده
+u_cargo_apply_filter, اعمال فیلتر
+u_cargo_in, داخلی
+u_cargo_out, خارجی
+u_hire_menu, استخدام
+u_academy_menu, آکادمی
+a_chart_hire_category,آمار دسته بندی عنوان شغل
+a_delete_employ_id,پاک کردن اطلاعات استخدامی با ای دی 
+edit_cargo_in_location,ویرایش اطلاعات مکانی بار داخلی با ای دی 
+list_complaints_in,لیست شکایات بار داخلی
+a_cargo_out_2,بار بین المللی
+a_cargos_out,بارهای بین المللی
+a_answer_complaint_in_now_answer_id,پاسخگویی اولیه به شکایت بار داخلی با ای دی 
+a_answer_complaint_out_now_answer_id,پاسخگویی اولیه به شکایت بار بین المللی با ای دی 
+a_answer_complaint_in_closed_id,بستن شکایت بار داخلی با ای دی 
+a_answer_complaint_out_closed_id,بستن شکایت بار بین المللی با ای دی 
+a_hire_pending,استخدامی جدید
+u_filter_cargoes_refresh,بازنشانی فیلتر
+u_driver_myrequests_title,پیشنهاد های من
+a_cargo_progress,بار در حال انجام
+a_my_request_and_cargos,پیشنهادات و بارهای من
+uLog_cancel_cargo_in,لغو بار داخلی
+u_my_request_and_cargos,پیشنهادات و بارهای من
+u_no_active_cargo,در حال حاضر بار فعالی ندارید
+a_set_admin_from_cargo_out,نقش های مدیریت تصمیم گیرنده بار بین المللی
+a_set_admin_from_cargo_in,نقش های مدیریت تصمیم گیرنده بار داخلی
+nLog_accept_expense_in_text,تاجر برای بار داخلی زیر درخواست هزینه اضافی شما را تایید کرده است . <br><a href="/driver/cargo-in/#PARAM2#"><b>#PARAM1#</b></a> 
+nLog_reject_expense_in_text,تاجر برای بار داخلی زیر درخواست هزینه اضافی شما را رد کرده است .<br><a href="/driver/cargo-in/#PARAM2#"><b>#PARAM1#</b></a> 
+nLog_accept_expense_in_title,تایید هزینه اضافی توسط تاجر
+nLog_reject_expense_in_title,رد هزینه اضافی توسط تاجر
+u_enter_name_country,نام کشور محل زندگی خود را وارد کنید.
+u_enter_name_state,نام استان محل زندگی خود را وارد کنید.
+u_enter_name_city,نام شهر محل زندگی خود را وارد کنید.
+u_login_enter_phone_number,شماره موبایل خود را باید بصورت صحیح وارد کنید
+u_enter_profile_picture,وارد کردن تصویر شخصی الزامی می باشد.
+u_select_category_title_employ,انتخاب حداقل یک عنوان شغلی اجباری است.
+u_employ_before_set,اطلاعات شما قبلا ثبت شده است و در حال بررسی می باشد در صورت بروز مشکل می توانید از طریق تیکت با ما در ارتباط باشید.
+a_change_employ_status_reject,تغییر وضعیت استخدامی به حالت رد شده با ای دی 
+u_driver_out_available_cargo,مشاهده بار های بین المللی
+u_driver_in_available_cargo,مشاهده بار های داخلی
+site_new_cargos_out,جدیدترین  بارهای بین المللی 
+site_new_cargos_in,جدیدترین  بارهای داخلی 
+u_auth_1,به بخش احراز هویت خوش آمدید!
+u_auth_2,لطفا در وارد کردن اطلاعات هویتی به موارد زیر دقت کنید
+u_alert_error_auth_id_card_invalid,کد ملی نامعتبر است دوباره تلاش کنید.
+u_name_last_name,نام و نام خانواگی
+u_auth_3,خود را دقیقا مطابق کارت ملی خود وارد نمائید
+u_auth_4,خود را به صورت دقیق مطابق کارت ملی خود وارد نمائید
+u_auth_5,خود را به صورت دقیق وارد نمائید
+u_auth_6,در صورت رعایت نکردن موارد بالا احراز هویت شما به صورت خودکار توسط سیستم رد خواهد شد .
+u_understand,فهمیدم
+u_please_enter_name_and_last_name,لطفا نام و نام خانوادگی خود را وارد کنید
+u_back_to_academy,بازکشت به آکادمی
+u_search_brand_2,جستجوی برند
+b_customs_services,خدمات گمرکی
+u_inquiry_customs,استعلام گمرک
+u_submit_inquiry_customs,ثبت استعلام قیمت گمرک جدید
+b_inquiry_customs,استعلام ثبت بار در گمرک
+a_inquiry_customs_title,استعلام قیمت گمرک
+inquiry_customs,استعلام گمرک
+a_inquiry_customs,استعلام گمرک
+a_transportations_type,نوع حمل و نقل
+a_list_commodity,لیست کالاها
+a_name_commodity,نام کالا
+a_hscode_commodity,hs کد کالا
+a_category_commodity,نوع کالا
+change_inquiry_customs_info,ویرایش اطلاعات استعلام قیمت گمرک با ای دی 
+change_inquiry_customs_status_id,تغییر وضعیت استعلام قیمت گمرک با ای دی 
+a_add_desc_admin_from_inquiry_customs_id,افزودن توضیحات مدیر برای استعلام قیمت گمرک با ای دی 
+u_code_inquiry,کد استعلام
+0,nLog_accept_request_title_SMS_TEXT
+1,درخواست شما پذیرفته شد 
+2,nLog_reject_request_title_SMS_TEXT
+3,درخواست شما رد شد
+4,nLog_accept_request_in_title_SMS_TEXT
+5,درخواست شما برای بار داخلی پذیرفته شد
+6,nLog_reject_request_in_title_SMS_TEXT
+7,درخواست شما برای بار خارجی پذیرفته شد
+8,nLog_accept_expense_title_SMS_TEXT
+9,درخواست هزینه اضافی شما پذیرفته شد
+10,nLog_reject_expense_title_SMS_TEXT
+11,درخواست هزینه اضافی شما رد  شد
+12,nLog_accept_expense_in_title_SMS_TEXT
+13,درخواست هزینه اضافی شما برای بار داخلی پذیرفته شد
+14,nLog_reject_expense_in_title_SMS_TEXT
+15,درخواست هزینه اضافی شما برای بار داخلی رد  شد
+16,nLog_send_request_title_SMS_TEXT
+17,درخواستی برای بار شما ارسال شده است 
+18,nLog_send_request_in_title_SMS_TEXT
+19,درخواستی برای بار شما ارسال شده است 
+20,nLog_start_transportation_title_SMS_TEXT
+21,بارگیری و انتقال بار شما شروع شده
+22,nLog_start_transportation_in_title_SMS_TEXT
+23,بارگیری و انتقال بار شما شروع شده
+24,nLog_request_extra_expenses_title_SMS_TEXT
+25,درخواست هزینه اضافی برای بار شما ثبت شده است
+26,nLog_request_extra_expenses_in_title_SMS_TEXT
+27,درخواست هزینه اضافی برای بار شما ثبت شده است
+28,nLog_end_transportation_title_SMS_TEXT
+29,بارگیری و انتقال بار شما پایان یافت
+30,nLog_end_transportation_in_title_SMS_TEXT
+31,بارگیری و انتقال بار شما پایان یافت
+32,uLog_cancel_request_SMS_TEXT
+33,درخواست بار شما لغو شد
+34,uLog_cancel_request_in_SMS_TEXT
+35,درخواست بار شما لغو شد
+36,u_poster_expert_accepted_SMS_TEXT
+37,درخواست کارشناس  پذیرفته شد.
+38,u_poster_expert_rejected_SMS_TEXT
+39,درخواست کارشناس  رد شد.
+40,u_poster_expert_completed_SMS_TEXT
+41,درخواست کارشناس  کامل شد.
+42,u_poster_expert_canceled_SMS_TEXT
+43,درخواست کارشناس  لغو شد.
+44,expire_title_SMS_TEXT
+45,بار شما منسوخ شد
+u_call_owner_modal_title,تماس با صاحب کالا
+u_call_owner_modal_mobile,موبایل
+u_call_owner_modal_calling,تماس
+u_close_call_owner_modal,بستن
+requests_list_in,لیست درخواست های بار داخلی
+requests_list_out,لیست درخواست های بار بین المللی
+u_select_transportations_please,نوع حمل و تقل را انتخاب کنید.
+u_commodity,افزودن کالا
+u_enter_customs_please,نام گمرک را وارد کنید.
+u_enter_name_commodity,نام کالا را وارد کنید.
+u_select_category_commodity,نوع کالا را انتخاب کنید.
+u_enter_hscode_commodity,کد کالا را وارد کنید.
+a_weight,وزن کالا
+u_enter_weight,وزن کالا را وارد کنید.
+a_volume,حجم کالا
+u_enter_volume,حجم کالا را وارد کنید.
+a_request_in_pending,لیست درخواست های بار داخلی در حال انتظار
+a_request_in_accepted,لیست درخواست های بار داخلی تایید شده
+a_request_in_rejected,لیست درخواست های بار داخلی رد شده
+a_request_in_progress,لیست درخواست های بار داخلی در حال انجام
+a_request_in_canceled,لیست درخواست های بار داخلی لغو شده
+a_request_in_completed,لیست درخواست های بار داخلی تکمیل شده
+a_request_out_pending,لیست درخواست های بار بین المللی در حال انتظار
+a_request_out_accepted,لیست درخواست های بار بین المللی تایید شده
+a_request_out_rejected,لیست درخواست های بار بین المللی رد شده
+a_request_out_progress,لیست درخواست های بار بین المللی در حال انجام
+a_request_out_canceled,لیست درخواست های بار بین المللی لغو شده
+a_request_out_completed,لیست درخواست های بار بین المللی تکمیل شده
+u_inquiry_customs_list,لیست استعلام خدمات گمرکی 
+u_inquiry_customs_list_sub_title, در این بخش میتوانید لیست استعلام های خدمات گمرکی خود را مشاهده کنید
+u_inquiry_customs_list_search_place_holder,جستجو در  استعلام های خدمات گمرکی
+u_inquiry_customs_all,همه
+u_inquery_customs_table_title,نام 
+u_inquery_customs_name_prefix,استعلام 
+u_inquery_customs_category_name_replace,گمرکی 
+u_customs_date,تاریخ ورود به گمرک 
+u_customs_transportation,نوع حمل و نقل 
+u_customs_start_date,تاریخ ثبت
+u_customs_description,توضیحات
+u_customs,گمرک
+tickets_open_customs,تیکت های باز گمرک
+tickets_customs,تیکت های گمرک
+tickets_all_customs,تیکت های گمرک
+u_customs_cargo_lists,لیست بار ها 
+u_customs_cargo_volume_unit,متر مکعب
+u_customs_cargo_volume,حجم
+u_customs_cargo_weight,وزن
+u_customs_cargo_code,کد
+u_change_language,تغییر زبان
+d_drivers_title,خدمات راننده
+u_cargo_id_placeholder,لطفا شناسه بار را وارد کنید
+nLog_accept_request_title_SMS_TEXT,پیشنهاد قیمت شما برای بار پذیرفته شد سامانه حمل ونقلnTirApp
+nLog_reject_request_title_SMS_TEXT,پیشنهاد قیمت شما برای بار پذیرفته نشد سامانه حمل ونقلnTirApp
+nLog_accept_request_in_title_SMS_TEXT,پیشنهاد قیمت شما برای بار پذیرفته شد سامانه حمل ونقلnTirApp
+nLog_reject_request_in_title_SMS_TEXT,پیشنهاد قیمت شما برای بار پذیرفته نشد سامانه حمل ونقلnTirApp
+nLog_accept_expense_title_SMS_TEXT,درخواست هزینه اضافی شما پذیرفته شد سامانه حمل ونقلnTirApp
+nLog_reject_expense_title_SMS_TEXT,درخواست هزینه اضافی شما رد  شد سامانه حمل ونقلnTirApp
+nLog_accept_expense_in_title_SMS_TEXT,درخواست هزینه اضافی شما پذیرفته شد سامانه حمل ونقلnTirApp
+nLog_reject_expense_in_title_SMS_TEXT,درخواست هزینه اضافی شما رد  شد سامانه حمل ونقلnTirApp
+nLog_send_request_title_SMS_TEXT,برای بارشما توسط راننده پیشنهاد قیمت شده است سامانه حمل ونقلnTirApp 
+nLog_send_request_in_title_SMS_TEXT,برای بارشما توسط راننده پیشنهاد قیمت شده است سامانه حمل ونقلnTirApp 
+nLog_start_transportation_title_SMS_TEXT,بارگیری و انتقال بار شما شروع شد سامانه حمل ونقلnTirApp
+nLog_start_transportation_in_title_SMS_TEXT,بارگیری و انتقال بار شما شروع شد سامانه حمل ونقلnTirApp
+nLog_request_extra_expenses_title_SMS_TEXT,درخواست هزینه اضافی برای بار شما ثبت شده است سامانه حمل ونقلnTirApp
+nLog_request_extra_expenses_in_title_SMS_TEXT,درخواست هزینه اضافی برای بار شما ثبت شده است سامانه حمل ونقلnTirApp
+nLog_end_transportation_title_SMS_TEXT,بارگیری و انتقال بار شما پایان یافت سامانه حمل ونقلnTirApp
+nLog_end_transportation_in_title_SMS_TEXT,بارگیری و انتقال بار شما پایان یافت سامانه حمل ونقلnTirApp
+uLog_cancel_request_SMS_TEXT,قیمت پیشنهادی شما برای بار لغو شد سامانه حمل ونقلnTirApp
+uLog_cancel_request_in_SMS_TEXT,قیمت پیشنهادی شما برای بار لغو شد سامانه حمل ونقلnTirApp
+u_poster_expert_accepted_SMS_TEXT,درخواست کارشناسی شما پذیرفته شد. سامانه حمل ونقلnTirApp
+u_poster_expert_rejected_SMS_TEXT,درخواست کارشناسی شما رد شد. سامانه حمل ونقلnTirApp
+u_poster_expert_completed_SMS_TEXT,درخواست کارشناسی شما کامل شد.سامانه حمل ونقلnTirApp
+u_poster_expert_canceled_SMS_TEXT,درخواست کارشناسی شما لغو شد. سامانه حمل ونقلnTirApp
+expire_title_SMS_TEXT,تاریخ بارگیری شما منقضی و باراز لیست انتشار حذف گردید سامانه حمل ونقلnTirApp
+title_Persian,عنوان فارسی
+title_English,عنوان انگلیسی
+title_Turkish,عنوان ترکی
+title_Russia,عنوان روسیه
+description_Persian,توضیحات فارسی
+description_English,توضیحات انگلیسی
+description_Turkish,توضیحات ترکی
+description_Russia,توضیحات روسیه
+user_firstname,نام
+user_lastname,نام خانوادگی
+user_mobile,موبایل
+customs_transportation_list,نوع حمل و نقل
+chart_customs_transportation,آمار نوع حمل و نقل
+all_customs_transportation_list,همه دسته بندی ها  نوع حمل و نقل
+customs_transportation_add,افزودن  نوع حمل و نقل
+customs_transportation_edit,ویرایش  نوع حمل و نقل
+customs_service,خدمات گمرکی
+u_help_menu, راهنما
