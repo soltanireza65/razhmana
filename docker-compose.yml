@@ -1,18 +1,20 @@
 services:
-  # caddy:
-  #   image: caddy:latest
-  #   restart: unless-stopped
-  #   container_name: caddy
-  #   env_file:
-  #     - .env
-  #   ports:
-  #     - ${CADDY_PORT_HTTP}:80
-  #     - ${CADDY_PORT_HTTPS}:443
-  #   volumes:
-  #     - ./Caddyfile:/etc/caddy/Caddyfile
-  #     - ./site:/srv
-  #     - caddy_data:/data
-  #     - caddy_config:/config
+  caddy:
+    image: caddy:latest
+    restart: unless-stopped
+    container_name: caddy
+    env_file:
+      - .env
+    ports:
+      - ${CADDY_PORT_HTTP}:80
+      - ${CADDY_PORT_HTTPS}:443
+    networks:
+      - caddy
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - ./site:/srv
+      - caddy_data:/data
+      - caddy_config:/config
 
   db:
     image: mysql
@@ -20,10 +22,12 @@ services:
     # (this is just an example, not intended to be a production configuration)
     command: --default-authentication-plugin=mysql_native_password
     restart: always
-    ports:
-      - 3306:3306
     env_file:
       - .env
+    ports:
+      - ${MYSQL_PORT}:3306
+    networks:
+      - caddy
     volumes:
       - mysql_data:/var/lib/mysql
     environment:
@@ -41,6 +45,8 @@ services:
       - .env
     ports:
       - "${WEB_PORT}:80"
+    networks:
+      - caddy
     volumes:
       - .:/app/
 
@@ -48,9 +54,9 @@ services:
     build:
       context: .
       dockerfile: docker/php/Dockerfile
-    env_file:
-      - .env
     restart: always
+    networks:
+      - caddy
     volumes:
       - .:/app/
 
@@ -58,3 +64,6 @@ volumes:
   mysql_data:
   caddy_data:
   caddy_config:
+
+networks:
+  caddy:

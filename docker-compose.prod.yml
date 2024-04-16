@@ -3,30 +3,31 @@ services:
     image: caddy:latest
     restart: unless-stopped
     container_name: caddy
-    networks:
-      - caddy
     env_file:
       - .env
     ports:
       - ${CADDY_PORT_HTTP}:80
       - ${CADDY_PORT_HTTPS}:443
+    networks:
+      - caddy
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile
       - ./site:/srv
       - caddy_data:/data
       - caddy_config:/config
+  
   db:
     image: mysql
     # NOTE: use of "mysql_native_password" is not recommended: https://dev.mysql.com/doc/refman/8.0/en/upgrading-from-previous-series.html#upgrade-caching-sha2-password
     # (this is just an example, not intended to be a production configuration)
     command: --default-authentication-plugin=mysql_native_password
-    networks:
-      - caddy
     restart: always
     env_file:
       - .env
     ports:
-      - ${MYSQL_PORT}:80
+      - ${MYSQL_PORT}:3306
+    networks:
+      - caddy
     volumes:
       - mysql_data:/var/lib/mysql
     environment:
@@ -38,8 +39,10 @@ services:
   web:
     image: soltanireza65/razhmana-web:latest
     restart: always
+    env_file:
+      - .env
     ports:
-      - ${WEB_PORT}:80
+      - "${WEB_PORT}:80"
     networks:
       - caddy
 
