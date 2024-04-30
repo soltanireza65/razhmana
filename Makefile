@@ -17,30 +17,31 @@ stop:
 	docker compose -f "docker-compose.yml" stop
 
 
+build_web:
+	docker build --pull -f "docker/nginx/Dockerfile" -t soltanireza65/razhmana-web .
+
+build_php:
+	docker build --pull -f "docker/php/Dockerfile" -t soltanireza65/razhmana-php .
+
+	
 tag_php:
-	docker tag soltanireza65/razhmana-php:latest
+	docker image tag razhmana-php soltanireza65/razhmana-php
 
 tag_web:
-	docker tag soltanireza65/razhmana-web:latest
+	docker image tag razhmana-web soltanireza65/razhmana-web
 
 
 push-php:
-	docker image push soltanireza65/razhmana-php:latest
+	docker image push soltanireza65/razhmana-php
 
 push-web:
-	docker image push soltanireza65/razhmana-web:latest
+	docker image push soltanireza65/razhmana-web
+
+tag:
+	make tag-php && make tag-web
 
 push:
 	make push-php && make push-web
 
 extract:
 	docker cp repos-web-1:/app /home/reza/repos/temp
-
-
-
-
-docker build -t baeldung-java:5 .
-docker tag baeldung-java:6 baeldung-java:8
-
-docker build --pull -f "docker/nginx/Dockerfile" -t soltanireza65/razhmana-web:latest .
-docker build --pull -f "docker/php/Dockerfile" -t soltanireza65/razhmana-php:latest .
